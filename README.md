@@ -25,7 +25,7 @@ The .csv files for each sensor contain the timestamps and readings since the arm
 
 To quickly analyse the flight data I wrote a Python script that plots both the raw sensor data and the reconstructed altitudes and vertical velocities from the sensor data files. It also annotates the state changes which it reads from the .log file to illustrate the functioning of the state machine.
 
-The conversion factors from raw sensor data to usable units are the following (I'm not that sure about the angular rate as it should be around 50 to match the magnetometer heading change):
+The conversion factors from raw sensor data to usable units are the following (I'm not that sure about the angular rate as it should be around 50 dps to match the magnetometer heading change):
 - pressure [Pa] = x/40.96
 - acceleration [g] = x*0.122/1000
 - angular rate [dps] = x*35/1000
