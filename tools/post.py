@@ -149,7 +149,6 @@ if __name__ == '__main__':
             print(choices)
             datafilename = input('Which files? ')
             if not datafilename:
-                # datafilename = '13-05-19_18-32-06'
                 datafilename = choices[-1]
         if datafilename in ('q', 'quit', 'stop', 'x', 'exit'):
             break

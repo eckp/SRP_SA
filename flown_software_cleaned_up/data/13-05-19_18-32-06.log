@@ -1,0 +1,1370 @@
+2019-05-13 18:32:06,499 root         INFO     SYSTEMS_CHECK
+2019-05-13 18:32:06,900 root         INFO     IDLE
+2019-05-13 18:32:07,300 root         INFO     IDLE
+2019-05-13 18:32:07,701 root         INFO     IDLE
+2019-05-13 18:32:08,101 root         INFO     IDLE
+2019-05-13 18:32:08,502 root         INFO     IDLE
+2019-05-13 18:32:08,902 root         INFO     IDLE
+2019-05-13 18:32:09,303 root         INFO     IDLE
+2019-05-13 18:32:09,703 root         INFO     IDLE
+2019-05-13 18:32:10,104 root         INFO     IDLE
+2019-05-13 18:32:10,504 root         INFO     IDLE
+2019-05-13 18:32:10,905 root         INFO     IDLE
+2019-05-13 18:32:11,305 root         INFO     IDLE
+2019-05-13 18:32:11,706 root         INFO     IDLE
+2019-05-13 18:32:12,106 root         INFO     IDLE
+2019-05-13 18:32:12,507 root         INFO     IDLE
+2019-05-13 18:32:12,907 root         INFO     IDLE
+2019-05-13 18:32:13,308 root         INFO     IDLE
+2019-05-13 18:32:13,708 root         INFO     IDLE
+2019-05-13 18:32:14,109 root         INFO     IDLE
+2019-05-13 18:32:14,509 root         INFO     IDLE
+2019-05-13 18:32:14,909 root         INFO     IDLE
+2019-05-13 18:32:15,310 root         INFO     ARMED
+2019-05-13 18:32:15,311 root         DEBUG    Calibrating Gyro and Accelerometer
+2019-05-13 18:32:40,344 root         DEBUG    Calibrating Barometer
+2019-05-13 18:32:45,960 root         DEBUG    Calibrated barometer to p0=104500.48876953125
+2019-05-13 18:32:45,961 root         DEBUG    Calibration done, starting threads
+2019-05-13 18:32:46,467 root         DEBUG    current pressure, altitude and vertical velocity: 104501.680078125 -0.0940097095664031 -0.0940097095664031
+2019-05-13 18:32:46,519 root         INFO     ARMED
+2019-05-13 18:32:46,571 root         DEBUG    current pressure, altitude and vertical velocity: 104501.0990234375 -0.048157062670507206 0.045852646895895896
+2019-05-13 18:32:46,670 root         DEBUG    current pressure, altitude and vertical velocity: 104501.51007812501 -0.0805945566849226 -0.1170462326241782
+2019-05-13 18:32:46,771 root         DEBUG    current pressure, altitude and vertical velocity: 104501.51886718751 -0.0812881254508291 0.040573813440399814
+2019-05-13 18:32:46,870 root         DEBUG    current pressure, altitude and vertical velocity: 104502.02349218751 -0.1211093737885937 -0.14516285769952497
+2019-05-13 18:32:46,923 root         INFO     ARMED
+2019-05-13 18:32:46,970 root         DEBUG    current pressure, altitude and vertical velocity: 104502.49439062501 -0.15826903139290685 -0.0006432255079533225
+2019-05-13 18:32:47,071 root         DEBUG    current pressure, altitude and vertical velocity: 104502.9615671875 -0.19513485246498602 -0.16751239300165166
+2019-05-13 18:32:47,171 root         DEBUG    current pressure, altitude and vertical velocity: 104504.24648906251 -0.2965298704941196 -0.10197392098629157
+2019-05-13 18:32:47,271 root         DEBUG    current pressure, altitude and vertical velocity: 104504.90343343752 -0.348369895303069 -0.20260117851043588
+2019-05-13 18:32:47,324 root         INFO     ARMED
+2019-05-13 18:32:47,370 root         DEBUG    current pressure, altitude and vertical velocity: 104505.18430062501 -0.370533276593925 -0.1139399101785184
+2019-05-13 18:32:47,471 root         DEBUG    current pressure, altitude and vertical velocity: 104506.24696550002 -0.454388295439312 -0.2661960795047793
+2019-05-13 18:32:47,582 root         DEBUG    current pressure, altitude and vertical velocity: 104506.21775300002 -0.4520831426960607 -0.10024076641741529
+2019-05-13 18:32:47,676 root         DEBUG    current pressure, altitude and vertical velocity: 104507.97120521253 -0.5904467878688267 -0.3779401167270673
+2019-05-13 18:32:47,729 root         INFO     ARMED
+2019-05-13 18:32:47,770 root         DEBUG    current pressure, altitude and vertical velocity: 104507.43513990002 -0.5481464629840416 -0.047916364890888685
+2019-05-13 18:32:47,870 root         DEBUG    current pressure, altitude and vertical velocity: 104508.65723760752 -0.644580592269991 -0.43658023434030996
+2019-05-13 18:32:47,971 root         DEBUG    current pressure, altitude and vertical velocity: 104508.01354160752 -0.5937874987528547 0.007668365115336417
+2019-05-13 18:32:48,071 root         DEBUG    current pressure, altitude and vertical velocity: 104509.66504789852 -0.7241048900747266 -0.5232396022281508
+2019-05-13 18:32:48,133 root         INFO     ARMED
+2019-05-13 18:32:48,170 root         DEBUG    current pressure, altitude and vertical velocity: 104508.93524734852 -0.666517848328667 0.06448857034986233
+2019-05-13 18:32:48,270 root         DEBUG    current pressure, altitude and vertical velocity: 104510.51035863132 -0.7908061897674056 -0.5952039834440743
+2019-05-13 18:32:48,370 root         DEBUG    current pressure, altitude and vertical velocity: 104509.78003381632 -0.7331781594988211 0.11566774358346052
+2019-05-13 18:32:48,470 root         DEBUG    current pressure, altitude and vertical velocity: 104510.49324784256 -0.7894560257224289 -0.5919614513232747
+2019-05-13 18:32:48,536 root         INFO     ARMED
+2019-05-13 18:32:48,571 root         DEBUG    current pressure, altitude and vertical velocity: 104510.33867549057 -0.7772591495304269 0.11629784541711652
+2019-05-13 18:32:48,682 root         DEBUG    current pressure, altitude and vertical velocity: 104511.32428577406 -0.8550306750238704 -0.6105368316843909
+2019-05-13 18:32:48,771 root         DEBUG    current pressure, altitude and vertical velocity: 104511.60590132995 -0.8772519966070852 0.0824467392921901
+2019-05-13 18:32:48,870 root         DEBUG    current pressure, altitude and vertical velocity: 104512.08188955675 -0.9148104906627508 -0.5870416425716174
+2019-05-13 18:32:48,938 root         INFO     ARMED
+2019-05-13 18:32:48,970 root         DEBUG    current pressure, altitude and vertical velocity: 104512.11186950147 -0.9171760940300983 0.07183646199562362
+2019-05-13 18:32:49,070 root         DEBUG    current pressure, altitude and vertical velocity: 104511.4965663329 -0.8686247512584075 -0.47978613554276495
+2019-05-13 18:32:49,170 root         DEBUG    current pressure, altitude and vertical velocity: 104512.89750341368 -0.9791672794448891 -0.04588971239042032
+2019-05-13 18:32:49,270 root         DEBUG    current pressure, altitude and vertical velocity: 104511.81932337883 -0.894092368953035 -0.34673261149663437
+2019-05-13 18:32:49,339 root         INFO     ARMED
+2019-05-13 18:32:49,370 root         DEBUG    current pressure, altitude and vertical velocity: 104512.81311991846 -0.9725089383266345 -0.11971731052497782
+2019-05-13 18:32:49,470 root         DEBUG    current pressure, altitude and vertical velocity: 104511.58436495307 -0.8755526364001737 -0.2151030484205101
+2019-05-13 18:32:49,578 root         DEBUG    current pressure, altitude and vertical velocity: 104513.43408968477 -1.0215069071666592 -0.2536998502389655
+2019-05-13 18:32:49,671 root         DEBUG    current pressure, altitude and vertical velocity: 104511.95792164997 -0.9050286489539121 -0.07711448536571205
+2019-05-13 18:32:49,743 root         INFO     ARMED
+2019-05-13 18:32:49,770 root         DEBUG    current pressure, altitude and vertical velocity: 104513.56953737282 -1.0321944516627277 -0.3554956679238846
+2019-05-13 18:32:49,870 root         DEBUG    current pressure, altitude and vertical velocity: 104512.74016544498 -0.9667524089610384 -0.003960994127451559
+2019-05-13 18:32:49,970 root         DEBUG    current pressure, altitude and vertical velocity: 104513.20426271076 -1.0033723081428811 -0.35656600031333885
+2019-05-13 18:32:50,070 root         DEBUG    current pressure, altitude and vertical velocity: 104512.916741731 -0.9806852922627978 0.019122121165376968
+2019-05-13 18:32:50,144 root         INFO     ARMED
+2019-05-13 18:32:50,170 root         DEBUG    current pressure, altitude and vertical velocity: 104513.25383985612 -1.007284217478319 -0.3475083254975262
+2019-05-13 18:32:50,270 root         DEBUG    current pressure, altitude and vertical velocity: 104511.8372996348 -0.8955108098878972 0.12898331663926102
+2019-05-13 18:32:50,370 root         DEBUG    current pressure, altitude and vertical velocity: 104513.13236875989 -0.9976994774735665 -0.41494616053344285
+2019-05-13 18:32:50,470 root         DEBUG    current pressure, altitude and vertical velocity: 104511.24718345785 -0.8489467860990193 0.2648376763498821
+2019-05-13 18:32:50,559 root         INFO     ARMED
+2019-05-13 18:32:50,573 root         DEBUG    current pressure, altitude and vertical velocity: 104512.22952782043 -0.9264600589571861 -0.4509648173382654
+2019-05-13 18:32:50,677 root         DEBUG    current pressure, altitude and vertical velocity: 104510.85321551628 -0.8178600208545653 0.3469539468175147
+2019-05-13 18:32:50,770 root         DEBUG    current pressure, altitude and vertical velocity: 104511.10686444385 -0.837874667109162 -0.42588298185903556
+2019-05-13 18:32:50,870 root         DEBUG    current pressure, altitude and vertical velocity: 104510.41597085053 -0.7833583141423521 0.3667749051025731
+2019-05-13 18:32:50,963 root         INFO     ARMED
+2019-05-13 18:32:50,971 root         DEBUG    current pressure, altitude and vertical velocity: 104511.11693686759 -0.8386694498533952 -0.4386058193841751
+2019-05-13 18:32:51,070 root         DEBUG    current pressure, altitude and vertical velocity: 104510.30055011793 -0.7742507797025098 0.3945160847432012
+2019-05-13 18:32:51,170 root         DEBUG    current pressure, altitude and vertical velocity: 104511.70116668158 -0.8847690490496437 -0.5052635067928914
+2019-05-13 18:32:51,270 root         DEBUG    current pressure, altitude and vertical velocity: 104511.16524478185 -0.8424812719963504 0.39735225332217444
+2019-05-13 18:32:51,364 root         INFO     ARMED
+2019-05-13 18:32:51,371 root         DEBUG    current pressure, altitude and vertical velocity: 104511.52401928278 -0.8707909689908807 -0.48304685310813267
+2019-05-13 18:32:51,470 root         DEBUG    current pressure, altitude and vertical velocity: 104511.35407082549 -0.857380914012628 0.37102708296820974
+2019-05-13 18:32:51,586 root         DEBUG    current pressure, altitude and vertical velocity: 104512.14890292623 -0.9200982599097279 -0.4974595136944194
+2019-05-13 18:32:51,671 root         DEBUG    current pressure, altitude and vertical velocity: 104512.3205613479 -0.9336431582396448 0.3203794763414719
+2019-05-13 18:32:51,768 root         INFO     ARMED
+2019-05-13 18:32:51,771 root         DEBUG    current pressure, altitude and vertical velocity: 104512.80017702849 -0.971487669788692 -0.48555807387402466
+2019-05-13 18:32:51,870 root         DEBUG    current pressure, altitude and vertical velocity: 104511.45801157832 -0.8655825275548902 0.3942466709411266
+2019-05-13 18:32:51,970 root         DEBUG    current pressure, altitude and vertical velocity: 104512.7059619353 -0.9640535533371315 -0.5354732922688635
+2019-05-13 18:32:52,070 root         DEBUG    current pressure, altitude and vertical velocity: 104512.05703426266 -0.9128492535563916 0.4060263036277539
+2019-05-13 18:32:52,170 root         DEBUG    current pressure, altitude and vertical velocity: 104513.04074611074 -0.9904699386892228 -0.5595466481748085
+2019-05-13 18:32:52,171 root         INFO     ARMED
+2019-05-13 18:32:52,270 root         DEBUG    current pressure, altitude and vertical velocity: 104514.02551022264 -1.068173056700936 0.28772055525326534
+2019-05-13 18:32:52,370 root         DEBUG    current pressure, altitude and vertical velocity: 104512.3954875136 -0.9395552848411572 -0.37497421149754895
+2019-05-13 18:32:52,470 root         DEBUG    current pressure, altitude and vertical velocity: 104512.95380661561 -0.9836099221402538 0.21489386242884229
+2019-05-13 18:32:52,586 root         INFO     ARMED
+2019-05-13 18:32:52,608 root         DEBUG    current pressure, altitude and vertical velocity: 104512.29920251088 -0.931957816481289 -0.2858246846888292
+2019-05-13 18:32:52,676 root         DEBUG    current pressure, altitude and vertical velocity: 104512.33081873 -0.9344525277857982 0.19090976488144878
+2019-05-13 18:32:52,770 root         DEBUG    current pressure, altitude and vertical velocity: 104511.45069013372 -0.865004817325082 -0.18779450575923012
+2019-05-13 18:32:52,871 root         DEBUG    current pressure, altitude and vertical velocity: 104511.2074284215 -0.845809846159212 0.19101375955917402
+2019-05-13 18:32:52,970 root         DEBUG    current pressure, altitude and vertical velocity: 104510.63027866947 -0.8002687364530027 -0.12347394547709784
+2019-05-13 18:32:52,997 root         INFO     ARMED
+2019-05-13 18:32:53,071 root         DEBUG    current pressure, altitude and vertical velocity: 104510.46008336221 -0.7868391096668832 0.1853420103893761
+2019-05-13 18:32:53,170 root         DEBUG    current pressure, altitude and vertical velocity: 104509.64191824809 -0.7222797825557647 -0.04656722381826961
+2019-05-13 18:32:53,270 root         DEBUG    current pressure, altitude and vertical velocity: 104508.39248075227 -0.6236890536858762 0.265398538220327
+2019-05-13 18:32:53,370 root         DEBUG    current pressure, altitude and vertical velocity: 104509.94986272347 -0.7465789458558189 -0.16480039360638526
+2019-05-13 18:32:53,401 root         INFO     ARMED
+2019-05-13 18:32:53,470 root         DEBUG    current pressure, altitude and vertical velocity: 104507.09484397683 -0.5212939936864832 0.4641436365676299
+2019-05-13 18:32:53,593 root         DEBUG    current pressure, altitude and vertical velocity: 104506.56340580378 -0.47935850516866146 -0.106384865727925
+2019-05-13 18:32:53,670 root         DEBUG    current pressure, altitude and vertical velocity: 104504.78720330646 -0.3391980987406289 0.5578896793388994
+2019-05-13 18:32:53,770 root         DEBUG    current pressure, altitude and vertical velocity: 104504.43529495553 -0.31142872713022607 -0.06797700754472967
+2019-05-13 18:32:53,806 root         INFO     ARMED
+2019-05-13 18:32:53,870 root         DEBUG    current pressure, altitude and vertical velocity: 104503.19011420768 -0.2131698981949503 0.6003595403402853
+2019-05-13 18:32:53,970 root         DEBUG    current pressure, altitude and vertical velocity: 104502.02479846444 -0.12121245523925103 0.030778136165442567
+2019-05-13 18:32:54,070 root         DEBUG    current pressure, altitude and vertical velocity: 104500.79916167865 -0.02449405310414385 0.637041988441364
+2019-05-13 18:32:54,170 root         DEBUG    current pressure, altitude and vertical velocity: 104499.08077627156 0.11111006928090982 0.163304444933952
+2019-05-13 18:32:54,210 root         INFO     ARMED
+2019-05-13 18:32:54,270 root         DEBUG    current pressure, altitude and vertical velocity: 104499.16471996793 0.10448572072188421 0.566713441038202
+2019-05-13 18:32:54,371 root         DEBUG    current pressure, altitude and vertical velocity: 104496.67184757975 0.30121056857868034 0.3436988482973529
+2019-05-13 18:32:54,470 root         DEBUG    current pressure, altitude and vertical velocity: 104497.12962753685 0.2650846087256093 0.4739161370813108
+2019-05-13 18:32:54,578 root         DEBUG    current pressure, altitude and vertical velocity: 104495.86286868881 0.3650519032517307 0.40929625799373903
+2019-05-13 18:32:54,614 root         INFO     ARMED
+2019-05-13 18:32:54,672 root         DEBUG    current pressure, altitude and vertical velocity: 104495.97030359198 0.35657355298992843 0.4180461731113775
+2019-05-13 18:32:54,770 root         DEBUG    current pressure, altitude and vertical velocity: 104492.66685745105 0.6172720973828346 0.6290651765872713
+2019-05-13 18:32:54,870 root         DEBUG    current pressure, altitude and vertical velocity: 104495.48718037359 0.39469983924377544 0.15366929766118062
+2019-05-13 18:32:54,970 root         DEBUG    current pressure, altitude and vertical velocity: 104491.98993127335 0.670694010038856 0.8421528297236247
+2019-05-13 18:32:55,019 root         INFO     ARMED
+2019-05-13 18:32:55,070 root         DEBUG    current pressure, altitude and vertical velocity: 104494.53915836138 0.4695146259415208 -0.0628770162022726
+2019-05-13 18:32:55,170 root         DEBUG    current pressure, altitude and vertical velocity: 104492.11245283118 0.6610247870958686 0.9494477079056101
+2019-05-13 18:32:55,270 root         DEBUG    current pressure, altitude and vertical velocity: 104494.32273293911 0.4865942878029038 -0.23101981387501017
+2019-05-13 18:32:55,370 root         DEBUG    current pressure, altitude and vertical velocity: 104490.59914195245 0.7804537265145509 1.148362375826696
+2019-05-13 18:32:55,423 root         INFO     ARMED
+2019-05-13 18:32:55,470 root         DEBUG    current pressure, altitude and vertical velocity: 104492.89470978879 0.5992904250876704 -0.3890811339143897
+2019-05-13 18:32:55,608 root         DEBUG    current pressure, altitude and vertical velocity: 104491.04864949947 0.7449789055186204 1.1792146186749766
+2019-05-13 18:32:55,671 root         DEBUG    current pressure, altitude and vertical velocity: 104492.60190064354 0.6223983707072795 -0.47275355533429164
+2019-05-13 18:32:55,770 root         DEBUG    current pressure, altitude and vertical velocity: 104490.54888053708 0.7844203299752175 1.223315116075417
+2019-05-13 18:32:55,824 root         INFO     ARMED
+2019-05-13 18:32:55,870 root         DEBUG    current pressure, altitude and vertical velocity: 104492.39695020234 0.6385727044936426 -0.5713258252824374
+2019-05-13 18:32:55,970 root         DEBUG    current pressure, altitude and vertical velocity: 104490.42250286718 0.794393993568894 1.2568048935431269
+2019-05-13 18:32:56,070 root         DEBUG    current pressure, altitude and vertical velocity: 104491.61287266188 0.7004509846497015 -0.6081362516733861
+2019-05-13 18:32:56,170 root         DEBUG    current pressure, altitude and vertical velocity: 104490.83897885625 0.7615259504387343 1.192199369977847
+2019-05-13 18:32:56,228 root         INFO     ARMED
+2019-05-13 18:32:56,270 root         DEBUG    current pressure, altitude and vertical velocity: 104490.9074856295 0.7561194459221919 -0.5527291310225899
+2019-05-13 18:32:56,370 root         DEBUG    current pressure, altitude and vertical velocity: 104490.76200339751 0.7676008008760372 1.0844607879339077
+2019-05-13 18:32:56,470 root         DEBUG    current pressure, altitude and vertical velocity: 104491.6420041286 0.6981519641116042 -0.566905054684764
+2019-05-13 18:32:56,576 root         DEBUG    current pressure, altitude and vertical velocity: 104491.66233709302 0.6965473111644707 0.9744100561933834
+2019-05-13 18:32:56,634 root         INFO     ARMED
+2019-05-13 18:32:56,672 root         DEBUG    current pressure, altitude and vertical velocity: 104491.79993142789 0.6856885394763872 -0.5210733209043711
+2019-05-13 18:32:56,770 root         DEBUG    current pressure, altitude and vertical velocity: 104492.39236967442 0.6389341921196805 0.8302147032173384
+2019-05-13 18:32:56,870 root         DEBUG    current pressure, altitude and vertical velocity: 104493.18603889231 0.5762993339993434 -0.531600846934271
+2019-05-13 18:32:56,970 root         DEBUG    current pressure, altitude and vertical velocity: 104492.82014573953 0.6051748742452051 0.7760687731414663
+2019-05-13 18:32:57,038 root         INFO     ARMED
+2019-05-13 18:32:57,070 root         DEBUG    current pressure, altitude and vertical velocity: 104492.81543267635 0.605546820099014 -0.4780688163870351
+2019-05-13 18:32:57,170 root         DEBUG    current pressure, altitude and vertical velocity: 104493.10865565413 0.5824062542180922 0.6753213299463979
+2019-05-13 18:32:57,270 root         DEBUG    current pressure, altitude and vertical velocity: 104493.77383051609 0.5299121923613918 -0.48275599660503205
+2019-05-13 18:32:57,370 root         DEBUG    current pressure, altitude and vertical velocity: 104493.36387764831 0.5622646924175767 0.6401416970079431
+2019-05-13 18:32:57,439 root         INFO     ARMED
+2019-05-13 18:32:57,470 root         DEBUG    current pressure, altitude and vertical velocity: 104493.16847847537 0.5776851643502288 -0.4190599250118768
+2019-05-13 18:32:57,607 root         DEBUG    current pressure, altitude and vertical velocity: 104492.69891461865 0.6147422048668942 0.6131845678238143
+2019-05-13 18:32:57,671 root         DEBUG    current pressure, altitude and vertical velocity: 104492.8355640303 0.6039580925624605 -0.3879380448151229
+2019-05-13 18:32:57,770 root         DEBUG    current pressure, altitude and vertical velocity: 104492.83588950743 0.6039324065422266 0.5518404250211989
+2019-05-13 18:32:57,843 root         INFO     ARMED
+2019-05-13 18:32:57,870 root         DEBUG    current pressure, altitude and vertical velocity: 104493.47743559926 0.5533029600995972 -0.39977368677624
+2019-05-13 18:32:57,970 root         DEBUG    current pressure, altitude and vertical velocity: 104494.38589910595 0.4816093955240989 0.4249628179435807
+2019-05-13 18:32:58,070 root         DEBUG    current pressure, altitude and vertical velocity: 104494.90890160442 0.44033563647734203 -0.4010700771453729
+2019-05-13 18:32:58,170 root         DEBUG    current pressure, altitude and vertical velocity: 104494.61028178477 0.4639017795153172 0.4060326791871978
+2019-05-13 18:32:58,244 root         INFO     ARMED
+2019-05-13 18:32:58,270 root         DEBUG    current pressure, altitude and vertical velocity: 104495.36559784604 0.404294702442657 -0.42057014650349583
+2019-05-13 18:32:58,370 root         DEBUG    current pressure, altitude and vertical velocity: 104494.29174105282 0.4890400792601117 0.4501747880859328
+2019-05-13 18:32:58,470 root         DEBUG    current pressure, altitude and vertical velocity: 104495.60400171434 0.3854807206481715 -0.4820724904650865
+2019-05-13 18:32:58,608 root         DEBUG    current pressure, altitude and vertical velocity: 104494.79862721726 0.4490381401308897 0.46871472876005776
+2019-05-13 18:32:58,664 root         INFO     ARMED
+2019-05-13 18:32:58,671 root         DEBUG    current pressure, altitude and vertical velocity: 104495.43339668398 0.39894425674457373 -0.48395912480489384
+2019-05-13 18:32:58,770 root         DEBUG    current pressure, altitude and vertical velocity: 104495.80960489881 0.3692552797874923 0.3921542789269705
+2019-05-13 18:32:58,870 root         DEBUG    current pressure, altitude and vertical velocity: 104495.88773297219 0.36308970879491614 -0.4417287833169806
+2019-05-13 18:32:58,970 root         DEBUG    current pressure, altitude and vertical velocity: 104496.13010579406 0.3439625896207636 0.3338117318601209
+2019-05-13 18:32:59,068 root         INFO     ARMED
+2019-05-13 18:32:59,071 root         DEBUG    current pressure, altitude and vertical velocity: 104495.24045981525 0.4141701629023498 -0.32734833170369637
+2019-05-13 18:32:59,170 root         DEBUG    current pressure, altitude and vertical velocity: 104496.19607682276 0.3387564192273579 0.2250168149991169
+2019-05-13 18:32:59,270 root         DEBUG    current pressure, altitude and vertical velocity: 104495.8701022272 0.36448105993916247 -0.26888885782152216
+2019-05-13 18:32:59,370 root         DEBUG    current pressure, altitude and vertical velocity: 104496.51740833321 0.313398256719337 0.15143233027937977
+2019-05-13 18:32:59,470 root         DEBUG    current pressure, altitude and vertical velocity: 104496.51053490676 0.3139406786259586 -0.2414575501327484
+2019-05-13 18:32:59,471 root         INFO     ARMED
+2019-05-13 18:32:59,577 root         DEBUG    current pressure, altitude and vertical velocity: 104495.89556729158 0.36247145425565974 0.18481987288114296
+2019-05-13 18:32:59,676 root         DEBUG    current pressure, altitude and vertical velocity: 104497.91643573792 0.20299350370474206 -0.37678974567039125
+2019-05-13 18:32:59,770 root         DEBUG    current pressure, altitude and vertical velocity: 104495.66176633327 0.38092214850425316 0.34426653039253974
+2019-05-13 18:32:59,870 root         DEBUG    current pressure, altitude and vertical velocity: 104498.06459390285 0.19130161921396488 -0.5287313003936405
+2019-05-13 18:32:59,876 root         INFO     ARMED
+2019-05-13 18:32:59,970 root         DEBUG    current pressure, altitude and vertical velocity: 104496.32433494163 0.32863480784714677 0.44717306598646767
+2019-05-13 18:33:00,070 root         DEBUG    current pressure, altitude and vertical velocity: 104498.03175324728 0.19389323459313607 -0.6105997436082871
+2019-05-13 18:33:00,170 root         DEBUG    current pressure, altitude and vertical velocity: 104495.89247576581 0.3627154256433161 0.571277950438001
+2019-05-13 18:33:00,270 root         DEBUG    current pressure, altitude and vertical velocity: 104497.40489478533 0.24336180291659398 -0.6688933919741805
+2019-05-13 18:33:00,280 root         INFO     ARMED
+2019-05-13 18:33:00,370 root         DEBUG    current pressure, altitude and vertical velocity: 104495.37608998765 0.40346669936773233 0.6742550518453393
+2019-05-13 18:33:00,470 root         DEBUG    current pressure, altitude and vertical velocity: 104495.31161114077 0.4085551452686759 -0.5969156068758189
+2019-05-13 18:33:00,608 root         DEBUG    current pressure, altitude and vertical velocity: 104494.76766886513 0.45148127609135214 0.6497556774834816
+2019-05-13 18:33:00,671 root         DEBUG    current pressure, altitude and vertical velocity: 104494.71608578763 0.4555520519421174 -0.5331532703374717
+2019-05-13 18:33:00,685 root         INFO     ARMED
+2019-05-13 18:33:00,770 root         DEBUG    current pressure, altitude and vertical velocity: 104494.2955804046 0.48873708851490033 0.6179651463079164
+2019-05-13 18:33:00,870 root         DEBUG    current pressure, altitude and vertical velocity: 104494.01993894261 0.5104899535704946 -0.4580850782481303
+2019-05-13 18:33:00,970 root         DEBUG    current pressure, altitude and vertical velocity: 104493.48822213619 0.5524517118253688 0.598130389931999
+2019-05-13 18:33:01,070 root         DEBUG    current pressure, altitude and vertical velocity: 104493.5850917791 0.5448069893178288 -0.4199212929308573
+2019-05-13 18:33:01,097 root         INFO     ARMED
+2019-05-13 18:33:01,170 root         DEBUG    current pressure, altitude and vertical velocity: 104492.77397614646 0.6088184900856327 0.602328851706603
+2019-05-13 18:33:01,270 root         DEBUG    current pressure, altitude and vertical velocity: 104493.65225311078 0.53950677967419 -0.44724087404921425
+2019-05-13 18:33:01,370 root         DEBUG    current pressure, altitude and vertical velocity: 104492.86175904218 0.6018908332385319 0.6044800201002846
+2019-05-13 18:33:01,470 root         DEBUG    current pressure, altitude and vertical velocity: 104493.66203686362 0.5387346698294122 -0.4656729500534125
+2019-05-13 18:33:01,502 root         INFO     ARMED
+2019-05-13 18:33:01,577 root         DEBUG    current pressure, altitude and vertical velocity: 104492.92710254625 0.5967340529950448 0.6020314012558887
+2019-05-13 18:33:01,671 root         DEBUG    current pressure, altitude and vertical velocity: 104494.2948638659 0.48879363571326007 -0.527046072329856
+2019-05-13 18:33:01,770 root         DEBUG    current pressure, altitude and vertical velocity: 104493.111213287 0.582204411220853 0.6352390366378928
+2019-05-13 18:33:01,870 root         DEBUG    current pressure, altitude and vertical velocity: 104494.41050046773 0.479667927450407 -0.5768779488673164
+2019-05-13 18:33:01,906 root         INFO     ARMED
+2019-05-13 18:33:01,970 root         DEBUG    current pressure, altitude and vertical velocity: 104493.42940031711 0.5570937931200098 0.6491409986437064
+2019-05-13 18:33:02,070 root         DEBUG    current pressure, altitude and vertical velocity: 104494.42976756168 0.4781474245699832 -0.5981365225306114
+2019-05-13 18:33:02,170 root         DEBUG    current pressure, altitude and vertical velocity: 104493.95738744119 0.515426352311755 0.6215058265211078
+2019-05-13 18:33:02,270 root         DEBUG    current pressure, altitude and vertical velocity: 104494.92857967435 0.43878270661889246 -0.614966515970413
+2019-05-13 18:33:02,310 root         INFO     ARMED
+2019-05-13 18:33:02,370 root         DEBUG    current pressure, altitude and vertical velocity: 104493.64735526545 0.5398933056745762 0.6604658429246808
+2019-05-13 18:33:02,470 root         DEBUG    current pressure, altitude and vertical velocity: 104494.83446530199 0.44620991172792906 -0.6471532583200188
+2019-05-13 18:33:02,608 root         DEBUG    current pressure, altitude and vertical velocity: 104493.80460296237 0.5274837086627947 0.6756930555670784
+2019-05-13 18:33:02,671 root         DEBUG    current pressure, altitude and vertical velocity: 104495.4037050541 0.401287415338138 -0.7086342258126737
+2019-05-13 18:33:02,715 root         INFO     ARMED
+2019-05-13 18:33:02,771 root         DEBUG    current pressure, altitude and vertical velocity: 104493.1491511199 0.5792104379136807 0.7860467725859133
+2019-05-13 18:33:02,870 root         DEBUG    current pressure, altitude and vertical velocity: 104494.25753435578 0.49173957511906313 -0.7252416660260239
+2019-05-13 18:33:02,970 root         DEBUG    current pressure, altitude and vertical velocity: 104494.16287558342 0.49920978168618635 0.7149123018944452
+2019-05-13 18:33:03,070 root         DEBUG    current pressure, altitude and vertical velocity: 104495.15700404713 0.4207562087599033 -0.7311710723497045
+2019-05-13 18:33:03,119 root         INFO     ARMED
+2019-05-13 18:33:03,170 root         DEBUG    current pressure, altitude and vertical velocity: 104495.19846452924 0.41748428774905755 0.640149150694155
+2019-05-13 18:33:03,270 root         DEBUG    current pressure, altitude and vertical velocity: 104494.18712667521 0.4972959525658256 -0.578242300297966
+2019-05-13 18:33:03,370 root         DEBUG    current pressure, altitude and vertical velocity: 104494.63533412339 0.46192472512409144 0.5407630081830054
+2019-05-13 18:33:03,470 root         DEBUG    current pressure, altitude and vertical velocity: 104494.24130290268 0.4930205157839861 -0.4893222796082748
+2019-05-13 18:33:03,524 root         INFO     ARMED
+2019-05-13 18:33:03,587 root         DEBUG    current pressure, altitude and vertical velocity: 104495.23951729872 0.4142445430846708 0.4079107346653896
+2019-05-13 18:33:03,676 root         DEBUG    current pressure, altitude and vertical velocity: 104495.68112825965 0.37939417665402775 -0.47524041807809037
+2019-05-13 18:33:03,770 root         DEBUG    current pressure, altitude and vertical velocity: 104496.04512946398 0.3506685865284354 0.3383940710732583
+2019-05-13 18:33:03,870 root         DEBUG    current pressure, altitude and vertical velocity: 104495.73923854523 0.37480832853391377 -0.403576634264803
+2019-05-13 18:33:03,928 root         INFO     ARMED
+2019-05-13 18:33:03,970 root         DEBUG    current pressure, altitude and vertical velocity: 104496.40641607119 0.3221573027947063 0.251903638226725
+2019-05-13 18:33:04,070 root         DEBUG    current pressure, altitude and vertical velocity: 104494.77986739868 0.4505186060487477 -0.23485766758428128
+2019-05-13 18:33:04,170 root         DEBUG    current pressure, altitude and vertical velocity: 104495.88489848195 0.36331339593987677 0.13950806429518156
+2019-05-13 18:33:04,270 root         DEBUG    current pressure, altitude and vertical velocity: 104494.44694079395 0.47679216334248425 -0.09789313342324568
+2019-05-13 18:33:04,329 root         INFO     ARMED
+2019-05-13 18:33:04,370 root         DEBUG    current pressure, altitude and vertical velocity: 104494.32022347307 0.4867923276966186 0.13555742221979777
+2019-05-13 18:33:04,470 root         DEBUG    current pressure, altitude and vertical velocity: 104493.88763076016 0.5209313675792898 -0.05396478019824992
+2019-05-13 18:33:04,571 root         DEBUG    current pressure, altitude and vertical velocity: 104492.93664752846 0.5959807820751485 0.19705109449367667
+2019-05-13 18:33:04,671 root         DEBUG    current pressure, altitude and vertical velocity: 104494.43139367063 0.4780190968040311 -0.1665299874495423
+2019-05-13 18:33:04,733 root         INFO     ARMED
+2019-05-13 18:33:04,770 root         DEBUG    current pressure, altitude and vertical velocity: 104493.51435708528 0.550389203044476 0.24971609128475394
+2019-05-13 18:33:04,870 root         DEBUG    current pressure, altitude and vertical velocity: 104494.95917743651 0.43636803031644494 -0.2638981614326191
+2019-05-13 18:33:04,970 root         DEBUG    current pressure, altitude and vertical velocity: 104493.09761848074 0.5832772847163847 0.37165373655621836
+2019-05-13 18:33:05,070 root         DEBUG    current pressure, altitude and vertical velocity: 104494.12163882422 0.5024640735484809 -0.31832155645726107
+2019-05-13 18:33:05,134 root         INFO     ARMED
+2019-05-13 18:33:05,170 root         DEBUG    current pressure, altitude and vertical velocity: 104492.6372744721 0.6196067320527295 0.4516310214048452
+2019-05-13 18:33:05,270 root         DEBUG    current pressure, altitude and vertical velocity: 104493.22211574687 0.5734522267941177 -0.3326439060701468
+2019-05-13 18:33:05,370 root         DEBUG    current pressure, altitude and vertical velocity: 104492.14692895269 0.6583039834581451 0.4913196759283881
+2019-05-13 18:33:05,470 root         DEBUG    current pressure, altitude and vertical velocity: 104493.19097384751 0.5759098779780135 -0.3817736209432637
+2019-05-13 18:33:05,545 root         INFO     ARMED
+2019-05-13 18:33:05,571 root         DEBUG    current pressure, altitude and vertical velocity: 104491.93531659966 0.6750041235432146 0.5412819539007504
+2019-05-13 18:33:05,676 root         DEBUG    current pressure, altitude and vertical velocity: 104493.52250564052 0.5497461383012769 -0.468854244090875
+2019-05-13 18:33:05,772 root         DEBUG    current pressure, altitude and vertical velocity: 104491.22403452973 0.7311376754446376 0.6685452956540361
+2019-05-13 18:33:05,870 root         DEBUG    current pressure, altitude and vertical velocity: 104493.24573888742 0.5715879401559761 -0.5815185549704489
+2019-05-13 18:33:05,948 root         INFO     ARMED
+2019-05-13 18:33:05,971 root         DEBUG    current pressure, altitude and vertical velocity: 104491.18235262379 0.7344271725501655 0.7645299984828219
+2019-05-13 18:33:06,070 root         DEBUG    current pressure, altitude and vertical velocity: 104492.85342704743 0.6025483779949706 -0.655245494028599
+2019-05-13 18:33:06,170 root         DEBUG    current pressure, altitude and vertical velocity: 104492.26717116154 0.6488146549667494 0.7343432756063185
+2019-05-13 18:33:06,271 root         DEBUG    current pressure, altitude and vertical velocity: 104492.91067132546 0.5980307722305205 -0.640504827361968
+2019-05-13 18:33:06,349 root         INFO     ARMED
+2019-05-13 18:33:06,371 root         DEBUG    current pressure, altitude and vertical velocity: 104491.33326817924 0.7225170628882753 0.7853952387034415
+2019-05-13 18:33:06,471 root         DEBUG    current pressure, altitude and vertical velocity: 104492.82951362287 0.6044355789937775 -0.6945358285202691
+2019-05-13 18:33:06,608 root         DEBUG    current pressure, altitude and vertical velocity: 104490.5080207934 0.787644959789156 0.8900650956284759
+2019-05-13 18:33:06,671 root         DEBUG    current pressure, altitude and vertical velocity: 104491.7050171483 0.6931790536867698 -0.7195481517706285
+2019-05-13 18:33:06,753 root         INFO     ARMED
+2019-05-13 18:33:06,771 root         DEBUG    current pressure, altitude and vertical velocity: 104491.05387757222 0.7445663104057246 0.8524458427845831
+2019-05-13 18:33:06,871 root         DEBUG    current pressure, altitude and vertical velocity: 104490.61987309364 0.7788176366250861 -0.6133420103742042
+2019-05-13 18:33:06,970 root         DEBUG    current pressure, altitude and vertical velocity: 104491.73958643278 0.690450889085669 0.6788345109667078
+2019-05-13 18:33:07,070 root         DEBUG    current pressure, altitude and vertical velocity: 104490.28886722492 0.8049404634782321 -0.4375182349442207
+2019-05-13 18:33:07,154 root         INFO     ARMED
+2019-05-13 18:33:07,170 root         DEBUG    current pressure, altitude and vertical velocity: 104491.98541914624 0.6710501007185681 0.477060697110373
+2019-05-13 18:33:07,270 root         DEBUG    current pressure, altitude and vertical velocity: 104489.98011721745 0.8293069291201909 -0.23550958304817582
+2019-05-13 18:33:07,370 root         DEBUG    current pressure, altitude and vertical velocity: 104490.99067906699 0.7495538844795719 0.3496015827587168
+2019-05-13 18:33:07,470 root         DEBUG    current pressure, altitude and vertical velocity: 104490.35811721146 0.7994752816559575 -0.1620372275669727
+2019-05-13 18:33:07,582 root         DEBUG    current pressure, altitude and vertical velocity: 104490.7222307536 0.7707396321012806 0.2859057749281682
+2019-05-13 18:33:07,587 root         INFO     ARMED
+2019-05-13 18:33:07,681 root         DEBUG    current pressure, altitude and vertical velocity: 104490.03551720668 0.8249347728885689 -0.09163836402298717
+2019-05-13 18:33:07,770 root         DEBUG    current pressure, altitude and vertical velocity: 104491.03481585288 0.7460706453656075 0.17845106991239007
+2019-05-13 18:33:07,870 root         DEBUG    current pressure, altitude and vertical velocity: 104489.98739814035 0.8287323200117936 0.00018714702549767204
+2019-05-13 18:33:07,970 root         DEBUG    current pressure, altitude and vertical velocity: 104491.07492299481 0.7429054235037139 0.07477906641307133
+2019-05-13 18:33:07,997 root         INFO     ARMED
+2019-05-13 18:33:08,070 root         DEBUG    current pressure, altitude and vertical velocity: 104490.11003569979 0.8190537910802111 0.07631679989944513
+2019-05-13 18:33:08,170 root         DEBUG    current pressure, altitude and vertical velocity: 104491.11677433335 0.7396025521709217 -0.012150079137525194
+2019-05-13 18:33:08,270 root         DEBUG    current pressure, altitude and vertical velocity: 104490.01771605984 0.8263396356812307 0.15542220341980956
+2019-05-13 18:33:08,370 root         DEBUG    current pressure, altitude and vertical velocity: 104491.11607571668 0.7396576863838092 -0.09761702052119413
+2019-05-13 18:33:08,402 root         INFO     ARMED
+2019-05-13 18:33:08,470 root         DEBUG    current pressure, altitude and vertical velocity: 104489.68995409788 0.8522065762239283 0.25242887291794763
+2019-05-13 18:33:08,608 root         DEBUG    current pressure, altitude and vertical velocity: 104490.41239182335 0.7951919526016414 -0.14486994209136153
+2019-05-13 18:33:08,671 root         DEBUG    current pressure, altitude and vertical velocity: 104490.62403359081 0.7784892925820546 0.21048332560656602
+2019-05-13 18:33:08,770 root         DEBUG    current pressure, altitude and vertical velocity: 104490.26448377119 0.8068647968024073 -0.10200744366187264
+2019-05-13 18:33:08,806 root         INFO     ARMED
+2019-05-13 18:33:08,870 root         DEBUG    current pressure, altitude and vertical velocity: 104490.81953937265 0.7630601008131135 0.1456302970566156
+2019-05-13 18:33:08,970 root         DEBUG    current pressure, altitude and vertical velocity: 104490.48795420445 0.7892286049748104 -0.06563819513398847
+2019-05-13 18:33:09,070 root         DEBUG    current pressure, altitude and vertical velocity: 104490.17027993563 0.8142993327741813 0.15613799515032495
+2019-05-13 18:33:09,170 root         DEBUG    current pressure, altitude and vertical velocity: 104490.67161336356 0.7747343250556525 -0.0986393833391184
+2019-05-13 18:33:09,210 root         INFO     ARMED
+2019-05-13 18:33:09,270 root         DEBUG    current pressure, altitude and vertical velocity: 104490.187981761 0.8129023100699441 0.17869218064958398
+2019-05-13 18:33:09,370 root         DEBUG    current pressure, altitude and vertical velocity: 104490.35467350336 0.7997470576796947 -0.10193069739545596
+2019-05-13 18:33:09,470 root         DEBUG    current pressure, altitude and vertical velocity: 104488.68358853381 0.9316292573399593 0.2927051622448902
+2019-05-13 18:33:09,598 root         DEBUG    current pressure, altitude and vertical velocity: 104485.7065903652 1.1665785256851358 0.14321164068926612
+2019-05-13 18:33:09,618 root         INFO     ARMED
+2019-05-13 18:33:09,677 root         DEBUG    current pressure, altitude and vertical velocity: 104484.18905832706 1.2863465866074146 0.38320270694268005
+2019-05-13 18:33:09,770 root         DEBUG    current pressure, altitude and vertical velocity: 104482.54476447967 1.4161206616370223 0.25866455164994717
+2019-05-13 18:33:09,870 root         DEBUG    current pressure, altitude and vertical velocity: 104481.26726228665 1.5169472607225498 0.4457090353339395
+2019-05-13 18:33:09,970 root         DEBUG    current pressure, altitude and vertical velocity: 104479.47819439624 1.6581507682502834 0.374001604012686
+2019-05-13 18:33:10,019 root         INFO     ARMED
+2019-05-13 18:33:10,070 root         DEBUG    current pressure, altitude and vertical velocity: 104478.56361451682 1.73033542413996 0.4733227876902222
+2019-05-13 18:33:10,170 root         DEBUG    current pressure, altitude and vertical velocity: 104477.3472039545 1.8263433402984002 0.4326093597698576
+2019-05-13 18:33:10,270 root         DEBUG    current pressure, altitude and vertical velocity: 104476.34698536346 1.9052885062294482 0.504935674852248
+2019-05-13 18:33:10,370 root         DEBUG    current pressure, altitude and vertical velocity: 104475.3885053511 1.9809399117734965 0.4649998293369201
+2019-05-13 18:33:10,423 root         INFO     LAUNCHED
+2019-05-13 18:33:10,470 root         DEBUG    current pressure, altitude and vertical velocity: 104475.47700235328 1.9739549509424787 0.4474571465360055
+2019-05-13 18:33:10,582 root         DEBUG    current pressure, altitude and vertical velocity: 104474.18775740589 2.075713964831886 0.5202588602926352
+2019-05-13 18:33:10,671 root         DEBUG    current pressure, altitude and vertical velocity: 104474.55640657013 2.0466166933365093 0.3736141603870284
+2019-05-13 18:33:10,770 root         DEBUG    current pressure, altitude and vertical velocity: 104472.33360436221 2.2220624933427717 0.6436787742696342
+2019-05-13 18:33:10,823 root         INFO     LAUNCHED
+2019-05-13 18:33:10,870 root         DEBUG    current pressure, altitude and vertical velocity: 104473.68321119361 2.1155376497756957 0.2297279007812495
+2019-05-13 18:33:10,970 root         DEBUG    current pressure, altitude and vertical velocity: 104470.70868036477 2.350319687136735 0.81409293420371
+2019-05-13 18:33:11,070 root         DEBUG    current pressure, altitude and vertical velocity: 104471.7102408299 2.2712651298040063 0.12770055337039596
+2019-05-13 18:33:11,170 root         DEBUG    current pressure, altitude and vertical velocity: 104470.04350679182 2.4028231019571207 0.8642416129364534
+2019-05-13 18:33:11,224 root         INFO     LAUNCHED
+2019-05-13 18:33:11,270 root         DEBUG    current pressure, altitude and vertical velocity: 104470.83987235143 2.3399644863907247 0.05207188246696043
+2019-05-13 18:33:11,370 root         DEBUG    current pressure, altitude and vertical velocity: 104469.54066480846 2.4425135567765617 0.8803665220286451
+2019-05-13 18:33:11,470 root         DEBUG    current pressure, altitude and vertical velocity: 104470.11428069364 2.397236770357559 0.0015879078012617093
+2019-05-13 18:33:11,596 root         DEBUG    current pressure, altitude and vertical velocity: 104468.22042247177 2.54672401164946 0.9418171111176814
+2019-05-13 18:33:11,639 root         INFO     LAUNCHED
+2019-05-13 18:33:11,677 root         DEBUG    current pressure, altitude and vertical velocity: 104467.62951049242 2.5933667104640628 0.04807181583573846
+2019-05-13 18:33:11,770 root         DEBUG    current pressure, altitude and vertical velocity: 104467.06657235243 2.63780153887611 0.8920702284179606
+2019-05-13 18:33:11,870 root         DEBUG    current pressure, altitude and vertical velocity: 104464.25985839394 2.85934896161104 0.26481205698709454
+2019-05-13 18:33:11,970 root         DEBUG    current pressure, altitude and vertical velocity: 104464.74212506945 2.821280989472063 0.7647952334371878
+2019-05-13 18:33:12,043 root         INFO     LAUNCHED
+2019-05-13 18:33:12,070 root         DEBUG    current pressure, altitude and vertical velocity: 104461.98405859015 3.038992343456803 0.4560422052731248
+2019-05-13 18:33:12,170 root         DEBUG    current pressure, altitude and vertical velocity: 104461.72045786807 3.0598002346638413 0.7091236013005074
+2019-05-13 18:33:12,270 root         DEBUG    current pressure, altitude and vertical velocity: 104459.16732499714 3.261339497951368 0.6119772480333392
+2019-05-13 18:33:12,370 root         DEBUG    current pressure, altitude and vertical velocity: 104459.04433504445 3.2710481832160223 0.6479199264351109
+2019-05-13 18:33:12,444 root         INFO     LAUNCHED
+2019-05-13 18:33:12,470 root         DEBUG    current pressure, altitude and vertical velocity: 104456.28893812271 3.4885584886447023 0.7682898286586853
+2019-05-13 18:33:12,608 root         DEBUG    current pressure, altitude and vertical velocity: 104454.82335866056 3.604252851344692 0.6988222964915893
+2019-05-13 18:33:12,671 root         DEBUG    current pressure, altitude and vertical velocity: 104453.26357237318 3.7273854532252204 0.8145934476733454
+2019-05-13 18:33:12,770 root         DEBUG    current pressure, altitude and vertical velocity: 104451.12919474096 3.895879858361655 0.797434471978865
+2019-05-13 18:33:12,848 root         INFO     LAUNCHED
+2019-05-13 18:33:12,870 root         DEBUG    current pressure, altitude and vertical velocity: 104448.78273289854 4.081120091722175 0.918374336266531
+2019-05-13 18:33:12,970 root         DEBUG    current pressure, altitude and vertical velocity: 104446.42581673028 4.267189054171536 0.9037599872303392
+2019-05-13 18:33:13,070 root         DEBUG    current pressure, altitude and vertical velocity: 104443.40118631884 4.5059763637336046 1.0653242122019466
+2019-05-13 18:33:13,170 root         DEBUG    current pressure, altitude and vertical velocity: 104440.77346588422 4.713433163074454 1.0208407878481545
+2019-05-13 18:33:13,249 root         INFO     LAUNCHED
+2019-05-13 18:33:13,270 root         DEBUG    current pressure, altitude and vertical velocity: 104437.87524593007 4.942250659767611 1.187609287674909
+2019-05-13 18:33:13,370 root         DEBUG    current pressure, altitude and vertical velocity: 104435.16271801988 5.15641226840274 1.1329183176984678
+2019-05-13 18:33:13,470 root         DEBUG    current pressure, altitude and vertical velocity: 104431.90175924407 5.413880023295305 1.3263161137999835
+2019-05-13 18:33:13,608 root         DEBUG    current pressure, altitude and vertical velocity: 104427.99833847841 5.722081743670026 1.3278282063033422
+2019-05-13 18:33:13,664 root         INFO     LAUNCHED
+2019-05-13 18:33:13,671 root         DEBUG    current pressure, altitude and vertical velocity: 104425.21379020775 5.94194658490411 1.4135493436540687
+2019-05-13 18:33:13,770 root         DEBUG    current pressure, altitude and vertical velocity: 104421.00706922024 6.27411367662819 1.527212477397088
+2019-05-13 18:33:13,870 root         DEBUG    current pressure, altitude and vertical velocity: 104418.97474310371 6.434592184761996 1.4326729174224684
+2019-05-13 18:33:13,970 root         DEBUG    current pressure, altitude and vertical velocity: 104413.6855381887 6.852255464326167 1.7921545092215503
+2019-05-13 18:33:14,068 root         INFO     LAUNCHED
+2019-05-13 18:33:14,071 root         DEBUG    current pressure, altitude and vertical velocity: 104411.48838823297 7.025758988805095 1.4629091501591496
+2019-05-13 18:33:14,170 root         DEBUG    current pressure, altitude and vertical velocity: 104405.56757117597 7.493326168216631 2.0805062377109307
+2019-05-13 18:33:14,270 root         DEBUG    current pressure, altitude and vertical velocity: 104403.44364027388 7.661058355177002 1.4843504221036063
+2019-05-13 18:33:14,370 root         DEBUG    current pressure, altitude and vertical velocity: 104397.57417412828 8.124599395347513 2.3359966541103483
+2019-05-13 18:33:14,470 root         DEBUG    current pressure, altitude and vertical velocity: 104396.82229503161 8.183980576958863 1.3952965615045958
+2019-05-13 18:33:14,471 root         INFO     LAUNCHED
+2019-05-13 18:33:14,576 root         DEBUG    current pressure, altitude and vertical velocity: 104389.80738617764 8.738014091001544 2.6564305027419945
+2019-05-13 18:33:14,672 root         DEBUG    current pressure, altitude and vertical velocity: 104389.13264071279 8.791306705518753 1.3090595198713457
+2019-05-13 18:33:14,770 root         DEBUG    current pressure, altitude and vertical velocity: 104381.94844800461 9.358744636306115 2.958225383255157
+2019-05-13 18:33:14,870 root         DEBUG    current pressure, altitude and vertical velocity: 104380.72994069524 9.454990658342902 1.2743995899209986
+2019-05-13 18:33:14,876 root         INFO     LAUNCHED
+2019-05-13 18:33:14,970 root         DEBUG    current pressure, altitude and vertical velocity: 104374.2013365287 9.970679976893084 3.1780921634798234
+2019-05-13 18:33:15,070 root         DEBUG    current pressure, altitude and vertical velocity: 104373.52438224369 10.024153570245392 1.2004332242812068
+2019-05-13 18:33:15,170 root         DEBUG    current pressure, altitude and vertical velocity: 104367.37864734797 10.509626960129916 3.3457563370163648
+2019-05-13 18:33:15,270 root         DEBUG    current pressure, altitude and vertical velocity: 104366.93962298246 10.544307943867762 1.1150708855909328
+2019-05-13 18:33:15,280 root         INFO     LAUNCHED
+2019-05-13 18:33:15,370 root         DEBUG    current pressure, altitude and vertical velocity: 104360.82674600338 11.027210563086149 3.4940833225331143
+2019-05-13 18:33:15,470 root         DEBUG    current pressure, altitude and vertical velocity: 104359.12787026097 11.161421769565866 1.137775003511557
+2019-05-13 18:33:15,577 root         DEBUG    current pressure, altitude and vertical velocity: 104352.76784211521 11.663879905609038 3.647133126322975
+2019-05-13 18:33:15,670 root         DEBUG    current pressure, altitude and vertical velocity: 104351.27690558379 11.781671236547055 1.1417888340984184
+2019-05-13 18:33:15,684 root         INFO     LAUNCHED
+2019-05-13 18:33:15,770 root         DEBUG    current pressure, altitude and vertical velocity: 104344.53360962967 12.314441985430859 3.8151905625744815
+2019-05-13 18:33:15,870 root         DEBUG    current pressure, altitude and vertical velocity: 104344.00980571704 12.355827582689537 1.0689955479472546
+2019-05-13 18:33:15,970 root         DEBUG    current pressure, altitude and vertical velocity: 104337.02825489124 12.907454100561328 3.985298024188824
+2019-05-13 18:33:16,070 root         DEBUG    current pressure, altitude and vertical velocity: 104335.00276644864 13.067497693719153 1.1221395863103543
+2019-05-13 18:33:16,097 root         INFO     LAUNCHED
+2019-05-13 18:33:16,170 root         DEBUG    current pressure, altitude and vertical velocity: 104328.6997523505 13.565545398877102 4.084815926927892
+2019-05-13 18:33:16,270 root         DEBUG    current pressure, altitude and vertical velocity: 104326.40065065892 13.747220517260697 1.1916007460629137
+2019-05-13 18:33:16,370 root         DEBUG    current pressure, altitude and vertical velocity: 104321.58284875541 14.127934032598157 4.057047849572562
+2019-05-13 18:33:16,470 root         DEBUG    current pressure, altitude and vertical velocity: 104318.21524708964 14.39405798872555 1.338564627584015
+2019-05-13 18:33:16,502 root         INFO     LAUNCHED
+2019-05-13 18:33:16,577 root         DEBUG    current pressure, altitude and vertical velocity: 104312.97428681684 14.80823762440267 4.065522700292426
+2019-05-13 18:33:16,676 root         DEBUG    current pressure, altitude and vertical velocity: 104309.98235392172 15.044690012195577 1.4411605526185205
+2019-05-13 18:33:16,770 root         DEBUG    current pressure, altitude and vertical velocity: 104305.03274976597 15.435869262640196 4.050149680707802
+2019-05-13 18:33:16,870 root         DEBUG    current pressure, altitude and vertical velocity: 104301.31596126239 15.729626050291628 1.5908012850081006
+2019-05-13 18:33:16,906 root         INFO     LAUNCHED
+2019-05-13 18:33:16,971 root         DEBUG    current pressure, altitude and vertical velocity: 104296.75569200028 16.090059099335946 4.005567761681339
+2019-05-13 18:33:17,070 root         DEBUG    current pressure, altitude and vertical velocity: 104292.38577682241 16.435459068492516 1.777121125663861
+2019-05-13 18:33:17,170 root         DEBUG    current pressure, altitude and vertical velocity: 104289.40650672524 16.67094862293591 3.8405005399565995
+2019-05-13 18:33:17,270 root         DEBUG    current pressure, altitude and vertical velocity: 104285.19768395793 17.00363469416736 1.9320950843289248
+2019-05-13 18:33:17,310 root         INFO     LAUNCHED
+2019-05-13 18:33:17,370 root         DEBUG    current pressure, altitude and vertical velocity: 104281.6716897552 17.282355066371572 3.735170858165152
+2019-05-13 18:33:17,470 root         DEBUG    current pressure, altitude and vertical velocity: 104277.49896747885 17.612207488873054 2.068737998397514
+2019-05-13 18:33:17,603 root         DEBUG    current pressure, altitude and vertical velocity: 104272.57367992916 18.0015638229573 3.7510101064328842
+2019-05-13 18:33:17,671 root         DEBUG    current pressure, altitude and vertical velocity: 104269.23550210809 18.265463682831783 2.125764058432244
+2019-05-13 18:33:17,714 root         INFO     LAUNCHED
+2019-05-13 18:33:17,770 root         DEBUG    current pressure, altitude and vertical velocity: 104263.39097519334 18.727519727783093 3.8379651407409066
+2019-05-13 18:33:17,870 root         DEBUG    current pressure, altitude and vertical velocity: 104259.54367512398 19.031690738256888 2.2173586630628144
+2019-05-13 18:33:17,970 root         DEBUG    current pressure, altitude and vertical velocity: 104255.62977234217 19.34113681525412 3.763614703664049
+2019-05-13 18:33:18,070 root         DEBUG    current pressure, altitude and vertical velocity: 104251.18962759919 19.692200793698788 2.3466867752012
+2019-05-13 18:33:18,118 root         INFO     LAUNCHED
+2019-05-13 18:33:18,170 root         DEBUG    current pressure, altitude and vertical velocity: 104246.95498974874 20.027027551922217 3.7220799915210727
+2019-05-13 18:33:18,270 root         DEBUG    current pressure, altitude and vertical velocity: 104243.03666301686 20.336853926040728 2.4218444717995915
+2019-05-13 18:33:18,370 root         DEBUG    current pressure, altitude and vertical velocity: 104237.886257424 20.744116573136967 3.7571346394652045
+2019-05-13 18:33:18,470 root         DEBUG    current pressure, altitude and vertical velocity: 104235.21546322599 20.9553131450809 2.3908565965635655
+2019-05-13 18:33:18,523 root         INFO     LAUNCHED
+2019-05-13 18:33:18,577 root         DEBUG    current pressure, altitude and vertical velocity: 104229.81584187671 21.382308806421662 3.8084168368594455
+2019-05-13 18:33:18,677 root         DEBUG    current pressure, altitude and vertical velocity: 104227.6499096433 21.553593233421587 2.3230553639071343
+2019-05-13 18:33:18,770 root         DEBUG    current pressure, altitude and vertical velocity: 104222.02650162637 21.9983124024676 3.8722943222195148
+2019-05-13 18:33:18,870 root         DEBUG    current pressure, altitude and vertical velocity: 104220.17656833964 22.144616006021913 2.237053431070733
+2019-05-13 18:33:18,924 root         INFO     LAUNCHED
+2019-05-13 18:33:18,970 root         DEBUG    current pressure, altitude and vertical velocity: 104214.66221692611 22.580735915148047 3.921184799123697
+2019-05-13 18:33:19,070 root         DEBUG    current pressure, altitude and vertical velocity: 104212.71352029672 22.734859248666524 2.1674714214821367
+2019-05-13 18:33:19,171 root         DEBUG    current pressure, altitude and vertical velocity: 104206.7346563534 23.2077450850798 4.001952155624604
+2019-05-13 18:33:19,270 root         DEBUG    current pressure, altitude and vertical velocity: 104205.82999592488 23.279299252269666 2.0222784465237895
+2019-05-13 18:33:19,328 root         INFO     LAUNCHED
+2019-05-13 18:33:19,370 root         DEBUG    current pressure, altitude and vertical velocity: 104199.79202195772 23.756886119879006 4.079343807671483
+2019-05-13 18:33:19,470 root         DEBUG    current pressure, altitude and vertical velocity: 104197.97454361491 23.90064799849797 1.9638124804903745
+2019-05-13 18:33:19,578 root         DEBUG    current pressure, altitude and vertical velocity: 104192.20178162868 24.35728494887287 4.128046377279235
+2019-05-13 18:33:19,671 root         DEBUG    current pressure, altitude and vertical velocity: 104189.61010364193 24.562298543478068 1.9724448270465351
+2019-05-13 18:33:19,729 root         INFO     LAUNCHED
+2019-05-13 18:33:19,770 root         DEBUG    current pressure, altitude and vertical velocity: 104184.90888624045 24.934196982392052 4.087140178465296
+2019-05-13 18:33:19,871 root         DEBUG    current pressure, altitude and vertical velocity: 104180.26718447605 25.301400759198614 2.1424041211484437
+2019-05-13 18:33:19,970 root         DEBUG    current pressure, altitude and vertical velocity: 104177.40464805486 25.527861898381328 3.90488729980148
+2019-05-13 18:33:20,070 root         DEBUG    current pressure, altitude and vertical velocity: 104171.74304445584 25.975777943904525 2.3760797545567964
+2019-05-13 18:33:20,133 root         INFO     LAUNCHED
+2019-05-13 18:33:20,170 root         DEBUG    current pressure, altitude and vertical velocity: 104169.0526246939 26.188636645545053 3.72725727146186
+2019-05-13 18:33:20,270 root         DEBUG    current pressure, altitude and vertical velocity: 104164.33291212718 26.562058315488297 2.5118934490443614
+2019-05-13 18:33:20,370 root         DEBUG    current pressure, altitude and vertical velocity: 104160.96963881762 26.82816750566625 3.6206407344936276
+2019-05-13 18:33:20,470 root         DEBUG    current pressure, altitude and vertical velocity: 104156.60304845175 27.17367168980413 2.6062082882778053
+2019-05-13 18:33:20,555 root         INFO     LAUNCHED
+2019-05-13 18:33:20,570 root         DEBUG    current pressure, altitude and vertical velocity: 104152.5843048041 27.49166312615744 3.576568097397575
+2019-05-13 18:33:20,671 root         DEBUG    current pressure, altitude and vertical velocity: 104148.02169657391 27.852701110471276 2.70662544376386
+2019-05-13 18:33:20,770 root         DEBUG    current pressure, altitude and vertical velocity: 104144.67974853079 28.117156763542148 3.4833669407286894
+2019-05-13 18:33:20,870 root         DEBUG    current pressure, altitude and vertical velocity: 104140.33141975914 28.461259887642964 2.7800660234882897
+2019-05-13 18:33:20,958 root         INFO     LAUNCHED
+2019-05-13 18:33:20,970 root         DEBUG    current pressure, altitude and vertical velocity: 104135.65590819964 28.831267558363912 3.505037917376769
+2019-05-13 18:33:21,070 root         DEBUG    current pressure, altitude and vertical velocity: 104131.29833893232 29.176126315241078 2.8469181780166264
+2019-05-13 18:33:21,170 root         DEBUG    current pressure, altitude and vertical velocity: 104127.11847655971 29.506932381718602 3.4853401921166167
+2019-05-13 18:33:21,270 root         DEBUG    current pressure, altitude and vertical velocity: 104123.36874927086 29.803705566113134 2.8589995446094956
+2019-05-13 18:33:21,359 root         INFO     LAUNCHED
+2019-05-13 18:33:21,371 root         DEBUG    current pressure, altitude and vertical velocity: 104119.61470312277 30.10082930185449 3.43392990864631
+2019-05-13 18:33:21,470 root         DEBUG    current pressure, altitude and vertical velocity: 104115.8629681667 30.397778843895303 2.8700491321893598
+2019-05-13 18:33:21,578 root         DEBUG    current pressure, altitude and vertical velocity: 104111.57066874823 30.73752472960884 3.430282803495216
+2019-05-13 18:33:21,671 root         DEBUG    current pressure, altitude and vertical velocity: 104108.95014015835 30.944951526604058 2.790471015965642
+2019-05-13 18:33:21,763 root         INFO     LAUNCHED
+2019-05-13 18:33:21,767 root         DEBUG    current pressure, altitude and vertical velocity: 104103.7829021861 31.353974473711435 3.496277470253072
+2019-05-13 18:33:21,870 root         DEBUG    current pressure, altitude and vertical velocity: 104100.61226056419 31.604961085072095 2.7624105257297367
+2019-05-13 18:33:21,971 root         DEBUG    current pressure, altitude and vertical velocity: 104095.80952487388 31.985155430849645 3.526844069005315
+2019-05-13 18:33:22,070 root         DEBUG    current pressure, altitude and vertical velocity: 104091.92047251386 32.29303122768831 2.7940452699954283
+2019-05-13 18:33:22,164 root         INFO     LAUNCHED
+2019-05-13 18:33:22,171 root         DEBUG    current pressure, altitude and vertical velocity: 104087.24332302411 32.66330895371619 3.5444373881326627
+2019-05-13 18:33:22,270 root         DEBUG    current pressure, altitude and vertical velocity: 104083.9416514486 32.924701853805935 2.7760336430856314
+2019-05-13 18:33:22,370 root         DEBUG    current pressure, altitude and vertical velocity: 104078.9255177943 33.32184143441249 3.587133229925952
+2019-05-13 18:33:22,470 root         DEBUG    current pressure, altitude and vertical velocity: 104073.63769615888 33.74050812411708 2.9170969684816552
+2019-05-13 18:33:22,577 root         DEBUG    current pressure, altitude and vertical velocity: 104069.82010173544 34.04277941269011 3.5306911955063884
+2019-05-13 18:33:22,577 root         INFO     LAUNCHED
+2019-05-13 18:33:22,672 root         DEBUG    current pressure, altitude and vertical velocity: 104065.92675848962 34.35105769411207 2.9336655530554525
+2019-05-13 18:33:22,770 root         DEBUG    current pressure, altitude and vertical velocity: 104061.92053451337 34.668283791524956 3.4948481733686343
+2019-05-13 18:33:22,870 root         DEBUG    current pressure, altitude and vertical velocity: 104057.2042974167 35.041743850395875 3.0137590566208257
+2019-05-13 18:33:22,970 root         DEBUG    current pressure, altitude and vertical velocity: 104053.3840838607 35.34426149143846 3.447880997074355
+2019-05-13 18:33:22,980 root         INFO     LAUNCHED
+2019-05-13 18:33:23,070 root         DEBUG    current pressure, altitude and vertical velocity: 104048.38062543336 35.740492428694665 3.1086140882149493
+2019-05-13 18:33:23,170 root         DEBUG    current pressure, altitude and vertical velocity: 104044.88500146357 36.01732504989239 3.3799255185646464
+2019-05-13 18:33:23,270 root         DEBUG    current pressure, altitude and vertical velocity: 104040.08145347169 36.39774984961372 3.1781774791147797
+2019-05-13 18:33:23,370 root         DEBUG    current pressure, altitude and vertical velocity: 104036.32304023336 36.69541349363459 3.3395966107290542
+2019-05-13 18:33:23,385 root         INFO     LAUNCHED
+2019-05-13 18:33:23,471 root         DEBUG    current pressure, altitude and vertical velocity: 104032.02610027736 37.03573881739244 3.2006850549611543
+2019-05-13 18:33:23,578 root         DEBUG    current pressure, altitude and vertical velocity: 104028.81429156169 37.29012729698012 3.2600254292438238
+2019-05-13 18:33:23,671 root         DEBUG    current pressure, altitude and vertical velocity: 104023.35525522189 37.72252016127744 3.313009413762359
+2019-05-13 18:33:23,770 root         DEBUG    current pressure, altitude and vertical velocity: 104020.31217543686 37.96356084507927 3.175063570121276
+2019-05-13 18:33:23,797 root         INFO     LAUNCHED
+2019-05-13 18:33:23,870 root         DEBUG    current pressure, altitude and vertical velocity: 104015.54455574002 38.341212957993065 3.3593605852999167
+2019-05-13 18:33:23,970 root         DEBUG    current pressure, altitude and vertical velocity: 104012.03099034949 38.61953811175736 3.135882366873441
+2019-05-13 18:33:24,070 root         DEBUG    current pressure, altitude and vertical velocity: 104007.99228521703 38.939471397417705 3.3433578124302725
+2019-05-13 18:33:24,170 root         DEBUG    current pressure, altitude and vertical velocity: 104004.6540891546 39.2039202486933 3.0867429814616925
+2019-05-13 18:33:24,201 root         INFO     LAUNCHED
+2019-05-13 18:33:24,270 root         DEBUG    current pressure, altitude and vertical velocity: 103999.62136723613 39.60262098403888 3.4077227665328236
+2019-05-13 18:33:24,370 root         DEBUG    current pressure, altitude and vertical velocity: 103996.02307601119 39.88769334579718 3.0631410450738263
+2019-05-13 18:33:24,470 root         DEBUG    current pressure, altitude and vertical velocity: 103991.86017972641 40.21750622856825 3.396763372650607
+2019-05-13 18:33:24,603 root         DEBUG    current pressure, altitude and vertical velocity: 103988.02451549645 40.52140310239451 3.0607238143927047
+2019-05-13 18:33:24,615 root         INFO     LAUNCHED
+2019-05-13 18:33:24,671 root         DEBUG    current pressure, altitude and vertical velocity: 103984.69419846864 40.78526910360194 3.3209530365929787
+2019-05-13 18:33:24,770 root         DEBUG    current pressure, altitude and vertical velocity: 103980.11199520966 41.14833519295256 3.117717522304052
+2019-05-13 18:33:24,870 root         DEBUG    current pressure, altitude and vertical velocity: 103976.35399158741 41.44610642706852 3.286628967049644
+2019-05-13 18:33:24,970 root         DEBUG    current pressure, altitude and vertical velocity: 103971.49193991773 41.8313716453761 3.191210988381227
+2019-05-13 18:33:25,018 root         INFO     LAUNCHED
+2019-05-13 18:33:25,070 root         DEBUG    current pressure, altitude and vertical velocity: 103967.24041983244 42.16827085792809 3.2948652828966702
+2019-05-13 18:33:25,170 root         DEBUG    current pressure, altitude and vertical velocity: 103962.1007784967 42.57556163483281 3.2793806664478207
+2019-05-13 18:33:25,270 root         DEBUG    current pressure, altitude and vertical velocity: 103959.55405461596 42.77738280517153 3.1671999249457214
+2019-05-13 18:33:25,370 root         DEBUG    current pressure, altitude and vertical velocity: 103952.54683373486 43.33270744988018 3.5067672445116935
+2019-05-13 18:33:25,419 root         INFO     LAUNCHED
+2019-05-13 18:33:25,470 root         DEBUG    current pressure, altitude and vertical velocity: 103951.05632963027 43.450834347225474 2.9686068297964407
+2019-05-13 18:33:25,593 root         DEBUG    current pressure, altitude and vertical velocity: 103945.0208654254 43.92917701910429 3.634433191939338
+2019-05-13 18:33:25,670 root         DEBUG    current pressure, altitude and vertical velocity: 103943.50131370423 44.049613153803946 2.792182281516456
+2019-05-13 18:33:25,770 root         DEBUG    current pressure, altitude and vertical velocity: 103937.86239546532 44.49655325168649 3.7179299706279503
+2019-05-13 18:33:25,823 root         INFO     LAUNCHED
+2019-05-13 18:33:25,870 root         DEBUG    current pressure, altitude and vertical velocity: 103934.90359002589 44.73107578897533 2.74748659065365
+2019-05-13 18:33:25,970 root         DEBUG    current pressure, altitude and vertical velocity: 103929.25476012226 45.178831717096834 3.7938929016866574
+2019-05-13 18:33:26,070 root         DEBUG    current pressure, altitude and vertical velocity: 103925.66701264572 45.46322573586371 2.75713195035516
+2019-05-13 18:33:26,170 root         DEBUG    current pressure, altitude and vertical velocity: 103920.58154247282 45.8663551489921 3.8176330246463817
+2019-05-13 18:33:26,224 root         INFO     LAUNCHED
+2019-05-13 18:33:26,270 root         DEBUG    current pressure, altitude and vertical velocity: 103916.84220386657 46.162785870712 2.777849477039545
+2019-05-13 18:33:26,370 root         DEBUG    current pressure, altitude and vertical velocity: 103911.75820272826 46.565826750830226 3.8389106022999697
+2019-05-13 18:33:26,470 root         DEBUG    current pressure, altitude and vertical velocity: 103909.39661465577 46.753050224715786 2.68728800322115
+2019-05-13 18:33:26,607 root         DEBUG    current pressure, altitude and vertical velocity: 103902.53644499512 47.29693478572839 3.9989041030825767
+2019-05-13 18:33:26,629 root         INFO     LAUNCHED
+2019-05-13 18:33:26,671 root         DEBUG    current pressure, altitude and vertical velocity: 103900.83760422462 47.43162596081891 2.5532503779895586
+2019-05-13 18:33:26,770 root         DEBUG    current pressure, altitude and vertical velocity: 103895.2371638086 47.87566493755302 4.043052669508425
+2019-05-13 18:33:26,870 root         DEBUG    current pressure, altitude and vertical velocity: 103892.80387244221 48.06859802988133 2.490858432518913
+2019-05-13 18:33:26,970 root         DEBUG    current pressure, altitude and vertical velocity: 103888.01102010939 48.44862899111007 4.018778363786323
+2019-05-13 18:33:27,029 root         INFO     LAUNCHED
+2019-05-13 18:33:27,070 root         DEBUG    current pressure, altitude and vertical velocity: 103884.32610576627 48.74081995740436 2.533963555561314
+2019-05-13 18:33:27,170 root         DEBUG    current pressure, altitude and vertical velocity: 103880.17932390003 49.069644279457066 3.9457248494603943
+2019-05-13 18:33:27,270 root         DEBUG    current pressure, altitude and vertical velocity: 103876.60150961303 49.35336020186791 2.5642831224160245
+2019-05-13 18:33:27,370 root         DEBUG    current pressure, altitude and vertical velocity: 103872.30263880752 49.694265492851855 3.892057655498302
+2019-05-13 18:33:27,433 root         INFO     LAUNCHED
+2019-05-13 18:33:27,470 root         DEBUG    current pressure, altitude and vertical velocity: 103869.77730144042 49.89453295370765 2.5081222710302202
+2019-05-13 18:33:27,603 root         DEBUG    current pressure, altitude and vertical velocity: 103863.91144698352 50.3597296061848 3.9680485424256187
+2019-05-13 18:33:27,671 root         DEBUG    current pressure, altitude and vertical velocity: 103860.89020052734 50.599340527677214 2.496920965419612
+2019-05-13 18:33:27,770 root         DEBUG    current pressure, altitude and vertical velocity: 103857.13989977432 50.89677965777961 3.868682818285454
+2019-05-13 18:33:27,834 root         INFO     LAUNCHED
+2019-05-13 18:33:27,870 root         DEBUG    current pressure, altitude and vertical velocity: 103853.67309792188 51.171742073880395 2.5221912849784354
+2019-05-13 18:33:27,970 root         DEBUG    current pressure, altitude and vertical velocity: 103849.23731044447 51.52356855594525 3.833641018521767
+2019-05-13 18:33:28,070 root         DEBUG    current pressure, altitude and vertical velocity: 103846.72754083751 51.7226374936118 2.4690410941471375
+2019-05-13 18:33:28,170 root         DEBUG    current pressure, altitude and vertical velocity: 103842.99824679308 52.018443449332146 3.746082872389937
+2019-05-13 18:33:28,238 root         INFO     LAUNCHED
+2019-05-13 18:33:28,270 root         DEBUG    current pressure, altitude and vertical velocity: 103839.54511860752 52.29235177879255 2.4960453141928283
+2019-05-13 18:33:28,370 root         DEBUG    current pressure, altitude and vertical velocity: 103835.48746462197 52.6142216766512 3.6933444830095907
+2019-05-13 18:33:28,470 root         DEBUG    current pressure, altitude and vertical velocity: 103831.55308707352 52.926322575967696 2.558541682090043
+2019-05-13 18:33:28,603 root         DEBUG    current pressure, altitude and vertical velocity: 103827.56965919759 53.24232430136619 3.640011760107125
+2019-05-13 18:33:28,643 root         INFO     LAUNCHED
+2019-05-13 18:33:28,676 root         DEBUG    current pressure, altitude and vertical velocity: 103823.81180559633 53.54044049021739 2.600803702732242
+2019-05-13 18:33:28,770 root         DEBUG    current pressure, altitude and vertical velocity: 103820.13678204558 53.83199416019627 3.5675642540752874
+2019-05-13 18:33:28,870 root         DEBUG    current pressure, altitude and vertical velocity: 103815.97815541457 54.16192406597472 2.670653238237475
+2019-05-13 18:33:28,970 root         DEBUG    current pressure, altitude and vertical velocity: 103811.72466001147 54.49939165955623 3.5482754222492665
+2019-05-13 18:33:29,043 root         INFO     LAUNCHED
+2019-05-13 18:33:29,070 root         DEBUG    current pressure, altitude and vertical velocity: 103808.37334464416 54.76528923785658 2.6694854927140743
+2019-05-13 18:33:29,170 root         DEBUG    current pressure, altitude and vertical velocity: 103803.58871238418 55.144920118318446 3.5730787604862075
+2019-05-13 18:33:29,270 root         DEBUG    current pressure, altitude and vertical velocity: 103798.04633196534 55.584691459023524 2.842308284147746
+2019-05-13 18:33:29,370 root         DEBUG    current pressure, altitude and vertical velocity: 103795.09753240735 55.81867770845988 3.4497571338739426
+2019-05-13 18:33:29,444 root         INFO     LAUNCHED
+2019-05-13 18:33:29,470 root         DEBUG    current pressure, altitude and vertical velocity: 103791.42046400977 56.11045944201099 2.849859189284083
+2019-05-13 18:33:29,603 root         DEBUG    current pressure, altitude and vertical velocity: 103786.32216655089 56.51503211072667 3.5093540892022284
+2019-05-13 18:33:29,671 root         DEBUG    current pressure, altitude and vertical velocity: 103783.80531652033 56.714761376648674 2.764602536277677
+2019-05-13 18:33:29,770 root         DEBUG    current pressure, altitude and vertical velocity: 103778.64269417821 57.12446313913268 3.5681204427660105
+2019-05-13 18:33:29,848 root         INFO     LAUNCHED
+2019-05-13 18:33:29,870 root         DEBUG    current pressure, altitude and vertical velocity: 103775.25714384127 57.39314685291422 2.7568259964314508
+2019-05-13 18:33:29,971 root         DEBUG    current pressure, altitude and vertical velocity: 103770.01864753007 57.80889797625974 3.6270595218349317
+2019-05-13 18:33:30,070 root         DEBUG    current pressure, altitude and vertical velocity: 103766.03091038553 58.12539458641849 2.7976400069470495
+2019-05-13 18:33:30,170 root         DEBUG    current pressure, altitude and vertical velocity: 103761.06862896157 58.5192521674889 3.6582111507218524
+2019-05-13 18:33:30,249 root         INFO     LAUNCHED
+2019-05-13 18:33:30,270 root         DEBUG    current pressure, altitude and vertical velocity: 103757.40480643342 58.81006058590808 2.808684424671527
+2019-05-13 18:33:30,370 root         DEBUG    current pressure, altitude and vertical velocity: 103754.77287191927 59.01897017457275 3.501299624314335
+2019-05-13 18:33:30,470 root         DEBUG    current pressure, altitude and vertical velocity: 103748.12599358424 59.546584850086035 3.0554306577176584
+2019-05-13 18:33:30,642 root         DEBUG    current pressure, altitude and vertical velocity: 103745.38568034791 59.7641129538899 3.368697765686766
+2019-05-13 18:33:30,664 root         INFO     LAUNCHED
+2019-05-13 18:33:30,671 root         DEBUG    current pressure, altitude and vertical velocity: 103740.0681776799 60.18623364574216 3.1720082837981565
+2019-05-13 18:33:30,770 root         DEBUG    current pressure, altitude and vertical velocity: 103736.20112240333 60.493224182700864 3.33881852607679
+2019-05-13 18:33:30,870 root         DEBUG    current pressure, altitude and vertical velocity: 103733.10922964393 60.73868428696193 3.1002675596794043
+2019-05-13 18:33:30,970 root         DEBUG    current pressure, altitude and vertical velocity: 103727.80367136018 61.15989743846143 3.4261498249686118
+2019-05-13 18:33:31,070 root         DEBUG    current pressure, altitude and vertical velocity: 103724.25593840265 61.44156502664973 3.0719083918997625
+2019-05-13 18:33:31,084 root         INFO     LAUNCHED
+2019-05-13 18:33:31,170 root         DEBUG    current pressure, altitude and vertical velocity: 103719.57692146314 61.81306143597424 3.455031251796265
+2019-05-13 18:33:31,270 root         DEBUG    current pressure, altitude and vertical velocity: 103715.41061009713 62.14386245132979 3.0955185680653337
+2019-05-13 18:33:31,370 root         DEBUG    current pressure, altitude and vertical velocity: 103711.67227935803 62.440691454473274 3.4063571297601247
+2019-05-13 18:33:31,470 root         DEBUG    current pressure, altitude and vertical velocity: 103707.6702849527 62.75846541742591 3.103740674211436
+2019-05-13 18:33:31,497 root         INFO     LAUNCHED
+2019-05-13 18:33:31,577 root         DEBUG    current pressure, altitude and vertical velocity: 103703.83977661142 63.06263208831291 3.369888087671112
+2019-05-13 18:33:31,677 root         DEBUG    current pressure, altitude and vertical velocity: 103700.67236077467 63.314151929304025 3.0448864477814075
+2019-05-13 18:33:31,770 root         DEBUG    current pressure, altitude and vertical velocity: 103695.02982910164 63.76223261212132 3.4809799617212995
+2019-05-13 18:33:31,870 root         DEBUG    current pressure, altitude and vertical velocity: 103692.66191205724 63.95027786923389 2.9284430601158298
+2019-05-13 18:33:31,901 root         INFO     LAUNCHED
+2019-05-13 18:33:31,970 root         DEBUG    current pressure, altitude and vertical velocity: 103687.34222265631 64.3727473200681 3.5553514163833837
+2019-05-13 18:33:32,070 root         DEBUG    current pressure, altitude and vertical velocity: 103683.8609749583 64.64922431200169 2.912075746037839
+2019-05-13 18:33:32,170 root         DEBUG    current pressure, altitude and vertical velocity: 103679.58569218755 64.98877308654752 3.539365049290878
+2019-05-13 18:33:32,270 root         DEBUG    current pressure, altitude and vertical velocity: 103675.67276434164 65.29955315135872 2.9316482362452527
+2019-05-13 18:33:32,306 root         INFO     LAUNCHED
+2019-05-13 18:33:32,370 root         DEBUG    current pressure, altitude and vertical velocity: 103671.45663968755 65.63442500493339 3.5203003979364587
+2019-05-13 18:33:32,470 root         DEBUG    current pressure, altitude and vertical velocity: 103668.74621928582 65.84970996787507 2.8537683755624084
+2019-05-13 18:33:32,603 root         DEBUG    current pressure, altitude and vertical velocity: 103662.78542893754 66.3231834971101 3.641743887377835
+2019-05-13 18:33:32,671 root         DEBUG    current pressure, altitude and vertical velocity: 103660.41201449116 66.51171315525707 2.7569211961531437
+2019-05-13 18:33:32,710 root         INFO     LAUNCHED
+2019-05-13 18:33:32,771 root         DEBUG    current pressure, altitude and vertical velocity: 103654.23224940004 67.00261275990111 3.768469103284094
+2019-05-13 18:33:32,870 root         DEBUG    current pressure, altitude and vertical velocity: 103652.22609596793 67.16197992618996 2.6405962428266747
+2019-05-13 18:33:32,970 root         DEBUG    current pressure, altitude and vertical velocity: 103646.41802608254 67.62338237378354 3.8530246405492696
+2019-05-13 18:33:33,070 root         DEBUG    current pressure, altitude and vertical velocity: 103642.76232208684 67.91380821708032 2.666962461840781
+2019-05-13 18:33:33,114 root         INFO     LAUNCHED
+2019-05-13 18:33:33,170 root         DEBUG    current pressure, altitude and vertical velocity: 103637.24672555353 68.35200824563613 3.905922205050155
+2019-05-13 18:33:33,270 root         DEBUG    current pressure, altitude and vertical velocity: 103634.81044360698 68.54557066895767 2.593828638978241
+2019-05-13 18:33:33,370 root         DEBUG    current pressure, altitude and vertical velocity: 103628.97706794283 69.00904702646146 3.9788063420489332
+2019-05-13 18:33:33,470 root         DEBUG    current pressure, altitude and vertical velocity: 103624.76730019809 69.3435368766718 2.668935625290763
+2019-05-13 18:33:33,534 root         INFO     LAUNCHED
+2019-05-13 18:33:33,577 root         DEBUG    current pressure, altitude and vertical velocity: 103619.63673247927 69.75120447952143 3.988593310693668
+2019-05-13 18:33:33,676 root         DEBUG    current pressure, altitude and vertical velocity: 103617.06481672097 69.95557143862544 2.606409021865694
+2019-05-13 18:33:33,770 root         DEBUG    current pressure, altitude and vertical velocity: 103611.93008910841 70.36359433020833 3.9977568712071894
+2019-05-13 18:33:33,870 root         DEBUG    current pressure, altitude and vertical velocity: 103608.63720493928 70.62526676914065 2.607440558611447
+2019-05-13 18:33:33,938 root         INFO     LAUNCHED
+2019-05-13 18:33:33,970 root         DEBUG    current pressure, altitude and vertical velocity: 103603.44543847424 71.03784963104616 4.010564045991976
+2019-05-13 18:33:34,070 root         DEBUG    current pressure, altitude and vertical velocity: 103600.05429520144 71.3073484395593 2.616195311263451
+2019-05-13 18:33:34,170 root         DEBUG    current pressure, altitude and vertical velocity: 103595.3247101544 71.68322707020083 3.985386272034302
+2019-05-13 18:33:34,270 root         DEBUG    current pressure, altitude and vertical velocity: 103593.00730334866 71.86740556740698 2.538754277343253
+2019-05-13 18:33:34,343 root         INFO     LAUNCHED
+2019-05-13 18:33:34,370 root         DEBUG    current pressure, altitude and vertical velocity: 103587.85644781102 72.27678760936814 3.996229686792038
+2019-05-13 18:33:34,470 root         DEBUG    current pressure, altitude and vertical velocity: 103584.83553017893 72.51689320253553 2.5249844427763133
+2019-05-13 18:33:34,605 root         DEBUG    current pressure, altitude and vertical velocity: 103580.76855668632 72.84014939730497 3.919862912882276
+2019-05-13 18:33:34,671 root         DEBUG    current pressure, altitude and vertical velocity: 103578.35182258065 73.0322441378182 2.4645807390119088
+2019-05-13 18:33:34,744 root         INFO     LAUNCHED
+2019-05-13 18:33:34,770 root         DEBUG    current pressure, altitude and vertical velocity: 103573.09140784906 73.4503822159349 3.9460146997107466
+2019-05-13 18:33:34,870 root         DEBUG    current pressure, altitude and vertical velocity: 103570.97735650203 73.61842809924421 2.386168548420036
+2019-05-13 18:33:34,970 root         DEBUG    current pressure, altitude and vertical velocity: 103566.98875127925 73.93548983883768 3.8684749693331417
+2019-05-13 18:33:35,070 root         DEBUG    current pressure, altitude and vertical velocity: 103563.26137738914 74.23179481232602 2.4438566670663655
+2019-05-13 18:33:35,148 root         INFO     LAUNCHED
+2019-05-13 18:33:35,170 root         DEBUG    current pressure, altitude and vertical velocity: 103559.35271977341 74.54252015359725 3.7923528136710645
+2019-05-13 18:33:35,270 root         DEBUG    current pressure, altitude and vertical velocity: 103555.55050816131 74.84479257031305 2.5017434170755237
+2019-05-13 18:33:35,370 root         DEBUG    current pressure, altitude and vertical velocity: 103553.00463675623 75.04719212701272 3.6155170890036326
+2019-05-13 18:33:35,470 root         DEBUG    current pressure, altitude and vertical velocity: 103549.88962527906 75.29484446314136 2.4992214114966096
+2019-05-13 18:33:35,554 root         INFO     LAUNCHED
+2019-05-13 18:33:35,602 root         DEBUG    current pressure, altitude and vertical velocity: 103547.34023284249 75.49753298772896 3.4566539046908695
+2019-05-13 18:33:35,681 root         DEBUG    current pressure, altitude and vertical velocity: 103544.34041116075 75.73603794033568 2.4878042229536663
+2019-05-13 18:33:35,770 root         DEBUG    current pressure, altitude and vertical velocity: 103542.35460814899 75.89392504350651 3.268875617392619
+2019-05-13 18:33:35,870 root         DEBUG    current pressure, altitude and vertical velocity: 103538.6852195536 76.18567706496248 2.5307758221142627
+2019-05-13 18:33:35,958 root         INFO     LAUNCHED
+2019-05-13 18:33:35,971 root         DEBUG    current pressure, altitude and vertical velocity: 103538.8397412067 76.17339092308112 2.9297019137719955
+2019-05-13 18:33:36,070 root         DEBUG    current pressure, altitude and vertical velocity: 103533.46282408039 76.60092275810467 2.7052300749263942
+2019-05-13 18:33:36,170 root         DEBUG    current pressure, altitude and vertical velocity: 103533.48390234036 76.59924673872226 2.6350557030123807
+2019-05-13 18:33:36,270 root         DEBUG    current pressure, altitude and vertical velocity: 103528.74291551432 76.97622916428345 2.81168949299495
+2019-05-13 18:33:36,359 root         INFO     LAUNCHED
+2019-05-13 18:33:36,371 root         DEBUG    current pressure, altitude and vertical velocity: 103528.5693484348 76.99003072247945 2.385351690907136
+2019-05-13 18:33:36,471 root         DEBUG    current pressure, altitude and vertical velocity: 103524.70331678646 77.29745140492896 2.837941226144973
+2019-05-13 18:33:36,586 root         DEBUG    current pressure, altitude and vertical velocity: 103524.01270531035 77.35236871609432 2.201733832981777
+2019-05-13 18:33:36,671 root         DEBUG    current pressure, altitude and vertical velocity: 103520.65132530418 77.6196693697481 2.8214477571842527
+2019-05-13 18:33:36,759 root         INFO     LAUNCHED
+2019-05-13 18:33:36,771 root         DEBUG    current pressure, altitude and vertical velocity: 103521.34883612329 77.56420195621156 1.926093036147066
+2019-05-13 18:33:36,870 root         DEBUG    current pressure, altitude and vertical velocity: 103518.56695868085 77.78542406429727 2.7605250895515394
+2019-05-13 18:33:36,970 root         DEBUG    current pressure, altitude and vertical velocity: 103518.78805327363 77.76784187153653 1.715901539771618
+2019-05-13 18:33:37,070 root         DEBUG    current pressure, altitude and vertical velocity: 103516.40630131969 77.9572484868964 2.673879195956257
+2019-05-13 18:33:37,163 root         INFO     LAUNCHED
+2019-05-13 18:33:37,171 root         DEBUG    current pressure, altitude and vertical velocity: 103516.08513011891 77.98278960082054 1.5698524997185908
+2019-05-13 18:33:37,270 root         DEBUG    current pressure, altitude and vertical velocity: 103515.05375199325 78.06481030049127 2.4885119760313668
+2019-05-13 18:33:37,370 root         DEBUG    current pressure, altitude and vertical velocity: 103515.03607284513 78.06621624662863 1.414273195884085
+2019-05-13 18:33:37,470 root         DEBUG    current pressure, altitude and vertical velocity: 103512.3164390946 78.28249928167834 2.455943813477943
+2019-05-13 18:33:37,577 root         DEBUG    current pressure, altitude and vertical velocity: 103513.55717858861 78.18382700006016 1.1741735946774985
+2019-05-13 18:33:37,606 root         INFO     LAUNCHED
+2019-05-13 18:33:37,671 root         DEBUG    current pressure, altitude and vertical velocity: 103510.70276065069 78.41083172021301 2.4373541522829973
+2019-05-13 18:33:37,770 root         DEBUG    current pressure, altitude and vertical velocity: 103512.5351959959 78.26510213295944 0.911026647956179
+2019-05-13 18:33:37,870 root         DEBUG    current pressure, altitude and vertical velocity: 103509.64619289555 78.49485920646536 2.42337581056062
+2019-05-13 18:33:37,970 root         DEBUG    current pressure, altitude and vertical velocity: 103511.40022710922 78.35536348555924 0.6804282622544351
+2019-05-13 18:33:38,010 root         INFO     LAUNCHED
+2019-05-13 18:33:38,070 root         DEBUG    current pressure, altitude and vertical velocity: 103509.34781369145 78.51858905078484 2.34426379473016
+2019-05-13 18:33:38,170 root         DEBUG    current pressure, altitude and vertical velocity: 103510.03326762488 78.46407556561475 0.5578719508589008
+2019-05-13 18:33:38,270 root         DEBUG    current pressure, altitude and vertical velocity: 103507.87864157817 78.63543187322614 2.281193722868534
+2019-05-13 18:33:38,370 root         DEBUG    current pressure, altitude and vertical velocity: 103507.66528597492 78.65240009358176 0.5190529761286329
+2019-05-13 18:33:38,414 root         INFO     LAUNCHED
+2019-05-13 18:33:38,470 root         DEBUG    current pressure, altitude and vertical velocity: 103507.07928045004 78.6990053949955 2.099679651995415
+2019-05-13 18:33:38,603 root         DEBUG    current pressure, altitude and vertical velocity: 103507.79726784244 78.64190354183607 0.4100458253563462
+2019-05-13 18:33:38,667 root         DEBUG    current pressure, altitude and vertical velocity: 103506.84018217254 78.71802105790681 1.9658292028666118
+2019-05-13 18:33:38,770 root         DEBUG    current pressure, altitude and vertical velocity: 103507.55617364896 78.66107783306705 0.3120980179809555
+2019-05-13 18:33:38,819 root         INFO     LAUNCHED
+2019-05-13 18:33:38,870 root         DEBUG    current pressure, altitude and vertical velocity: 103507.01999730054 78.70372022439746 1.8118886739103541
+2019-05-13 18:33:38,971 root         DEBUG    current pressure, altitude and vertical velocity: 103507.72462641918 78.64768073149361 0.2248487232790105
+2019-05-13 18:33:39,070 root         DEBUG    current pressure, altitude and vertical velocity: 103506.81716971543 78.7198512575385 1.7028703325642045
+2019-05-13 18:33:39,170 root         DEBUG    current pressure, altitude and vertical velocity: 103506.45313863535 78.74880299273308 0.23131558614569128
+2019-05-13 18:33:39,223 root         INFO     LAUNCHED
+2019-05-13 18:33:39,270 root         DEBUG    current pressure, altitude and vertical velocity: 103505.94689983485 78.78906478015953 1.5728450867342434
+2019-05-13 18:33:39,370 root         DEBUG    current pressure, altitude and vertical velocity: 103506.04629997078 78.78115935379775 0.20027860116933446
+2019-05-13 18:33:39,470 root         DEBUG    current pressure, altitude and vertical velocity: 103506.33466830538 78.7582250677464 1.3926262920094665
+2019-05-13 18:33:39,568 root         DEBUG    current pressure, altitude and vertical velocity: 103506.05286028913 78.78063760308311 0.20266327638911386
+2019-05-13 18:33:39,635 root         INFO     LAUNCHED
+2019-05-13 18:33:39,672 root         DEBUG    current pressure, altitude and vertical velocity: 103506.25425808181 78.76462018585127 1.2373462455766835
+2019-05-13 18:33:39,770 root         DEBUG    current pressure, altitude and vertical velocity: 103505.6235382313 78.81478220580361 0.2325589687025412
+2019-05-13 18:33:39,870 root         DEBUG    current pressure, altitude and vertical velocity: 103506.13621896546 78.77400798067427 1.0728373958896753
+2019-05-13 18:33:39,970 root         DEBUG    current pressure, altitude and vertical velocity: 103506.19316652254 78.76947887094327 0.20477396210129145
+2019-05-13 18:33:40,038 root         INFO     LAUNCHED
+2019-05-13 18:33:40,070 root         DEBUG    current pressure, altitude and vertical velocity: 103505.05545954738 78.85996250078915 1.0560372861465854
+2019-05-13 18:33:40,170 root         DEBUG    current pressure, altitude and vertical velocity: 103505.80414259304 78.80041846624128 0.12475253134329303
+2019-05-13 18:33:40,270 root         DEBUG    current pressure, altitude and vertical velocity: 103505.5873363879 78.81766139592203 0.9676764872126749
+2019-05-13 18:33:40,370 root         DEBUG    current pressure, altitude and vertical velocity: 103505.41968126193 78.83099528517246 0.12561116745939638
+2019-05-13 18:33:40,439 root         INFO     LAUNCHED
+2019-05-13 18:33:40,470 root         DEBUG    current pressure, altitude and vertical velocity: 103505.25600192283 78.8440129905165 0.883926543835448
+2019-05-13 18:33:40,608 root         DEBUG    current pressure, altitude and vertical velocity: 103504.84844032205 78.8764271534931 0.14546421369005003
+2019-05-13 18:33:40,670 root         DEBUG    current pressure, altitude and vertical velocity: 103504.80538747576 78.87985123576871 0.7989579717275178
+2019-05-13 18:33:40,770 root         DEBUG    current pressure, altitude and vertical velocity: 103504.49398663265 78.90461762613236 0.15568418268469716
+2019-05-13 18:33:40,839 root         INFO     LAUNCHED
+2019-05-13 18:33:40,870 root         DEBUG    current pressure, altitude and vertical velocity: 103504.68415373062 78.88949321354194 0.7039377619643419
+2019-05-13 18:33:40,970 root         DEBUG    current pressure, altitude and vertical velocity: 103504.40085336863 78.91202473019709 0.16264728107137708
+2019-05-13 18:33:41,070 root         DEBUG    current pressure, altitude and vertical velocity: 103504.426033922 78.91002206196553 0.6315413175363531
+2019-05-13 18:33:41,170 root         DEBUG    current pressure, altitude and vertical velocity: 103503.53533113241 78.98086197711946 0.21722246811816479
+2019-05-13 18:33:41,243 root         INFO     LAUNCHED
+2019-05-13 18:33:41,270 root         DEBUG    current pressure, altitude and vertical velocity: 103504.3709052626 78.91440657354062 0.5019317822038751
+2019-05-13 18:33:41,370 root         DEBUG    current pressure, altitude and vertical velocity: 103503.25795240594 79.00292273198829 0.2840163797540231
+2019-05-13 18:33:41,470 root         DEBUG    current pressure, altitude and vertical velocity: 103504.2096148351 78.9272343904689 0.37605026246409223
+2019-05-13 18:33:41,608 root         DEBUG    current pressure, altitude and vertical velocity: 103502.48429161226 79.06445453016944 0.3928348814791663
+2019-05-13 18:33:41,646 root         INFO     LAUNCHED
+2019-05-13 18:33:41,671 root         DEBUG    current pressure, altitude and vertical velocity: 103503.88038718059 78.95341871094126 0.22740941698950506
+2019-05-13 18:33:41,770 root         DEBUG    current pressure, altitude and vertical velocity: 103501.30383953982 79.15834050532457 0.5584731877145597
+2019-05-13 18:33:41,870 root         DEBUG    current pressure, altitude and vertical velocity: 103504.09552068198 78.93630858364862 -0.017363446385394637
+2019-05-13 18:33:41,970 root         DEBUG    current pressure, altitude and vertical velocity: 103500.82334506937 79.19655636200196 0.7628736472964354
+2019-05-13 18:33:42,048 root         INFO     LAUNCHED
+2019-05-13 18:33:42,070 root         DEBUG    current pressure, altitude and vertical velocity: 103503.84770560809 78.95601796400491 -0.2561654997438975
+2019-05-13 18:33:42,170 root         DEBUG    current pressure, altitude and vertical velocity: 103501.083480743 79.17586659996603 0.9064349185279057
+2019-05-13 18:33:42,270 root         DEBUG    current pressure, altitude and vertical velocity: 103503.55179729898 78.97955237545128 -0.4268631742842587
+2019-05-13 18:33:42,370 root         DEBUG    current pressure, altitude and vertical velocity: 103501.5064330319 79.14222738958945 0.9784664408132886
+2019-05-13 18:33:42,449 root         INFO     LAUNCHED
+2019-05-13 18:33:42,470 root         DEBUG    current pressure, altitude and vertical velocity: 103503.61780502669 78.97430259238183 -0.5521016540634511
+2019-05-13 18:33:42,608 root         DEBUG    current pressure, altitude and vertical velocity: 103501.17584955052 79.16852010278927 1.0748373071394006
+2019-05-13 18:33:42,670 root         DEBUG    current pressure, altitude and vertical velocity: 103502.86494714636 79.03417969141513 -0.6312319000312461
+2019-05-13 18:33:42,770 root         DEBUG    current pressure, altitude and vertical velocity: 103499.79321870292 79.27848736925607 1.211661254266397
+2019-05-13 18:33:42,853 root         INFO     LAUNCHED
+2019-05-13 18:33:42,870 root         DEBUG    current pressure, altitude and vertical velocity: 103500.9150045921 79.18926626239018 -0.6573298168940138
+2019-05-13 18:33:42,970 root         DEBUG    current pressure, altitude and vertical velocity: 103500.64512183734 79.21073128302845 1.1119601494780316
+2019-05-13 18:33:43,070 root         DEBUG    current pressure, altitude and vertical velocity: 103500.34626148618 79.23450107887459 -0.5678270393584771
+2019-05-13 18:33:43,170 root         DEBUG    current pressure, altitude and vertical velocity: 103500.39402715738 79.23070204239595 0.996965098051589
+2019-05-13 18:33:43,254 root         INFO     LAUNCHED
+2019-05-13 18:33:43,270 root         DEBUG    current pressure, altitude and vertical velocity: 103500.16958731395 79.2485528487394 -0.493193529079183
+2019-05-13 18:33:43,370 root         DEBUG    current pressure, altitude and vertical velocity: 103500.5154170384 79.22104732034678 0.8697630598538207
+2019-05-13 18:33:43,470 root         DEBUG    current pressure, altitude and vertical velocity: 103500.04777922617 79.2582408592135 -0.4066806373045479
+2019-05-13 18:33:43,593 root         DEBUG    current pressure, altitude and vertical velocity: 103501.05686488072 79.17798347744626 0.702529372101199
+2019-05-13 18:33:43,659 root         INFO     LAUNCHED
+2019-05-13 18:33:43,671 root         DEBUG    current pressure, altitude and vertical velocity: 103500.56556713094 79.21705864457793 -0.3269374064424224
+2019-05-13 18:33:43,685 root         INFO     deploy vote sent
+2019-05-13 18:33:43,770 root         DEBUG    current pressure, altitude and vertical velocity: 103501.55838252959 79.13809563086112 0.5533134211742631
+2019-05-13 18:33:43,870 root         DEBUG    current pressure, altitude and vertical velocity: 103501.05303964225 79.17828771565324 -0.2540515810060555
+2019-05-13 18:33:43,970 root         DEBUG    current pressure, altitude and vertical velocity: 103501.83752633618 79.1158941966703 0.4355885600738929
+2019-05-13 18:33:44,070 root         DEBUG    current pressure, altitude and vertical velocity: 103501.81899421381 79.11736812968563 -0.2271724898901167
+2019-05-13 18:33:44,129 root         INFO     DEPLOYED
+2019-05-13 18:33:44,170 root         DEBUG    current pressure, altitude and vertical velocity: 103502.81279450645 79.03832756417512 0.3129891385559932
+2019-05-13 18:33:44,270 root         DEBUG    current pressure, altitude and vertical velocity: 103501.99718755856 79.10319571686355 -0.13958708821267188
+2019-05-13 18:33:44,370 root         DEBUG    current pressure, altitude and vertical velocity: 103503.66625123017 78.97044952922587 0.14894403706271514
+2019-05-13 18:33:44,470 root         DEBUG    current pressure, altitude and vertical velocity: 103501.38778910936 79.15166363851995 0.05558572990267019
+2019-05-13 18:33:44,546 root         INFO     DEPLOYED
+2019-05-13 18:33:44,586 root         DEBUG    current pressure, altitude and vertical velocity: 103502.85487598414 79.03498068428024 0.017366679116736866
+2019-05-13 18:33:44,681 root         DEBUG    current pressure, altitude and vertical velocity: 103501.34948909999 79.15470980083951 0.16975627347167338
+2019-05-13 18:33:44,770 root         DEBUG    current pressure, altitude and vertical velocity: 103502.23507266231 79.08427581628517 -0.0548039733492784
+2019-05-13 18:33:44,870 root         DEBUG    current pressure, altitude and vertical velocity: 103502.25146628 79.08297197126993 0.15147680110926243
+2019-05-13 18:33:44,948 root         INFO     DEPLOYED
+2019-05-13 18:33:44,970 root         DEBUG    current pressure, altitude and vertical velocity: 103502.33005031735 79.07672189464435 -0.055573652639927196
+2019-05-13 18:33:45,070 root         DEBUG    current pressure, altitude and vertical velocity: 103502.221094899 79.08538751960124 0.14499474595522657
+2019-05-13 18:33:45,170 root         DEBUG    current pressure, altitude and vertical velocity: 103503.31911837889 78.9980580161466 -0.13734579083057466
+2019-05-13 18:33:45,270 root         DEBUG    current pressure, altitude and vertical velocity: 103503.5053915442 78.98324315927282 0.11568041448592012
+2019-05-13 18:33:45,349 root         INFO     DEPLOYED
+2019-05-13 18:33:45,370 root         DEBUG    current pressure, altitude and vertical velocity: 103503.59279470312 78.97629173451111 -0.1305626365092265
+2019-05-13 18:33:45,470 root         DEBUG    current pressure, altitude and vertical velocity: 103504.13243823536 78.93337243745819 0.06119307598440947
+2019-05-13 18:33:45,572 root         DEBUG    current pressure, altitude and vertical velocity: 103503.41622795 78.99033460144562 -0.06054420887086827
+2019-05-13 18:33:45,670 root         DEBUG    current pressure, altitude and vertical velocity: 103504.2092709008 78.92726174441052 -0.007999088649141041
+2019-05-13 18:33:45,753 root         INFO     DEPLOYED
+2019-05-13 18:33:45,770 root         DEBUG    current pressure, altitude and vertical velocity: 103504.578685485 78.89788133507284 -0.08387019732145783
+2019-05-13 18:33:45,870 root         DEBUG    current pressure, altitude and vertical velocity: 103504.44163547065 78.90878123455359 0.0037007196965209398
+2019-05-13 18:33:45,971 root         DEBUG    current pressure, altitude and vertical velocity: 103504.56626870051 78.89886886971526 -0.0853955424276404
+2019-05-13 18:33:46,070 root         DEBUG    current pressure, altitude and vertical velocity: 103503.36776150152 78.99418928234698 0.0986510603585906
+2019-05-13 18:33:46,154 root         INFO     DEPLOYED
+2019-05-13 18:33:46,170 root         DEBUG    current pressure, altitude and vertical velocity: 103504.35125714791 78.91596923464867 -0.15507603588318564
+2019-05-13 18:33:46,270 root         DEBUG    current pressure, altitude and vertical velocity: 103502.11315451372 79.09397242258451 0.26678914225857475
+2019-05-13 18:33:46,370 root         DEBUG    current pressure, altitude and vertical velocity: 103503.47124009333 78.98595932373888 -0.24758153114049888
+2019-05-13 18:33:46,470 root         DEBUG    current pressure, altitude and vertical velocity: 103502.64755486097 79.05146963353383 0.3056205378276623
+2019-05-13 18:33:46,571 root         INFO     DEPLOYED
+2019-05-13 18:33:46,574 root         DEBUG    current pressure, altitude and vertical velocity: 103504.87171863718 78.87457578122735 -0.3997172303329266
+2019-05-13 18:33:46,672 root         DEBUG    current pressure, altitude and vertical velocity: 103503.07019232628 79.01785587677728 0.4183385795948221
+2019-05-13 18:33:46,770 root         DEBUG    current pressure, altitude and vertical velocity: 103504.82510928475 78.87828271919649 -0.4993186648804183
+2019-05-13 18:33:46,870 root         DEBUG    current pressure, altitude and vertical velocity: 103503.48154448603 78.9851397852661 0.48336178770494814
+2019-05-13 18:33:46,970 root         DEBUG    current pressure, altitude and vertical velocity: 103505.5251264903 78.82260904983733 -0.6119175338211507
+2019-05-13 18:33:46,976 root         INFO     DEPLOYED
+2019-05-13 18:33:47,070 root         DEBUG    current pressure, altitude and vertical velocity: 103504.21101683883 78.92712288566032 0.5395394447574524
+2019-05-13 18:33:47,170 root         DEBUG    current pressure, altitude and vertical velocity: 103505.07928087976 78.8580679443441 -0.6197807217552601
+2019-05-13 18:33:47,270 root         DEBUG    current pressure, altitude and vertical velocity: 103506.19107909607 78.76964488651963 0.39716244245723603
+2019-05-13 18:33:47,370 root         DEBUG    current pressure, altitude and vertical velocity: 103503.51654970381 78.98235571845834 -0.3450918176410265
+2019-05-13 18:33:47,380 root         INFO     DEPLOYED
+2019-05-13 18:33:47,470 root         DEBUG    current pressure, altitude and vertical velocity: 103505.31907421436 78.83899673839595 0.21408721814912463
+2019-05-13 18:33:47,578 root         DEBUG    current pressure, altitude and vertical velocity: 103503.36011476305 78.99479745034867 -0.15478192392420204
+2019-05-13 18:33:47,670 root         DEBUG    current pressure, altitude and vertical velocity: 103505.353892184 78.83622760408025 0.03410865006579153
+2019-05-13 18:33:47,770 root         DEBUG    current pressure, altitude and vertical velocity: 103502.94199806044 79.02805157929713 0.0525202436850955
+2019-05-13 18:33:47,784 root         INFO     DEPLOYED
+2019-05-13 18:33:47,871 root         DEBUG    current pressure, altitude and vertical velocity: 103505.2352621847 78.84566245951912 -0.15169133471879614
+2019-05-13 18:33:47,970 root         DEBUG    current pressure, altitude and vertical velocity: 103502.88094219836 79.03290755212066 0.23451331191812916
+2019-05-13 18:33:48,070 root         DEBUG    current pressure, altitude and vertical velocity: 103505.82395193526 78.7988430003727 -0.3705867529948794
+2019-05-13 18:33:48,170 root         DEBUG    current pressure, altitude and vertical velocity: 103502.6416678212 79.05193785008639 0.46415683044000666
+2019-05-13 18:33:48,197 root         INFO     DEPLOYED
+2019-05-13 18:33:48,270 root         DEBUG    current pressure, altitude and vertical velocity: 103506.04099748572 78.78158106740148 -0.6038848603803053
+2019-05-13 18:33:48,370 root         DEBUG    current pressure, altitude and vertical velocity: 103502.67974050697 79.04890979862004 0.6850698786145752
+2019-05-13 18:33:48,470 root         DEBUG    current pressure, altitude and vertical velocity: 103505.31131361358 78.83961395271852 -0.752792220243797
+2019-05-13 18:33:48,600 root         INFO     DEPLOYED
+2019-05-13 18:33:48,603 root         DEBUG    current pressure, altitude and vertical velocity: 103504.59496428058 78.89658664620406 0.6735355842386517
+2019-05-13 18:33:48,671 root         DEBUG    current pressure, altitude and vertical velocity: 103506.70022276587 78.72915214969665 -0.8449474947268286
+2019-05-13 18:33:48,770 root         DEBUG    current pressure, altitude and vertical velocity: 103505.66815892447 78.81123345231383 0.6882633284319699
+2019-05-13 18:33:48,870 root         DEBUG    current pressure, altitude and vertical velocity: 103506.0535375877 78.78058373664098 -0.7911024609269969
+2019-05-13 18:33:48,970 root         DEBUG    current pressure, altitude and vertical velocity: 103506.08726151458 78.7779016289863 0.6167548879340948
+2019-05-13 18:33:49,006 root         INFO     DEPLOYED
+2019-05-13 18:33:49,070 root         DEBUG    current pressure, altitude and vertical velocity: 103505.91216600766 78.79182720956763 -0.698066634252968
+2019-05-13 18:33:49,170 root         DEBUG    current pressure, altitude and vertical velocity: 103506.98406702417 78.70657778490978 0.4698299744828395
+2019-05-13 18:33:49,270 root         DEBUG    current pressure, altitude and vertical velocity: 103507.14184218114 78.69402982015207 -0.6408079355853864
+2019-05-13 18:33:49,370 root         DEBUG    current pressure, altitude and vertical velocity: 103507.13998799433 78.69417728478754 0.42299444167003064
+2019-05-13 18:33:49,410 root         INFO     DEPLOYED
+2019-05-13 18:33:49,470 root         DEBUG    current pressure, altitude and vertical velocity: 103506.60214561992 78.73695231664556 -0.533952110168834
+2019-05-13 18:33:49,603 root         DEBUG    current pressure, altitude and vertical velocity: 103507.23054508297 78.68697522533269 0.33071790619015906
+2019-05-13 18:33:49,670 root         DEBUG    current pressure, altitude and vertical velocity: 103506.30222430844 78.76080537586691 -0.40672674861772995
+2019-05-13 18:33:49,770 root         DEBUG    current pressure, altitude and vertical velocity: 103508.11353762889 78.61675056911285 0.15359130881708705
+2019-05-13 18:33:49,818 root         INFO     DEPLOYED
+2019-05-13 18:33:49,870 root         DEBUG    current pressure, altitude and vertical velocity: 103505.38845913426 78.8334784345309 -0.14932620833790627
+2019-05-13 18:33:49,970 root         DEBUG    current pressure, altitude and vertical velocity: 103507.81407229061 78.64056708055074 -0.05467917604478645
+2019-05-13 18:33:50,070 root         DEBUG    current pressure, altitude and vertical velocity: 103506.30295480741 78.76074727844582 -0.014213389609034482
+2019-05-13 18:33:50,170 root         DEBUG    current pressure, altitude and vertical velocity: 103508.43387502 78.59127416322923 -0.21868437365689783
+2019-05-13 18:33:50,219 root         INFO     DEPLOYED
+2019-05-13 18:33:50,270 root         DEBUG    current pressure, altitude and vertical velocity: 103507.72302790843 78.64780786146682 0.04374164758945577
+2019-05-13 18:33:50,370 root         DEBUG    current pressure, altitude and vertical velocity: 103507.5137015785 78.66445565294049 -0.18016814481753493
+2019-05-13 18:33:50,470 root         DEBUG    current pressure, altitude and vertical velocity: 103507.54560982675 78.66191797774903 0.03682980763904811
+2019-05-13 18:33:50,577 root         DEBUG    current pressure, altitude and vertical velocity: 103508.5011956378 78.58592016831479 -0.23814913977002294
+2019-05-13 18:33:50,659 root         INFO     DEPLOYED
+2019-05-13 18:33:50,676 root         DEBUG    current pressure, altitude and vertical velocity: 103508.2288706739 78.60757813429358 0.054804792853932964
+2019-05-13 18:33:50,770 root         DEBUG    current pressure, altitude and vertical velocity: 103508.73943307274 78.5669732168291 -0.25493914325749845
+2019-05-13 18:33:50,870 root         DEBUG    current pressure, altitude and vertical velocity: 103509.16122153914 78.53342859431375 0.01577969105318927
+2019-05-13 18:33:50,970 root         DEBUG    current pressure, altitude and vertical velocity: 103509.0130308332 78.54521411318724 -0.2176597100582536
+2019-05-13 18:33:51,063 root         INFO     DEPLOYED
+2019-05-13 18:33:51,071 root         DEBUG    current pressure, altitude and vertical velocity: 103508.15417254381 78.61351887416777 0.08250648292839463
+2019-05-13 18:33:51,170 root         DEBUG    current pressure, altitude and vertical velocity: 103509.76901841657 78.48509101346325 -0.32432159975694774
+2019-05-13 18:33:51,270 root         DEBUG    current pressure, altitude and vertical velocity: 103509.69228334755 78.49119367699623 0.08035849816854045
+2019-05-13 18:33:51,370 root         DEBUG    current pressure, altitude and vertical velocity: 103510.08572254576 78.45990388887009 -0.3231792279073979
+2019-05-13 18:33:51,464 root         INFO     DEPLOYED
+2019-05-13 18:33:51,471 root         DEBUG    current pressure, altitude and vertical velocity: 103510.99113136555 78.3878980865294 0.0003168460110028609
+2019-05-13 18:33:51,577 root         DEBUG    current pressure, altitude and vertical velocity: 103511.64767959912 78.33568411388582 -0.3430752777602434
+2019-05-13 18:33:51,681 root         DEBUG    current pressure, altitude and vertical velocity: 103514.17376446744 78.13479213779623 -0.20060681467969096
+2019-05-13 18:33:51,770 root         DEBUG    current pressure, altitude and vertical velocity: 103514.4157999293 78.11554399120568 -0.3280158965747607
+2019-05-13 18:33:51,868 root         INFO     DEPLOYED
+2019-05-13 18:33:51,871 root         DEBUG    current pressure, altitude and vertical velocity: 103517.79897251146 77.84649717026339 -0.449592954154015
+2019-05-13 18:33:51,970 root         DEBUG    current pressure, altitude and vertical velocity: 103518.27580400594 77.8085777194186 -0.3331337577620813
+2019-05-13 18:33:52,070 root         DEBUG    current pressure, altitude and vertical velocity: 103519.81534988417 77.6861481586662 -0.5270632194910077
+2019-05-13 18:33:52,170 root         DEBUG    current pressure, altitude and vertical velocity: 103521.11478382976 77.58281421467575 -0.40315432597632267
+2019-05-13 18:33:52,270 root         DEBUG    current pressure, altitude and vertical velocity: 103523.72337365734 77.37537641045904 -0.6817947017586167
+2019-05-13 18:33:52,271 root         INFO     DEPLOYED
+2019-05-13 18:33:52,370 root         DEBUG    current pressure, altitude and vertical velocity: 103525.45628018881 77.23757621938877 -0.5006390844489597
+2019-05-13 18:33:52,470 root         DEBUG    current pressure, altitude and vertical velocity: 103526.75213642587 77.13453136217781 -0.7166600887937156
+2019-05-13 18:33:52,582 root         DEBUG    current pressure, altitude and vertical velocity: 103528.62674290105 76.98546687644098 -0.5996396617408932
+2019-05-13 18:33:52,671 root         DEBUG    current pressure, altitude and vertical velocity: 103530.5130372657 76.83547521862059 -0.7949857377347377
+2019-05-13 18:33:52,676 root         INFO     DEPLOYED
+2019-05-13 18:33:52,770 root         DEBUG    current pressure, altitude and vertical velocity: 103532.32522244584 76.69137856869658 -0.683772345490813
+2019-05-13 18:33:52,870 root         DEBUG    current pressure, altitude and vertical velocity: 103535.30886731256 76.45413730263158 -0.9527284300262624
+2019-05-13 18:33:52,970 root         DEBUG    current pressure, altitude and vertical velocity: 103539.06330295668 76.15561537361604 -0.9139170399572674
+2019-05-13 18:33:53,070 root         DEBUG    current pressure, altitude and vertical velocity: 103542.08010166255 75.91575068260987 -1.097320278029812
+2019-05-13 18:33:53,080 root         INFO     DEPLOYED
+2019-05-13 18:33:53,170 root         DEBUG    current pressure, altitude and vertical velocity: 103545.80142361535 75.61987742963728 -1.1183985889341241
+2019-05-13 18:33:53,270 root         DEBUG    current pressure, altitude and vertical velocity: 103547.64357351755 75.47341578357266 -1.1340498962914534
+2019-05-13 18:33:53,370 root         DEBUG    current pressure, altitude and vertical velocity: 103551.79738889229 75.14317106937175 -1.3368034442416274
+2019-05-13 18:33:53,470 root         DEBUG    current pressure, altitude and vertical velocity: 103554.41856975155 74.9347824087239 -1.2290335673101496
+2019-05-13 18:33:53,484 root         INFO     DEPLOYED
+2019-05-13 18:33:53,577 root         DEBUG    current pressure, altitude and vertical velocity: 103559.09416111384 74.56307504847835 -1.574830460063016
+2019-05-13 18:33:53,671 root         DEBUG    current pressure, altitude and vertical velocity: 103560.63934798875 74.44023641339385 -1.2289688456636403
+2019-05-13 18:33:53,770 root         DEBUG    current pressure, altitude and vertical velocity: 103566.38665701608 73.9833523109092 -1.8742315165413652
+2019-05-13 18:33:53,870 root         DEBUG    current pressure, altitude and vertical velocity: 103569.61987682851 73.72633559638656 -1.3630886756199112
+2019-05-13 18:33:53,910 root         INFO     DEPLOYED
+2019-05-13 18:33:53,970 root         DEBUG    current pressure, altitude and vertical velocity: 103573.53413030037 73.41519057484561 -1.9979533864281807
+2019-05-13 18:33:54,070 root         DEBUG    current pressure, altitude and vertical velocity: 103576.81406552531 73.15447506179848 -1.4874953211050514
+2019-05-13 18:33:54,170 root         DEBUG    current pressure, altitude and vertical velocity: 103580.1700776778 72.88771931672403 -2.064913792859811
+2019-05-13 18:33:54,270 root         DEBUG    current pressure, altitude and vertical velocity: 103583.23836179526 72.64384007190796 -1.5826250338106176
+2019-05-13 18:33:54,314 root         INFO     DEPLOYED
+2019-05-13 18:33:54,370 root         DEBUG    current pressure, altitude and vertical velocity: 103586.22102307975 72.40677211429839 -2.095490371183398
+2019-05-13 18:33:54,470 root         DEBUG    current pressure, altitude and vertical velocity: 103590.91197849871 72.03393674633448 -1.7971978983934715
+2019-05-13 18:33:54,582 root         DEBUG    current pressure, altitude and vertical velocity: 103594.67506065131 71.73485835184344 -2.1850197285560915
+2019-05-13 18:33:54,671 root         DEBUG    current pressure, altitude and vertical velocity: 103598.36923123647 71.4412654612221 -1.9110709991754649
+2019-05-13 18:33:54,719 root         INFO     DEPLOYED
+2019-05-13 18:33:54,770 root         DEBUG    current pressure, altitude and vertical velocity: 103601.97540008355 71.15467471519426 -2.253108501728323
+2019-05-13 18:33:54,870 root         DEBUG    current pressure, altitude and vertical velocity: 103606.25886155169 70.81426850083757 -2.060370113614609
+2019-05-13 18:33:54,970 root         DEBUG    current pressure, altitude and vertical velocity: 103610.73071069185 70.45890338837268 -2.383162764020386
+2019-05-13 18:33:55,070 root         DEBUG    current pressure, altitude and vertical velocity: 103614.37720642885 70.16913602107336 -2.1441004695524675
+2019-05-13 18:33:55,123 root         INFO     DEPLOYED
+2019-05-13 18:33:55,170 root         DEBUG    current pressure, altitude and vertical velocity: 103618.24277167849 69.86196946396237 -2.4520130447293367
+2019-05-13 18:33:55,270 root         DEBUG    current pressure, altitude and vertical velocity: 103623.00567139308 69.4835115359178 -2.308148350641789
+2019-05-13 18:33:55,370 root         DEBUG    current pressure, altitude and vertical velocity: 103625.34128765529 69.29792967506108 -2.3923936011131177
+2019-05-13 18:33:55,470 root         DEBUG    current pressure, altitude and vertical velocity: 103630.17699805197 68.91370782478266 -2.4615553658560323
+2019-05-13 18:33:55,528 root         INFO     DEPLOYED
+2019-05-13 18:33:55,587 root         DEBUG    current pressure, altitude and vertical velocity: 103633.62263949924 68.63994296498748 -2.426919100796985
+2019-05-13 18:33:55,676 root         DEBUG    current pressure, altitude and vertical velocity: 103638.51659844158 68.25111840878917 -2.604224385468745
+2019-05-13 18:33:55,770 root         DEBUG    current pressure, altitude and vertical velocity: 103643.0992834744 67.88703811384975 -2.548307485656699
+2019-05-13 18:33:55,870 root         DEBUG    current pressure, altitude and vertical velocity: 103644.77323969077 67.75405069237722 -2.4767893683944053
+2019-05-13 18:33:55,929 root         INFO     DEPLOYED
+2019-05-13 18:33:55,970 root         DEBUG    current pressure, altitude and vertical velocity: 103651.42766896702 67.2254070055676 -2.822120423900645
+2019-05-13 18:33:56,070 root         DEBUG    current pressure, altitude and vertical velocity: 103653.29417769011 67.07713208600886 -2.3773853511137095
+2019-05-13 18:33:56,170 root         DEBUG    current pressure, altitude and vertical velocity: 103659.04252579862 66.62049863859593 -2.9965418289235073
+2019-05-13 18:33:56,270 root         DEBUG    current pressure, altitude and vertical velocity: 103660.90194371459 66.47279585882447 -2.2873495957738026
+2019-05-13 18:33:56,333 root         INFO     DEPLOYED
+2019-05-13 18:33:56,370 root         DEBUG    current pressure, altitude and vertical velocity: 103668.0152706389 65.90776899925113 -3.2619145056044934
+2019-05-13 18:33:56,470 root         DEBUG    current pressure, altitude and vertical velocity: 103670.56725809668 65.70506685474525 -2.2613167807023005
+2019-05-13 18:33:56,582 root         DEBUG    current pressure, altitude and vertical velocity: 103676.51670869863 65.23252297365475 -3.408266936134546
+2019-05-13 18:33:56,671 root         DEBUG    current pressure, altitude and vertical velocity: 103680.27216585235 64.93425164430111 -2.33345643198571
+2019-05-13 18:33:56,734 root         INFO     DEPLOYED
+2019-05-13 18:33:56,770 root         DEBUG    current pressure, altitude and vertical velocity: 103685.34422633391 64.53142513839562 -3.470266748426586
+2019-05-13 18:33:56,870 root         DEBUG    current pressure, altitude and vertical velocity: 103688.3778889319 64.29049726683179 -2.3410386603509656
+2019-05-13 18:33:56,970 root         DEBUG    current pressure, altitude and vertical velocity: 103694.22752950463 63.82594586812911 -3.587791472286609
+2019-05-13 18:33:57,070 root         DEBUG    current pressure, altitude and vertical velocity: 103696.28824864552 63.6622981774936 -2.270582484951383
+2019-05-13 18:33:57,138 root         INFO     DEPLOYED
+2019-05-13 18:33:57,170 root         DEBUG    current pressure, altitude and vertical velocity: 103703.42401579121 63.095646687268854 -3.795663815282691
+2019-05-13 18:33:57,270 root         DEBUG    current pressure, altitude and vertical velocity: 103704.05696610392 63.04538561920746 -2.0937853045176404
+2019-05-13 18:33:57,370 root         DEBUG    current pressure, altitude and vertical velocity: 103711.37690794548 62.464144754615916 -3.9973382983459644
+2019-05-13 18:33:57,470 root         DEBUG    current pressure, altitude and vertical velocity: 103711.02877600814 62.49178745507413 -1.8567640736076605
+2019-05-13 18:33:57,541 root         INFO     DEPLOYED
+2019-05-13 18:33:57,579 root         DEBUG    current pressure, altitude and vertical velocity: 103718.78414354389 61.87600638613048 -4.213385537455022
+2019-05-13 18:33:57,677 root         DEBUG    current pressure, altitude and vertical velocity: 103718.02712236902 61.93611269004034 -1.6109813623370326
+2019-05-13 18:33:57,770 root         DEBUG    current pressure, altitude and vertical velocity: 103725.67672889761 61.328762292034305 -4.399397381715554
+2019-05-13 18:33:57,870 root         DEBUG    current pressure, altitude and vertical velocity: 103725.68634633272 61.327998726342656 -1.4506467917949786
+2019-05-13 18:33:57,943 root         INFO     DEPLOYED
+2019-05-13 18:33:57,970 root         DEBUG    current pressure, altitude and vertical velocity: 103732.07946905559 60.820436552535455 -4.467019817351201
+2019-05-13 18:33:58,070 root         DEBUG    current pressure, altitude and vertical velocity: 103732.13110831619 60.81633691730847 -1.3096817478424665
+2019-05-13 18:33:58,170 root         DEBUG    current pressure, altitude and vertical velocity: 103738.75439555699 60.29052867164837 -4.546126081276182
+2019-05-13 18:33:58,270 root         DEBUG    current pressure, altitude and vertical velocity: 103737.21367571545 60.412840595789646 -1.056401648916941
+2019-05-13 18:33:58,344 root         INFO     DEPLOYED
+2019-05-13 18:33:58,370 root         DEBUG    current pressure, altitude and vertical velocity: 103743.84531332059 59.886390492697366 -4.617963576240844
+2019-05-13 18:33:58,470 root         DEBUG    current pressure, altitude and vertical velocity: 103742.93012025987 59.95904112300476 -0.8781108537178537
+2019-05-13 18:33:58,582 root         DEBUG    current pressure, altitude and vertical velocity: 103749.46101628148 59.44061145297618 -4.674596888645341
+2019-05-13 18:33:58,670 root         DEBUG    current pressure, altitude and vertical velocity: 103747.8353071454 59.5696595336635 -0.6612516876587492
+2019-05-13 18:33:58,748 root         INFO     DEPLOYED
+2019-05-13 18:33:58,770 root         DEBUG    current pressure, altitude and vertical velocity: 103754.2270161502 59.062297973280174 -4.71449876016413
+2019-05-13 18:33:58,870 root         DEBUG    current pressure, altitude and vertical velocity: 103752.65789415383 59.1868494961451 -0.4705749960279475
+2019-05-13 18:33:58,970 root         DEBUG    current pressure, altitude and vertical velocity: 103757.11208167016 58.83329537658364 -4.596603003709175
+2019-05-13 18:33:59,070 root         DEBUG    current pressure, altitude and vertical velocity: 103755.91537782307 58.92828333008283 -0.32852954292596764
+2019-05-13 18:33:59,149 root         INFO     DEPLOYED
+2019-05-13 18:33:59,170 root         DEBUG    current pressure, altitude and vertical velocity: 103760.18673564863 58.589249879670554 -4.475976153750532
+2019-05-13 18:33:59,271 root         DEBUG    current pressure, altitude and vertical velocity: 103759.51745850846 58.64237212655889 -0.2425543417450352
+2019-05-13 18:33:59,370 root         DEBUG    current pressure, altitude and vertical velocity: 103761.90427133141 58.452925936989054 -4.217824727945314
+2019-05-13 18:33:59,470 root         DEBUG    current pressure, altitude and vertical velocity: 103761.32978711928 58.4985235927902 -0.17270125176938597
+2019-05-13 18:33:59,555 root         INFO     DEPLOYED
+2019-05-13 18:33:59,573 root         DEBUG    current pressure, altitude and vertical velocity: 103763.94236237764 58.291161318176776 -4.003404529764206
+2019-05-13 18:33:59,672 root         DEBUG    current pressure, altitude and vertical velocity: 103763.46812657043 58.328801492843844 -0.11779095192537933
+2019-05-13 18:33:59,770 root         DEBUG    current pressure, altitude and vertical velocity: 103766.68123365211 58.07377939661476 -3.858086173016869
+2019-05-13 18:33:59,870 root         DEBUG    current pressure, altitude and vertical velocity: 103765.12997000635 58.19690131950796 0.017110066160356277
+2019-05-13 18:33:59,958 root         INFO     DEPLOYED
+2019-05-13 18:33:59,970 root         DEBUG    current pressure, altitude and vertical velocity: 103768.8088541092 57.90491517140269 -3.7642637038204483
+2019-05-13 18:34:00,070 root         DEBUG    current pressure, altitude and vertical velocity: 103766.62546038009 58.078206027862215 0.1886899160038441
+2019-05-13 18:34:00,170 root         DEBUG    current pressure, altitude and vertical velocity: 103770.42305984987 57.77680134755315 -3.6892420137474655
+2019-05-13 18:34:00,270 root         DEBUG    current pressure, altitude and vertical velocity: 103768.05134486657 57.96503657228453 0.3580561491348387
+2019-05-13 18:34:00,359 root         INFO     DEPLOYED
+2019-05-13 18:34:00,371 root         DEBUG    current pressure, altitude and vertical velocity: 103770.8599322549 57.74212860312987 -3.5432257815273807
+2019-05-13 18:34:00,470 root         DEBUG    current pressure, altitude and vertical velocity: 103769.20670089326 57.873339322530896 0.45346125362238004
+2019-05-13 18:34:00,582 root         DEBUG    current pressure, altitude and vertical velocity: 103771.28267236642 57.708577593383986 -3.353664932521553
+2019-05-13 18:34:00,670 root         DEBUG    current pressure, altitude and vertical velocity: 103770.07727477711 57.804244953973964 0.5037824888501201
+2019-05-13 18:34:00,763 root         INFO     DEPLOYED
+2019-05-13 18:34:00,771 root         DEBUG    current pressure, altitude and vertical velocity: 103772.10914570565 57.64298438814146 -3.1795590051019045
+2019-05-13 18:34:00,870 root         DEBUG    current pressure, altitude and vertical velocity: 103770.8469760717 57.7431568797489 0.5535767315725533
+2019-05-13 18:34:00,970 root         DEBUG    current pressure, altitude and vertical velocity: 103772.73126187702 57.593610307421635 -3.0111496769189814
+2019-05-13 18:34:01,070 root         DEBUG    current pressure, altitude and vertical velocity: 103772.26840116986 57.63034509854918 0.534953849542841
+2019-05-13 18:34:01,164 root         INFO     DEPLOYED
+2019-05-13 18:34:01,171 root         DEBUG    current pressure, altitude and vertical velocity: 103773.18989231413 57.55721138216198 -2.78316842561428
+2019-05-13 18:34:01,270 root         DEBUG    current pressure, altitude and vertical velocity: 103772.19460374839 57.63620201951837 0.5604491019449478
+2019-05-13 18:34:01,370 root         DEBUG    current pressure, altitude and vertical velocity: 103773.7618747888 57.51181652538641 -2.629237077184816
+2019-05-13 18:34:01,470 root         DEBUG    current pressure, altitude and vertical velocity: 103772.29669862372 57.62809927638899 0.6206869427530323
+2019-05-13 18:34:01,582 root         DEBUG    current pressure, altitude and vertical velocity: 103774.08274201855 57.48635128569204 -2.5080613601632837
+2019-05-13 18:34:01,587 root         INFO     DEPLOYED
+2019-05-13 18:34:01,672 root         DEBUG    current pressure, altitude and vertical velocity: 103772.68599171148 57.597203153651904 0.669470116437595
+2019-05-13 18:34:01,770 root         DEBUG    current pressure, altitude and vertical velocity: 103775.90193580235 57.34197438527594 -2.51248399252292
+2019-05-13 18:34:01,870 root         DEBUG    current pressure, altitude and vertical velocity: 103773.18785586918 57.557373003089644 0.8179217226075401
+2019-05-13 18:34:01,970 root         DEBUG    current pressure, altitude and vertical velocity: 103776.23912676689 57.3152140840285 -2.503394512331775
+2019-05-13 18:34:01,997 root         INFO     DEPLOYED
+2019-05-13 18:34:02,070 root         DEBUG    current pressure, altitude and vertical velocity: 103774.34130032035 57.465831165450005 0.8867466317682944
+2019-05-13 18:34:02,170 root         DEBUG    current pressure, altitude and vertical velocity: 103775.98641860101 57.3352696166891 -2.3836166098595064
+2019-05-13 18:34:02,270 root         DEBUG    current pressure, altitude and vertical velocity: 103774.88319650629 57.422824463176795 0.8856268150791635
+2019-05-13 18:34:02,370 root         DEBUG    current pressure, altitude and vertical velocity: 103777.27839269332 57.23273583957058 -2.3353435724797706
+2019-05-13 18:34:02,401 root         INFO     DEPLOYED
+2019-05-13 18:34:02,470 root         DEBUG    current pressure, altitude and vertical velocity: 103775.29718220503 57.38996929043113 0.9542975844317994
+2019-05-13 18:34:02,576 root         DEBUG    current pressure, altitude and vertical velocity: 103778.29244071717 57.15225958832644 -2.3395189173364885
+2019-05-13 18:34:02,670 root         DEBUG    current pressure, altitude and vertical velocity: 103775.80415201403 57.34973475961129 1.0563429972734695
+2019-05-13 18:34:02,770 root         DEBUG    current pressure, altitude and vertical velocity: 103777.20914788624 57.2382312264655 -2.2170705587486257
+2019-05-13 18:34:02,806 root         INFO     DEPLOYED
+2019-05-13 18:34:02,870 root         DEBUG    current pressure, altitude and vertical velocity: 103776.02906379872 57.33188518762272 1.0443626587033383
+2019-05-13 18:34:02,970 root         DEBUG    current pressure, altitude and vertical velocity: 103775.761458934 57.353122994728636 -1.974125695767844
+2019-05-13 18:34:03,070 root         DEBUG    current pressure, altitude and vertical velocity: 103775.40332916398 57.381545159951024 0.9683485580553922
+2019-05-13 18:34:03,170 root         DEBUG    current pressure, altitude and vertical velocity: 103775.1697140222 57.40008554435472 -1.758172741787367
+2019-05-13 18:34:03,210 root         INFO     DEPLOYED
+2019-05-13 18:34:03,270 root         DEBUG    current pressure, altitude and vertical velocity: 103774.80508520619 57.42902362712968 0.9004517850248169
+2019-05-13 18:34:03,370 root         DEBUG    current pressure, altitude and vertical velocity: 103774.05178684276 57.488808002985685 -1.5225710917526256
+2019-05-13 18:34:03,470 root         DEBUG    current pressure, altitude and vertical velocity: 103773.77961503995 57.51040859013156 0.8320071936682114
+2019-05-13 18:34:03,569 root         DEBUG    current pressure, altitude and vertical velocity: 103773.9093982242 57.50010849834393 -1.3806140743649975
+2019-05-13 18:34:03,626 root         INFO     DEPLOYED
+2019-05-13 18:34:03,675 root         DEBUG    current pressure, altitude and vertical velocity: 103773.75513734447 57.51235123519694 0.7610492111544014
+2019-05-13 18:34:03,770 root         DEBUG    current pressure, altitude and vertical velocity: 103773.14607326686 57.560689048487404 -1.1942148536380317
+2019-05-13 18:34:03,870 root         DEBUG    current pressure, altitude and vertical velocity: 103773.48164893809 57.534056363729185 0.6583116052807421
+2019-05-13 18:34:03,970 root         DEBUG    current pressure, altitude and vertical velocity: 103773.785413301 57.50994841764698 -1.0989013143564321
+2019-05-13 18:34:04,028 root         INFO     DEPLOYED
+2019-05-13 18:34:04,070 root         DEBUG    current pressure, altitude and vertical velocity: 103773.47770196298 57.53436961172473 0.616901638830414
+2019-05-13 18:34:04,187 root         DEBUG    current pressure, altitude and vertical velocity: 103773.90137751581 57.5007450522531 -1.0226357423924148
+2019-05-13 18:34:04,270 root         DEBUG    current pressure, altitude and vertical velocity: 103773.49407563289 57.53307013075554 0.5875365534498111
+2019-05-13 18:34:04,370 root         DEBUG    current pressure, altitude and vertical velocity: 103774.03321138765 57.490282220127995 -0.9631600787807189
+2019-05-13 18:34:04,429 root         INFO     DEPLOYED
+2019-05-13 18:34:04,470 root         DEBUG    current pressure, altitude and vertical velocity: 103774.21518238132 57.47584033517403 0.5143410131508624
+2019-05-13 18:34:04,578 root         DEBUG    current pressure, altitude and vertical velocity: 103774.43653004762 57.458273401022126 -0.8844110050545482
+2019-05-13 18:34:04,670 root         DEBUG    current pressure, altitude and vertical velocity: 103773.59089590506 57.52538608398369 0.5300195947973407
+2019-05-13 18:34:04,770 root         DEBUG    current pressure, altitude and vertical velocity: 103775.0423881006 57.4101905181281 -0.9111654704046868
+2019-05-13 18:34:04,833 root         INFO     DEPLOYED
+2019-05-13 18:34:04,870 root         DEBUG    current pressure, altitude and vertical velocity: 103774.58072453656 57.4468296325127 0.5136567497022125
+2019-05-13 18:34:04,970 root         DEBUG    current pressure, altitude and vertical velocity: 103775.17062923049 57.40001291067057 -0.8668656452063523
+2019-05-13 18:34:05,070 root         DEBUG    current pressure, altitude and vertical velocity: 103775.09914994176 57.40568572390875 0.4679638879701762
+2019-05-13 18:34:05,170 root         DEBUG    current pressure, altitude and vertical velocity: 103774.21365182189 57.47596180589392 -0.7099029987005538
+2019-05-13 18:34:05,234 root         INFO     DEPLOYED
+2019-05-13 18:34:05,270 root         DEBUG    current pressure, altitude and vertical velocity: 103774.53244495341 57.45066126414724 0.39586695742648476
+2019-05-13 18:34:05,370 root         DEBUG    current pressure, altitude and vertical velocity: 103774.42951520752 57.458830123088674 -0.6307438398890672
+2019-05-13 18:34:05,470 root         DEBUG    current pressure, altitude and vertical velocity: 103774.79197158774 57.430064366432575 0.3275145050277368
+2019-05-13 18:34:05,578 root         DEBUG    current pressure, altitude and vertical velocity: 103774.66568247852 57.4400870853314 -0.5576467370013363
+2019-05-13 18:34:05,659 root         INFO     DEPLOYED
+2019-05-13 18:34:05,671 root         DEBUG    current pressure, altitude and vertical velocity: 103775.3999835202 57.381810679838075 0.23648664903163957
+2019-05-13 18:34:05,770 root         DEBUG    current pressure, altitude and vertical velocity: 103774.83508504531 57.42664274298062 -0.4570500001586595
+2019-05-13 18:34:05,870 root         DEBUG    current pressure, altitude and vertical velocity: 103775.36881494116 57.384284307990335 0.17047954913819172
+2019-05-13 18:34:05,970 root         DEBUG    current pressure, altitude and vertical velocity: 103774.81435709876 57.42828777972365 -0.3673415284094816
+2019-05-13 18:34:06,063 root         INFO     DEPLOYED
+2019-05-13 18:34:06,071 root         DEBUG    current pressure, altitude and vertical velocity: 103774.87024726544 57.423852156307646 0.14899597080837199
+2019-05-13 18:34:06,170 root         DEBUG    current pressure, altitude and vertical velocity: 103774.58293099151 57.44665452079234 -0.30780501108383634
+2019-05-13 18:34:06,270 root         DEBUG    current pressure, altitude and vertical velocity: 103775.44307281236 57.37839099057093 0.06583284350611962
+2019-05-13 18:34:06,370 root         DEBUG    current pressure, altitude and vertical velocity: 103776.58040729322 57.2881292973657 -0.36728620318068095
+2019-05-13 18:34:06,464 root         INFO     DEPLOYED
+2019-05-13 18:34:06,471 root         DEBUG    current pressure, altitude and vertical velocity: 103777.28316918739 57.232356768906236 0.0034770306960437633
+2019-05-13 18:34:06,572 root         DEBUG    current pressure, altitude and vertical velocity: 103776.58659145958 57.28763850874785 -0.2752758430210019
+2019-05-13 18:34:06,672 root         DEBUG    current pressure, altitude and vertical velocity: 103777.69567597492 57.19961958453565 -0.08488959658576065
+2019-05-13 18:34:06,770 root         DEBUG    current pressure, altitude and vertical velocity: 103777.14329660517 57.24345730007701 -0.20391054317753698
+2019-05-13 18:34:06,868 root         INFO     DEPLOYED
+2019-05-13 18:34:06,871 root         DEBUG    current pressure, altitude and vertical velocity: 103779.02665796744 57.09399149402439 -0.2258664429798094
+2019-05-13 18:34:06,970 root         DEBUG    current pressure, altitude and vertical velocity: 103777.06619978414 57.24957584297991 -0.027935139904261747
+2019-05-13 18:34:07,070 root         DEBUG    current pressure, altitude and vertical velocity: 103779.52015449895 57.05482738603281 -0.3980282556289243
+2019-05-13 18:34:07,170 root         DEBUG    current pressure, altitude and vertical velocity: 103777.04358482732 57.251370607483175 0.17140159553652662
+2019-05-13 18:34:07,270 root         DEBUG    current pressure, altitude and vertical velocity: 103779.25088922417 57.076196381220974 -0.5333996563282322
+2019-05-13 18:34:07,271 root         INFO     DEPLOYED
+2019-05-13 18:34:07,370 root         DEBUG    current pressure, altitude and vertical velocity: 103777.78232879937 57.19274269423695 0.2708077489988476
+2019-05-13 18:34:07,470 root         DEBUG    current pressure, altitude and vertical velocity: 103780.21711762935 56.99951633550916 -0.6732860494231934
+2019-05-13 18:34:07,578 root         DEBUG    current pressure, altitude and vertical velocity: 103778.041292727 57.172190979814516 0.41640161840431567
+2019-05-13 18:34:07,670 root         DEBUG    current pressure, altitude and vertical velocity: 103780.37974879099 56.98660995694451 -0.7915384673508777
+2019-05-13 18:34:07,676 root         INFO     DEPLOYED
+2019-05-13 18:34:07,770 root         DEBUG    current pressure, altitude and vertical velocity: 103777.6332294941 57.204575428185926 0.5927269278052976
+2019-05-13 18:34:07,870 root         DEBUG    current pressure, altitude and vertical velocity: 103779.8360255953 57.029759792676295 -0.8872002561254213
+2019-05-13 18:34:07,970 root         DEBUG    current pressure, altitude and vertical velocity: 103777.79506015778 57.191732316081705 0.695426758430178
+2019-05-13 18:34:08,070 root         DEBUG    current pressure, altitude and vertical velocity: 103779.50358610124 57.056142259105386 -0.9340702874891985
+2019-05-13 18:34:08,080 root         INFO     DEPLOYED
+2019-05-13 18:34:08,170 root         DEBUG    current pressure, altitude and vertical velocity: 103778.79854812623 57.1120944455604 0.6818362690421765
+2019-05-13 18:34:08,270 root         DEBUG    current pressure, altitude and vertical velocity: 103779.1936891935 57.080735803353676 -0.8720219009470047
+2019-05-13 18:34:08,370 root         DEBUG    current pressure, altitude and vertical velocity: 103779.82106506349 57.03094706206833 0.5638639008526116
+2019-05-13 18:34:08,470 root         DEBUG    current pressure, altitude and vertical velocity: 103780.1127638548 57.00779784023048 -0.807968932690152
+2019-05-13 18:34:08,484 root         INFO     DEPLOYED
+2019-05-13 18:34:08,576 root         DEBUG    current pressure, altitude and vertical velocity: 103779.6381020508 57.04546703745642 0.5451467079932885
+2019-05-13 18:34:08,675 root         DEBUG    current pressure, altitude and vertical velocity: 103779.75427358385 57.03624764268148 -0.7363914341960748
+2019-05-13 18:34:08,770 root         DEBUG    current pressure, altitude and vertical velocity: 103779.83352851565 57.02995796117371 0.4843423556861861
+2019-05-13 18:34:08,870 root         DEBUG    current pressure, altitude and vertical velocity: 103779.21357511709 57.07915764659425 -0.6135526053559277
+2019-05-13 18:34:08,893 root         INFO     DEPLOYED
+2019-05-13 18:34:08,970 root         DEBUG    current pressure, altitude and vertical velocity: 103779.74084625003 57.03731323799536 0.3940637115186837
+2019-05-13 18:34:09,070 root         DEBUG    current pressure, altitude and vertical velocity: 103778.56617259368 57.13053595863169 -0.4589746241840085
+2019-05-13 18:34:09,170 root         DEBUG    current pressure, altitude and vertical velocity: 103779.66181762503 57.04358496432728 0.267706346062406
+2019-05-13 18:34:09,270 root         DEBUG    current pressure, altitude and vertical velocity: 103778.86856307495 57.106538008344785 -0.3501241177481031
+2019-05-13 18:34:09,298 root         INFO     DEPLOYED
+2019-05-13 18:34:09,370 root         DEBUG    current pressure, altitude and vertical velocity: 103779.54488378753 57.05286486250184 0.1872625656132225
+2019-05-13 18:34:09,470 root         DEBUG    current pressure, altitude and vertical velocity: 103778.78820983497 57.112914900129454 -0.25506166834568117
+2019-05-13 18:34:09,607 root         DEBUG    current pressure, altitude and vertical velocity: 103780.35953984252 56.98821373441831 0.043835143340755944
+2019-05-13 18:34:09,671 root         DEBUG    current pressure, altitude and vertical velocity: 103780.26201318047 56.99595343132384 -0.22181580460558162
+2019-05-13 18:34:09,702 root         INFO     DEPLOYED
+2019-05-13 18:34:09,770 root         DEBUG    current pressure, altitude and vertical velocity: 103781.61673343653 56.88844362689302 -0.06805817542413879
+2019-05-13 18:34:09,870 root         DEBUG    current pressure, altitude and vertical velocity: 103782.00746210688 56.85743584166197 -0.23064200937607765
+2019-05-13 18:34:09,970 root         DEBUG    current pressure, altitude and vertical velocity: 103783.70158987422 56.72299288031526 -0.195695319228432
+2019-05-13 18:34:10,070 root         DEBUG    current pressure, altitude and vertical velocity: 103783.75050093551 56.71911141222519 -0.2114592765285413
+2019-05-13 18:34:10,106 root         INFO     DEPLOYED
+2019-05-13 18:34:10,170 root         DEBUG    current pressure, altitude and vertical velocity: 103784.25619377439 56.67898089187528 -0.21625630765550086
+2019-05-13 18:34:10,270 root         DEBUG    current pressure, altitude and vertical velocity: 103786.17520543591 56.52669437182873 -0.3425998689222318
+2019-05-13 18:34:10,370 root         DEBUG    current pressure, altitude and vertical velocity: 103787.54167376952 56.41825729225345 -0.3030677564652326
+2019-05-13 18:34:10,470 root         DEBUG    current pressure, altitude and vertical velocity: 103789.38450028624 56.272020310188026 -0.45457686409543324
+2019-05-13 18:34:10,511 root         INFO     DEPLOYED
+2019-05-13 18:34:10,577 root         DEBUG    current pressure, altitude and vertical velocity: 103790.05287026562 56.21898252112756 -0.32579876987917766
+2019-05-13 18:34:10,681 root         DEBUG    current pressure, altitude and vertical velocity: 103791.712678354 56.0872714202246 -0.5408302785888445
+2019-05-13 18:34:10,770 root         DEBUG    current pressure, altitude and vertical velocity: 103793.0579212125 55.980523340957554 -0.39996697215830934
+2019-05-13 18:34:10,870 root         DEBUG    current pressure, altitude and vertical velocity: 103796.15334580821 55.73489864830101 -0.7323719433865014
+2019-05-13 18:34:10,914 root         INFO     DEPLOYED
+2019-05-13 18:34:10,970 root         DEBUG    current pressure, altitude and vertical velocity: 103796.79008697001 55.684373412276884 -0.410495510966607
+2019-05-13 18:34:11,070 root         DEBUG    current pressure, altitude and vertical velocity: 103799.54474695907 55.46579481304376 -0.8777133482809774
+2019-05-13 18:34:11,170 root         DEBUG    current pressure, altitude and vertical velocity: 103799.08734301351 55.50208887892685 -0.3331518939868555
+2019-05-13 18:34:11,270 root         DEBUG    current pressure, altitude and vertical velocity: 103802.85845381726 55.20286285988323 -1.0891680324964952
+2019-05-13 18:34:11,318 root         INFO     DEPLOYED
+2019-05-13 18:34:11,370 root         DEBUG    current pressure, altitude and vertical velocity: 103802.96128066082 55.19470399097936 -0.3079955734920396
+2019-05-13 18:34:11,470 root         DEBUG    current pressure, altitude and vertical velocity: 103807.15980992881 54.86157433622999 -1.3133808839962164
+2019-05-13 18:34:11,572 root         DEBUG    current pressure, altitude and vertical velocity: 103807.98425890366 54.79616024382146 -0.34261010855136675
+2019-05-13 18:34:11,670 root         DEBUG    current pressure, altitude and vertical velocity: 103813.06183231805 54.39330068060391 -1.5849023588141486
+2019-05-13 18:34:11,719 root         INFO     DEPLOYED
+2019-05-13 18:34:11,770 root         DEBUG    current pressure, altitude and vertical velocity: 103813.62373524794 54.34871974904372 -0.3529300292564207
+2019-05-13 18:34:11,870 root         DEBUG    current pressure, altitude and vertical velocity: 103818.27661429194 53.979571589918514 -1.7955602820579366
+2019-05-13 18:34:11,970 root         DEBUG    current pressure, altitude and vertical velocity: 103819.93219132336 53.84822537186058 -0.4489832443887136
+2019-05-13 18:34:12,070 root         DEBUG    current pressure, altitude and vertical velocity: 103824.74824455856 53.46615055277606 -1.9980790729366653
+2019-05-13 18:34:12,123 root         INFO     DEPLOYED
+2019-05-13 18:34:12,170 root         DEBUG    current pressure, altitude and vertical velocity: 103826.6781749337 53.31304629497683 -0.5571891777490703
+2019-05-13 18:34:12,270 root         DEBUG    current pressure, altitude and vertical velocity: 103830.63355658436 52.99926721878871 -2.112050241831118
+2019-05-13 18:34:12,370 root         DEBUG    current pressure, altitude and vertical velocity: 103834.38453213446 52.70171261725359 -0.7990248615092818
+2019-05-13 18:34:12,470 root         DEBUG    current pressure, altitude and vertical velocity: 103838.69141557999 52.360070181812326 -2.2424876530892712
+2019-05-13 18:34:12,528 root         INFO     DEPLOYED
+2019-05-13 18:34:12,600 root         DEBUG    current pressure, altitude and vertical velocity: 103841.41875852007 52.14373037378957 -0.9354621833811059
+2019-05-13 18:34:12,680 root         DEBUG    current pressure, altitude and vertical velocity: 103845.787116839 51.79723069248043 -2.3647385690894844
+2019-05-13 18:34:12,770 root         DEBUG    current pressure, altitude and vertical velocity: 103848.25219431607 51.60170514912729 -1.0374415083961372
+2019-05-13 18:34:12,870 root         DEBUG    current pressure, altitude and vertical velocity: 103853.9685606587 51.14830774928853 -2.5816621120192997
+2019-05-13 18:34:12,928 root         INFO     DEPLOYED
+2019-05-13 18:34:12,970 root         DEBUG    current pressure, altitude and vertical velocity: 103856.11152107787 50.978342664555676 -1.1036624422893748
+2019-05-13 18:34:13,070 root         DEBUG    current pressure, altitude and vertical velocity: 103860.46488758946 50.63307197126563 -2.668766594107417
+2019-05-13 18:34:13,170 root         DEBUG    current pressure, altitude and vertical velocity: 103864.2251543623 50.334850229177356 -1.2915179401487107
+2019-05-13 18:34:13,270 root         DEBUG    current pressure, altitude and vertical velocity: 103867.04378507158 50.11131416286246 -2.6254260010115678
+2019-05-13 18:34:13,329 root         INFO     DEPLOYED
+2019-05-13 18:34:13,370 root         DEBUG    current pressure, altitude and vertical velocity: 103871.12133442734 49.787946275130594 -1.4857340338657092
+2019-05-13 18:34:13,470 root         DEBUG    current pressure, altitude and vertical velocity: 103873.92311399477 49.56575863593546 -2.5850710401055452
+2019-05-13 18:34:13,598 root         DEBUG    current pressure, altitude and vertical velocity: 103879.13827847938 49.15219697670963 -1.7507222897049657
+2019-05-13 18:34:13,671 root         DEBUG    current pressure, altitude and vertical velocity: 103881.61895994582 48.95548530171 -2.523275611094624
+2019-05-13 18:34:13,733 root         INFO     DEPLOYED
+2019-05-13 18:34:13,770 root         DEBUG    current pressure, altitude and vertical velocity: 103886.90437278351 48.536378406156054 -1.9947569562884142
+2019-05-13 18:34:13,870 root         DEBUG    current pressure, altitude and vertical velocity: 103890.66137889416 48.238477123428105 -2.568849332713111
+2019-05-13 18:34:13,970 root         DEBUG    current pressure, altitude and vertical velocity: 103894.31842010182 47.94851071872393 -2.0852476653637466
+2019-05-13 18:34:14,070 root         DEBUG    current pressure, altitude and vertical velocity: 103898.08086092783 47.65019587952651 -2.6102792386392237
+2019-05-13 18:34:14,134 root         INFO     DEPLOYED
+2019-05-13 18:34:14,170 root         DEBUG    current pressure, altitude and vertical velocity: 103902.72524389396 47.28196613325333 -2.2449526451005517
+2019-05-13 18:34:14,270 root         DEBUG    current pressure, altitude and vertical velocity: 103907.46371217977 46.90629067388428 -2.7249267741443504
+2019-05-13 18:34:14,370 root         DEBUG    current pressure, altitude and vertical velocity: 103911.53078105267 46.583856279320656 -2.3428917751541185
+2019-05-13 18:34:14,470 root         DEBUG    current pressure, altitude and vertical velocity: 103915.49733693132 46.269400401834666 -2.7668899742159057
+2019-05-13 18:34:14,545 root         INFO     DEPLOYED
+2019-05-13 18:34:14,572 root         DEBUG    current pressure, altitude and vertical velocity: 103919.97169515464 45.91469932936317 -2.4633036701102062
+2019-05-13 18:34:14,672 root         DEBUG    current pressure, altitude and vertical velocity: 103923.87736173256 45.60509100395723 -2.7998093022002544
+2019-05-13 18:34:14,770 root         DEBUG    current pressure, altitude and vertical velocity: 103928.49200456122 45.239293250577475 -2.5827710564789377
+2019-05-13 18:34:14,870 root         DEBUG    current pressure, altitude and vertical velocity: 103932.21224094856 44.94440377674515 -2.8147178458125564
+2019-05-13 18:34:14,948 root         INFO     DEPLOYED
+2019-05-13 18:34:14,970 root         DEBUG    current pressure, altitude and vertical velocity: 103937.06118177398 44.560058974040835 -2.7088387535353564
+2019-05-13 18:34:15,070 root         DEBUG    current pressure, altitude and vertical velocity: 103942.09303494636 44.16123133470548 -2.9320737005666593
+2019-05-13 18:34:15,170 root         DEBUG    current pressure, altitude and vertical velocity: 103944.98097666919 43.932338490777354 -2.666847722109943
+2019-05-13 18:34:15,270 root         DEBUG    current pressure, altitude and vertical velocity: 103949.7877092071 43.55137738935109 -3.019827431936259
+2019-05-13 18:34:15,349 root         INFO     DEPLOYED
+2019-05-13 18:34:15,370 root         DEBUG    current pressure, altitude and vertical velocity: 103953.12345321036 43.2870090067236 -2.664531332526437
+2019-05-13 18:34:15,470 root         DEBUG    current pressure, altitude and vertical velocity: 103958.03329236568 42.897901137675795 -3.1069525577904384
+2019-05-13 18:34:15,582 root         DEBUG    current pressure, altitude and vertical velocity: 103960.94602819328 42.66707205989991 -2.6289072770496804
+2019-05-13 18:34:15,671 root         DEBUG    current pressure, altitude and vertical velocity: 103966.54382139255 42.22347182537155 -3.239857536539756
+2019-05-13 18:34:15,753 root         INFO     DEPLOYED
+2019-05-13 18:34:15,770 root         DEBUG    current pressure, altitude and vertical velocity: 103969.21092411713 42.012122640479284 -2.577365734236976
+2019-05-13 18:34:15,870 root         DEBUG    current pressure, altitude and vertical velocity: 103975.23701023904 41.53461386584393 -3.3933805575211338
+2019-05-13 18:34:15,970 root         DEBUG    current pressure, altitude and vertical velocity: 103976.91659085621 41.40152744433092 -2.452715582326292
+2019-05-13 18:34:16,070 root         DEBUG    current pressure, altitude and vertical velocity: 103982.67984256624 40.944872881920496 -3.5106970641794413
+2019-05-13 18:34:16,154 root         INFO     DEPLOYED
+2019-05-13 18:34:16,170 root         DEBUG    current pressure, altitude and vertical velocity: 103984.76569455997 40.77960428889308 -2.372712617121076
+2019-05-13 18:34:16,270 root         DEBUG    current pressure, altitude and vertical velocity: 103991.2171162405 40.26845504057379 -3.670776606080789
+2019-05-13 18:34:16,370 root         DEBUG    current pressure, altitude and vertical velocity: 103994.15532908548 40.03566759502411 -2.368228800958651
+2019-05-13 18:34:16,470 root         DEBUG    current pressure, altitude and vertical velocity: 103999.73150549241 39.593895476791374 -3.7454710637054442
+2019-05-13 18:34:16,564 root         INFO     DEPLOYED
+2019-05-13 18:34:16,575 root         DEBUG    current pressure, altitude and vertical velocity: 104003.01469295588 39.33379425755422 -2.391507140099943
+2019-05-13 18:34:16,676 root         DEBUG    current pressure, altitude and vertical velocity: 104008.93071220643 38.865131313001136 -3.839586901887981
+2019-05-13 18:34:16,770 root         DEBUG    current pressure, altitude and vertical velocity: 104011.40101217722 38.6694422977795 -2.3480454413115877
+2019-05-13 18:34:16,870 root         DEBUG    current pressure, altitude and vertical velocity: 104016.94437445265 38.23032922359509 -3.894741285883588
+2019-05-13 18:34:16,970 root         DEBUG    current pressure, altitude and vertical velocity: 104020.45870036678 37.95195455377114 -2.391615567004383
+2019-05-13 18:34:16,976 root         INFO     DEPLOYED
+2019-05-13 18:34:17,070 root         DEBUG    current pressure, altitude and vertical velocity: 104025.27424956212 37.57052062773028 -3.886701083336085
+2019-05-13 18:34:17,170 root         DEBUG    current pressure, altitude and vertical velocity: 104029.70680404344 37.21943598934657 -2.503538648687655
+2019-05-13 18:34:17,270 root         DEBUG    current pressure, altitude and vertical velocity: 104034.04264183721 36.87602369399852 -3.841443270350529
+2019-05-13 18:34:17,370 root         DEBUG    current pressure, altitude and vertical velocity: 104038.03790417226 36.559596406344184 -2.5696120714732245
+2019-05-13 18:34:17,380 root         INFO     DEPLOYED
+2019-05-13 18:34:17,470 root         DEBUG    current pressure, altitude and vertical velocity: 104040.85716034478 36.336315511424694 -3.6805798382349666
+2019-05-13 18:34:17,577 root         DEBUG    current pressure, altitude and vertical velocity: 104046.45083115032 35.89331971644966 -2.755646659300935
+2019-05-13 18:34:17,670 root         DEBUG    current pressure, altitude and vertical velocity: 104049.81951733833 35.62654295487083 -3.579298615990302
+2019-05-13 18:34:17,770 root         DEBUG    current pressure, altitude and vertical velocity: 104055.26613367026 35.19522333267762 -2.911401615564049
+2019-05-13 18:34:17,784 root         INFO     DEPLOYED
+2019-05-13 18:34:17,870 root         DEBUG    current pressure, altitude and vertical velocity: 104058.21498887066 34.961710051246435 -3.454882035822458
+2019-05-13 18:34:17,970 root         DEBUG    current pressure, altitude and vertical velocity: 104062.42579756121 34.62827483912557 -2.9536966661285127
+2019-05-13 18:34:18,070 root         DEBUG    current pressure, altitude and vertical velocity: 104065.74191297154 34.365694155865235 -3.371974515500544
+2019-05-13 18:34:18,170 root         DEBUG    current pressure, altitude and vertical velocity: 104070.15548179898 34.01622416969125 -3.0077969856896476
+2019-05-13 18:34:18,197 root         INFO     DEPLOYED
+2019-05-13 18:34:18,270 root         DEBUG    current pressure, altitude and vertical velocity: 104073.23806162724 33.77215015131841 -3.2788510823233317
+2019-05-13 18:34:18,370 root         DEBUG    current pressure, altitude and vertical velocity: 104077.7064166892 33.4183630118032 -3.060804426635888
+2019-05-13 18:34:18,470 root         DEBUG    current pressure, altitude and vertical velocity: 104081.8863477393 33.087423391554815 -3.2819055943393853
+2019-05-13 18:34:18,570 root         DEBUG    current pressure, altitude and vertical velocity: 104086.33017241386 32.73560228954692 -3.106545085980196
+2019-05-13 18:34:18,634 root         INFO     DEPLOYED
+2019-05-13 18:34:18,677 root         DEBUG    current pressure, altitude and vertical velocity: 104090.18681256645 32.43027898080934 -3.259038343643024
+2019-05-13 18:34:18,770 root         DEBUG    current pressure, altitude and vertical velocity: 104094.5524191811 32.08467284265279 -3.141496715538724
+2019-05-13 18:34:18,870 root         DEBUG    current pressure, altitude and vertical velocity: 104097.88675474067 31.820715924818415 -3.1970914271130995
+2019-05-13 18:34:18,970 root         DEBUG    current pressure, altitude and vertical velocity: 104102.15560721989 31.482789656279046 -3.165273312524221
+2019-05-13 18:34:19,038 root         INFO     DEPLOYED
+2019-05-13 18:34:19,070 root         DEBUG    current pressure, altitude and vertical velocity: 104105.53108348005 31.215591870135718 -3.1445800705451172
+2019-05-13 18:34:19,170 root         DEBUG    current pressure, altitude and vertical velocity: 104111.26550140092 30.761679898694293 -3.302657952713224
+2019-05-13 18:34:19,270 root         DEBUG    current pressure, altitude and vertical velocity: 104113.75592147154 30.56455526070383 -3.0272467014810682
+2019-05-13 18:34:19,370 root         DEBUG    current pressure, altitude and vertical velocity: 104119.69111205824 30.094781631012683 -3.4421657871330487
+2019-05-13 18:34:19,439 root         INFO     DEPLOYED
+2019-05-13 18:34:19,470 root         DEBUG    current pressure, altitude and vertical velocity: 104122.64047936474 29.8613456966998 -2.9579579656458446
+2019-05-13 18:34:19,582 root         DEBUG    current pressure, altitude and vertical velocity: 104128.2284755841 29.419082879987112 -3.540212025132432
+2019-05-13 18:34:19,670 root         DEBUG    current pressure, altitude and vertical velocity: 104130.9541803668 29.2033635830128 -2.8778814660555736
+2019-05-13 18:34:19,770 root         DEBUG    current pressure, altitude and vertical velocity: 104135.53688202979 28.840687152857857 -3.5488672527741305
+2019-05-13 18:34:19,843 root         INFO     DEPLOYED
+2019-05-13 18:34:19,870 root         DEBUG    current pressure, altitude and vertical velocity: 104137.95670366845 28.649186971044813 -2.7815935012630604
+2019-05-13 18:34:19,970 root         DEBUG    current pressure, altitude and vertical velocity: 104143.11700562383 28.24082240099943 -3.6023450975421
+2019-05-13 18:34:20,070 root         DEBUG    current pressure, altitude and vertical velocity: 104145.09680824727 28.084153538547415 -2.66010301358877
+2019-05-13 18:34:20,170 root         DEBUG    current pressure, altitude and vertical velocity: 104151.18305762408 27.602542072615215 -3.72372205372009
+2019-05-13 18:34:20,244 root         INFO     DEPLOYED
+2019-05-13 18:34:20,270 root         DEBUG    current pressure, altitude and vertical velocity: 104153.04522003532 27.455191743190053 -2.541443041655055
+2019-05-13 18:34:20,370 root         DEBUG    current pressure, altitude and vertical velocity: 104158.02164141176 27.06142496623699 -3.7451166253011423
+2019-05-13 18:34:20,470 root         DEBUG    current pressure, altitude and vertical velocity: 104161.14711352826 26.814125161680643 -2.5345985420458983
+2019-05-13 18:34:20,578 root         DEBUG    current pressure, altitude and vertical velocity: 104166.66145375441 26.377823357856744 -3.8069067665949263
+2019-05-13 18:34:20,668 root         INFO     DEPLOYED
+2019-05-13 18:34:20,671 root         DEBUG    current pressure, altitude and vertical velocity: 104169.96749551012 26.11625404904506 -2.542707996652992
+2019-05-13 18:34:20,770 root         DEBUG    current pressure, altitude and vertical velocity: 104175.60943644104 25.66988736865139 -3.8725827703291036
+2019-05-13 18:34:20,870 root         DEBUG    current pressure, altitude and vertical velocity: 104178.29333234561 25.457555714419197 -2.5007688512198873
+2019-05-13 18:34:20,970 root         DEBUG    current pressure, altitude and vertical velocity: 104184.38403352784 24.975717269924537 -3.9671629377908526
+2019-05-13 18:34:21,070 root         DEBUG    current pressure, altitude and vertical velocity: 104186.838767439 24.7815285284572 -2.444880707565235
+2019-05-13 18:34:21,071 root         INFO     DEPLOYED
+2019-05-13 18:34:21,170 root         DEBUG    current pressure, altitude and vertical velocity: 104191.16445338477 24.43934186298336 -3.9126333094856105
+2019-05-13 18:34:21,270 root         DEBUG    current pressure, altitude and vertical velocity: 104195.0471858262 24.13220524031759 -2.507529259474481
+2019-05-13 18:34:21,370 root         DEBUG    current pressure, altitude and vertical velocity: 104199.18156270782 23.805172997280117 -3.8484022215745215
+2019-05-13 18:34:21,470 root         DEBUG    current pressure, altitude and vertical velocity: 104202.27310022347 23.5606370300376 -2.5013123007695492
+2019-05-13 18:34:21,476 root         INFO     DEPLOYED
+2019-05-13 18:34:21,576 root         DEBUG    current pressure, altitude and vertical velocity: 104207.08450797875 23.180073687090974 -3.8441253423636956
+2019-05-13 18:34:21,677 root         DEBUG    current pressure, altitude and vertical velocity: 104211.04211299127 22.867053512168326 -2.564201245615243
+2019-05-13 18:34:21,770 root         DEBUG    current pressure, altitude and vertical velocity: 104215.97034075801 22.4772771044831 -3.8494892158125515
+2019-05-13 18:34:21,870 root         DEBUG    current pressure, altitude and vertical velocity: 104219.75654195552 22.17783445772464 -2.60722376781218
+2019-05-13 18:34:21,880 root         INFO     DEPLOYED
+2019-05-13 18:34:21,970 root         DEBUG    current pressure, altitude and vertical velocity: 104224.16787416891 21.828962714075104 -3.8134120378808323
+2019-05-13 18:34:22,070 root         DEBUG    current pressure, altitude and vertical velocity: 104227.70953043942 21.548878313021838 -2.6265857920842275
+2019-05-13 18:34:22,170 root         DEBUG    current pressure, altitude and vertical velocity: 104232.39093996014 21.17867084889579 -3.8022782982187957
+2019-05-13 18:34:22,270 root         DEBUG    current pressure, altitude and vertical velocity: 104235.99574935154 20.89361053463034 -2.6489875271412555
+2019-05-13 18:34:22,285 root         INFO     DEPLOYED
+2019-05-13 18:34:22,370 root         DEBUG    current pressure, altitude and vertical velocity: 104241.65005665562 20.446496681345575 -3.869164321681682
+2019-05-13 18:34:22,470 root         DEBUG    current pressure, altitude and vertical velocity: 104245.30538854374 20.157462162909653 -2.673123292863053
+2019-05-13 18:34:22,582 root         DEBUG    current pressure, altitude and vertical velocity: 104250.12180313701 19.776631100487613 -3.8630789519355533
+2019-05-13 18:34:22,677 root         DEBUG    current pressure, altitude and vertical velocity: 104254.584154585 19.423808411734278 -2.7586336523300825
+2019-05-13 18:34:22,695 root         INFO     DEPLOYED
+2019-05-13 18:34:22,770 root         DEBUG    current pressure, altitude and vertical velocity: 104259.2478331346 19.05508065166577 -3.8454988168105073
+2019-05-13 18:34:22,870 root         DEBUG    current pressure, altitude and vertical velocity: 104263.5940814805 18.711462216140994 -2.826388722621849
+2019-05-13 18:34:22,970 root         DEBUG    current pressure, altitude and vertical velocity: 104266.84650869519 18.45432994038572 -3.7180812108847316
+2019-05-13 18:34:23,070 root         DEBUG    current pressure, altitude and vertical velocity: 104272.45241362191 18.01115041794381 -2.9869293728015736
+2019-05-13 18:34:23,110 root         INFO     DEPLOYED
+2019-05-13 18:34:23,170 root         DEBUG    current pressure, altitude and vertical velocity: 104274.87857414366 17.8193542866191 -3.5380692211209697
+2019-05-13 18:34:23,270 root         DEBUG    current pressure, altitude and vertical velocity: 104280.27150121004 17.39303834317712 -3.1145523789633938
+2019-05-13 18:34:23,370 root         DEBUG    current pressure, altitude and vertical velocity: 104282.57375775243 17.211048281966942 -3.3662523602190517
+2019-05-13 18:34:23,470 root         DEBUG    current pressure, altitude and vertical velocity: 104289.50040409304 16.66352663764366 -3.350618785390337
+2019-05-13 18:34:23,530 root         INFO     DEPLOYED
+2019-05-13 18:34:23,578 root         DEBUG    current pressure, altitude and vertical velocity: 104291.18595932695 16.53029522357981 -3.1628585382609966
+2019-05-13 18:34:23,677 root         DEBUG    current pressure, altitude and vertical velocity: 104296.83958108694 16.083428585459075 -3.4624235449720384
+2019-05-13 18:34:23,777 root         DEBUG    current pressure, altitude and vertical velocity: 104299.08157996157 15.90622473187589 -3.023776538018082
+2019-05-13 18:34:23,870 root         DEBUG    current pressure, altitude and vertical velocity: 104304.27830549456 15.495496157728649 -3.5269097646220753
+2019-05-13 18:34:23,933 root         INFO     DEPLOYED
+2019-05-13 18:34:23,970 root         DEBUG    current pressure, altitude and vertical velocity: 104307.49280303175 15.241443379076642 -2.9754516628682803
+2019-05-13 18:34:24,070 root         DEBUG    current pressure, altitude and vertical velocity: 104313.17850377066 14.792098564952836 -3.6235636022836744
+2019-05-13 18:34:24,170 root         DEBUG    current pressure, altitude and vertical velocity: 104317.25400805041 14.470020971053357 -2.9999840904809316
+2019-05-13 18:34:24,270 root         DEBUG    current pressure, altitude and vertical velocity: 104321.56819364153 14.129092134460155 -3.602136078648509
+2019-05-13 18:34:24,334 root         INFO     DEPLOYED
+2019-05-13 18:34:24,370 root         DEBUG    current pressure, altitude and vertical velocity: 104325.70750331534 13.801993692113163 -3.0270841237798307
+2019-05-13 18:34:24,470 root         DEBUG    current pressure, altitude and vertical velocity: 104330.57975022573 13.416990310092027 -3.626925852804794
+2019-05-13 18:34:24,598 root         DEBUG    current pressure, altitude and vertical velocity: 104334.09627608978 13.139124682115773 -3.0022413393781022
+2019-05-13 18:34:24,671 root         DEBUG    current pressure, altitude and vertical velocity: 104337.31536268059 12.884768537002328 -3.518589412637759
+2019-05-13 18:34:24,738 root         INFO     DEPLOYED
+2019-05-13 18:34:24,770 root         DEBUG    current pressure, altitude and vertical velocity: 104341.66666930933 12.540960194666406 -3.0458255477762144
+2019-05-13 18:34:24,870 root         DEBUG    current pressure, altitude and vertical velocity: 104345.49193858198 12.23872512781474 -3.4689655382256483
+2019-05-13 18:34:24,970 root         DEBUG    current pressure, altitude and vertical velocity: 104348.86556200997 11.972182164109276 -3.007785956704058
+2019-05-13 18:34:25,070 root         DEBUG    current pressure, altitude and vertical velocity: 104352.76073836558 11.664441133571398 -3.4298100149409616
+2019-05-13 18:34:25,139 root         INFO     DEPLOYED
+2019-05-13 18:34:25,170 root         DEBUG    current pressure, altitude and vertical velocity: 104356.80729335798 11.344750256257365 -3.026698238347685
+2019-05-13 18:34:25,270 root         DEBUG    current pressure, altitude and vertical velocity: 104361.76425475498 10.953148122290186 -3.478431147414045
+2019-05-13 18:34:25,370 root         DEBUG    current pressure, altitude and vertical velocity: 104365.2456393739 10.678126274618096 -2.999050262185006
+2019-05-13 18:34:25,470 root         DEBUG    current pressure, altitude and vertical velocity: 104370.26101317898 10.281935759434711 -3.526778547856025
+2019-05-13 18:34:25,550 root         INFO     DEPLOYED
+2019-05-13 18:34:25,608 root         DEBUG    current pressure, altitude and vertical velocity: 104373.45139431162 10.029919008948102 -2.9511619864531147
+2019-05-13 18:34:25,672 root         DEBUG    current pressure, altitude and vertical velocity: 104379.65607616819 9.539812566270987 -3.664207135747538
+2019-05-13 18:34:25,770 root         DEBUG    current pressure, altitude and vertical velocity: 104382.1400216993 9.343612922039037 -2.852245432039753
+2019-05-13 18:34:25,870 root         DEBUG    current pressure, altitude and vertical velocity: 104387.25025155956 8.939982683533637 -3.701416660678184
+2019-05-13 18:34:25,953 root         INFO     DEPLOYED
+2019-05-13 18:34:25,970 root         DEBUG    current pressure, altitude and vertical velocity: 104390.82432204694 8.657695191722446 -2.849308380646969
+2019-05-13 18:34:26,070 root         DEBUG    current pressure, altitude and vertical velocity: 104396.27481062265 8.227219491717266 -3.761750694615546
+2019-05-13 18:34:26,170 root         DEBUG    current pressure, altitude and vertical velocity: 104398.45047326256 8.055392328359433 -2.7362047059401045
+2019-05-13 18:34:26,270 root         DEBUG    current pressure, altitude and vertical velocity: 104403.81672349812 7.631594829259399 -3.809373124254026
+2019-05-13 18:34:26,354 root         INFO     DEPLOYED
+2019-05-13 18:34:26,370 root         DEBUG    current pressure, altitude and vertical velocity: 104405.91858173505 7.465606245983231 -2.6285728186222617
+2019-05-13 18:34:26,470 root         DEBUG    current pressure, altitude and vertical velocity: 104411.222324111 7.046769619875237 -3.847272437936618
+2019-05-13 18:34:26,603 root         DEBUG    current pressure, altitude and vertical velocity: 104413.67041226305 6.853449911264499 -2.5590352453707736
+2019-05-13 18:34:26,670 root         DEBUG    current pressure, altitude and vertical velocity: 104418.3186796013 6.486397452099583 -3.8295976533078724
+2019-05-13 18:34:26,758 root         INFO     DEPLOYED
+2019-05-13 18:34:26,770 root         DEBUG    current pressure, altitude and vertical velocity: 104420.27226731044 6.332135524404404 -2.4573936485288748
+2019-05-13 18:34:26,870 root         DEBUG    current pressure, altitude and vertical velocity: 104424.23013899355 6.019615736356668 -3.7591576760248215
+2019-05-13 18:34:26,970 root         DEBUG    current pressure, altitude and vertical velocity: 104426.76468884836 5.819488759297925 -2.4117812607347306
+2019-05-13 18:34:27,070 root         DEBUG    current pressure, altitude and vertical velocity: 104430.79036119484 5.501631530460025 -3.7010991372602393
+2019-05-13 18:34:27,159 root         INFO     DEPLOYED
+2019-05-13 18:34:27,171 root         DEBUG    current pressure, altitude and vertical velocity: 104432.50061826619 5.3665968462552724 -2.30563781886601
+2019-05-13 18:34:27,270 root         DEBUG    current pressure, altitude and vertical velocity: 104436.53658583088 5.0479410236617355 -3.6496450461277523
+2019-05-13 18:34:27,370 root         DEBUG    current pressure, altitude and vertical velocity: 104437.45557273796 4.975384726597762 -2.147630334043382
+2019-05-13 18:34:27,470 root         DEBUG    current pressure, altitude and vertical velocity: 104440.23024522721 4.756320607641136 -3.5037446604716034
+2019-05-13 18:34:27,601 root         INFO     DEPLOYED
+2019-05-13 18:34:27,615 root         DEBUG    current pressure, altitude and vertical velocity: 104442.43516131537 4.582242907182933 -2.1069450010972472
+2019-05-13 18:34:27,672 root         DEBUG    current pressure, altitude and vertical velocity: 104444.65489930677 4.406998048655767 -3.328615052951609
+2019-05-13 18:34:27,770 root         DEBUG    current pressure, altitude and vertical velocity: 104446.5360196773 4.2584889025927275 -2.0447596470505625
+2019-05-13 18:34:27,870 root         DEBUG    current pressure, altitude and vertical velocity: 104448.24345069542 4.123693929973428 -3.1305485202757475
+2019-05-13 18:34:27,970 root         DEBUG    current pressure, altitude and vertical velocity: 104450.39776105434 3.9536221535074407 -2.010355458811494
+2019-05-13 18:34:28,006 root         INFO     DEPLOYED
+2019-05-13 18:34:28,070 root         DEBUG    current pressure, altitude and vertical velocity: 104451.63186993134 3.856196863376452 -2.9149189583791615
+2019-05-13 18:34:28,170 root         DEBUG    current pressure, altitude and vertical velocity: 104453.90707603097 3.6765858251852124 -1.988930951121584
+2019-05-13 18:34:28,270 root         DEBUG    current pressure, altitude and vertical velocity: 104454.14241000758 3.658008094809207 -2.642004792917251
+2019-05-13 18:34:28,370 root         DEBUG    current pressure, altitude and vertical velocity: 104455.85515301228 3.522801797168941 -1.9252441536496916
+2019-05-13 18:34:28,410 root         INFO     DEPLOYED
+2019-05-13 18:34:28,470 root         DEBUG    current pressure, altitude and vertical velocity: 104456.95162331857 3.436245866775242 -2.464360244019225
+2019-05-13 18:34:28,578 root         DEBUG    current pressure, altitude and vertical velocity: 104458.10697397233 3.3450426934235997 -1.8239229116363644
+2019-05-13 18:34:28,671 root         DEBUG    current pressure, altitude and vertical velocity: 104460.47340802987 3.1582393824071047 -2.4047275306337976
+2019-05-13 18:34:28,770 root         DEBUG    current pressure, altitude and vertical velocity: 104460.50413386537 3.15581394652256 -1.6439560563572726
+2019-05-13 18:34:28,814 root         INFO     DEPLOYED
+2019-05-13 18:34:28,870 root         DEBUG    current pressure, altitude and vertical velocity: 104462.47540611139 3.0002068820714003 -2.3198618420215777
+2019-05-13 18:34:28,970 root         DEBUG    current pressure, altitude and vertical velocity: 104462.2900258423 3.014840212592565 -1.4649271202003809
+2019-05-13 18:34:29,070 root         DEBUG    current pressure, altitude and vertical velocity: 104464.61899676413 2.8310001729860126 -2.2717156974259725
+2019-05-13 18:34:29,170 root         DEBUG    current pressure, altitude and vertical velocity: 104463.28905192384 2.935980512612295 -1.2134540685540602
+2019-05-13 18:34:29,218 root         INFO     DEPLOYED
+2019-05-13 18:34:29,270 root         DEBUG    current pressure, altitude and vertical velocity: 104467.3250802238 2.6173965143356623 -2.363128125960008
+2019-05-13 18:34:29,370 root         DEBUG    current pressure, altitude and vertical velocity: 104467.99940560159 2.5641696021592506 -1.145335573875066
+2019-05-13 18:34:29,470 root         DEBUG    current pressure, altitude and vertical velocity: 104472.91768136655 2.1759609947146297 -2.5150239208086282
+2019-05-13 18:34:29,592 root         DEBUG    current pressure, altitude and vertical velocity: 104473.12999323127 2.159203162046183 -1.047559849156006
+2019-05-13 18:34:29,630 root         INFO     DEPLOYED
+2019-05-13 18:34:29,676 root         DEBUG    current pressure, altitude and vertical velocity: 104477.32340290575 1.8282219002414901 -2.5945027905324585
+2019-05-13 18:34:29,770 root         DEBUG    current pressure, altitude and vertical velocity: 104477.89852583501 1.7828289184683797 -0.988196846013516
+2019-05-13 18:34:29,870 root         DEBUG    current pressure, altitude and vertical velocity: 104481.4729801371 1.5007109535507377 -2.617170476396855
+2019-05-13 18:34:29,970 root         DEBUG    current pressure, altitude and vertical velocity: 104481.77682848052 1.4767297326040516 -0.9133583823588505
+2019-05-13 18:34:30,033 root         INFO     DEPLOYED
+2019-05-13 18:34:30,070 root         DEBUG    current pressure, altitude and vertical velocity: 104484.78287629719 1.2394805689532373 -2.592702592407984
+2019-05-13 18:34:30,170 root         DEBUG    current pressure, altitude and vertical velocity: 104484.90876747192 1.2295448618241476 -0.8319582512520552
+2019-05-13 18:34:30,270 root         DEBUG    current pressure, altitude and vertical velocity: 104486.24915260026 1.1237582737341811 -2.439218921257152
+2019-05-13 18:34:30,370 root         DEBUG    current pressure, altitude and vertical velocity: 104487.17994366505 1.0502985375296328 -0.8222221623313981
+2019-05-13 18:34:30,434 root         INFO     DEPLOYED
+2019-05-13 18:34:30,470 root         DEBUG    current pressure, altitude and vertical velocity: 104488.49150958021 0.9467882585976025 -2.2988073080634672
+2019-05-13 18:34:30,581 root         DEBUG    current pressure, altitude and vertical velocity: 104489.33379868204 0.8803144002895725 -0.8064738044062884
+2019-05-13 18:34:30,670 root         DEBUG    current pressure, altitude and vertical velocity: 104489.56762172667 0.8618610514239913 -2.087379926122702
+2019-05-13 18:34:30,770 root         DEBUG    current pressure, altitude and vertical velocity: 104490.56860144564 0.7828639664518771 -0.8048235089377738
+2019-05-13 18:34:30,838 root         INFO     DEPLOYED
+2019-05-13 18:34:30,844 root         INFO     waiting 2 seconds to record landing data
+2019-05-13 18:34:30,870 root         DEBUG    current pressure, altitude and vertical velocity: 104491.58085519384 0.7029777655716338 -1.958528134390675
+2019-05-13 18:34:30,970 root         DEBUG    current pressure, altitude and vertical velocity: 104491.74687334402 0.6898758152762761 -0.7374431083393542
+2019-05-13 18:34:31,070 root         DEBUG    current pressure, altitude and vertical velocity: 104492.25882478007 0.6494733381496695 -1.8030777980782142
+2019-05-13 18:34:31,170 root         DEBUG    current pressure, altitude and vertical velocity: 104492.33304555021 0.6436159542340285 -0.6695561814210598
+2019-05-13 18:34:31,270 root         DEBUG    current pressure, altitude and vertical velocity: 104492.75725513656 0.6101380804792039 -1.6562478920252173
+2019-05-13 18:34:31,370 root         DEBUG    current pressure, altitude and vertical velocity: 104492.94358487768 0.5954333003781966 -0.6173053433799611
+2019-05-13 18:34:31,470 root         DEBUG    current pressure, altitude and vertical velocity: 104494.20092129675 0.49620731933252266 -1.5898490838683694
+2019-05-13 18:34:31,582 root         DEBUG    current pressure, altitude and vertical velocity: 104493.74939915215 0.531840254283049 -0.5199418740914385
+2019-05-13 18:34:31,670 root         DEBUG    current pressure, altitude and vertical velocity: 104494.54042453741 0.4694147031146363 -1.4932897266499454
+2019-05-13 18:34:31,770 root         DEBUG    current pressure, altitude and vertical velocity: 104494.57959744672 0.46632329470204414 -0.47103909509488684
+2019-05-13 18:34:31,870 root         DEBUG    current pressure, altitude and vertical velocity: 104493.89405837993 0.520424116471147 -1.2898599322158482
+2019-05-13 18:34:31,970 root         DEBUG    current pressure, altitude and vertical velocity: 104494.52109983237 0.4709397511767782 -0.4734195508797669
+2019-05-13 18:34:32,070 root         DEBUG    current pressure, altitude and vertical velocity: 104494.61719982895 0.4633558284627458 -1.1684578617082957
+2019-05-13 18:34:32,170 root         DEBUG    current pressure, altitude and vertical velocity: 104495.1676611159 0.4199151888381987 -0.4695182354163373
+2019-05-13 18:34:32,270 root         DEBUG    current pressure, altitude and vertical velocity: 104494.70743173816 0.45623500273711115 -1.0152922616385536
+2019-05-13 18:34:32,370 root         DEBUG    current pressure, altitude and vertical velocity: 104495.17709764274 0.41917049002983586 -0.45963092458197885
+2019-05-13 18:34:32,470 root         DEBUG    current pressure, altitude and vertical velocity: 104495.38996882804 0.40237142998213504 -0.9305620955223991
+2019-05-13 18:34:32,576 root         DEBUG    current pressure, altitude and vertical velocity: 104496.42976405169 0.32031477699072497 -0.49572448511519107
+2019-05-13 18:34:32,670 root         DEBUG    current pressure, altitude and vertical velocity: 104496.03365474993 0.35157412605846267 -0.8062465369024214
+2019-05-13 18:34:32,770 root         DEBUG    current pressure, altitude and vertical velocity: 104496.56275655386 0.30981956659238163 -0.487906596069753
+2019-05-13 18:34:32,853 root         INFO     stopping at 1557765272.8534648
+2019-05-13 18:34:33,878 root         INFO     saved all data
+2019-05-13 18:34:33,879 root         INFO     LANDED
+2019-05-13 18:34:34,280 root         INFO     LANDED
+2019-05-13 18:34:34,680 root         INFO     LANDED
+2019-05-13 18:34:35,081 root         INFO     LANDED
+2019-05-13 18:34:35,481 root         INFO     LANDED
+2019-05-13 18:34:35,882 root         INFO     LANDED
+2019-05-13 18:34:36,282 root         INFO     LANDED
+2019-05-13 18:34:36,683 root         INFO     LANDED
+2019-05-13 18:34:37,083 root         INFO     LANDED
+2019-05-13 18:34:37,484 root         INFO     LANDED
+2019-05-13 18:34:37,884 root         INFO     LANDED
+2019-05-13 18:34:38,285 root         INFO     LANDED
+2019-05-13 18:34:38,685 root         INFO     LANDED
+2019-05-13 18:34:39,086 root         INFO     LANDED
+2019-05-13 18:34:39,486 root         INFO     LANDED
+2019-05-13 18:34:39,887 root         INFO     LANDED
+2019-05-13 18:34:39,888 root         DEBUG    Arm switch switched off, going to exit/power off now

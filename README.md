@@ -18,7 +18,7 @@ The .csv files for each sensor contain the timestamps and readings since the arm
 
 - The data files ended with null bytes because the flight computer did not shut down cleanly and might have been writing to the file at that moment (hard impact on the ground). I have removed these from these copies of the data files to make it possible to post-process them.
 - For a yet unknown reason the .log file ended before apogee (at 12s after launch) while the data files only end 32 seconds into the flight, at approx. 220m altitude on the way down.
-- I've also included a sample set of files from a test run of the flight computer at EWI for reference of a clean flight (in the elevator) with working log files and clean shutdown.
+- I've also included a sample set of files from a test run of the flight computer at EWI for reference of a clean flight (in the elevator) with working log files and clean shutdown (data/13-05-19_18-32-06*).
 
 
 ## post.py
