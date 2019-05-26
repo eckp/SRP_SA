@@ -133,8 +133,7 @@ def plot_states(state_transitions, plotter=plt):
 # setup
 
 sensors = {'baro':[], 'acc':[], 'gyro':[], 'mag':[]}
-data_dir = '../flown_software/data/'
-# data_dir = '../flight_software/data/'
+data_dir = '../flown_software_cleaned_up/data/'
 plt.ioff()
 
 #####################################
