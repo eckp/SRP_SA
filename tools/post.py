@@ -140,7 +140,6 @@ plt.ioff()
 # main
 
 if __name__ == '__main__':
-    print('scp -r pi@192.168.137.52:/home/pi/Documents/SRP/flight_software/ .')
     while True:
         try:
             datafilename = sys.argv[1]
