@@ -1,0 +1,37 @@
+{
+    "dry_run": false,
+    "g0": 9.81,
+    "T0": 291,
+    "R": 278,
+    "a": -0.0065,
+    "min_deploy_time": 14,
+    "min_flight_duration": 20,
+    "exp_factor_p": 0.2,
+    "exp_factor_vv": 0.1,
+    "blink_half_period": 0.2,
+    "battery_level_pin": 7,
+    "arm_switch_pin": 8,
+    "liftoff_pin": 10,
+    "deploy_vote_pin": 11,
+    "green_LED_pin": 12,
+    "red_LED_pin": 13,
+    "vv_deploy_threshold": -0.5,
+    "landing_altitude_range": 5,
+    "landing_vertical_velocity_range": 1,
+    "intervals": {
+        "baro": 0.1,
+        "acc": 0.1,
+        "gyro": 0.04,
+        "mag": 0.1
+    },
+    "state_intervals": {
+        "ERROR": 0.4,
+        "SYSTEMS_CHECK": 0.1,
+        "IDLE": 0.8,
+        "ARMED": 0.1,
+        "LAUNCHED": 0.1,
+        "DEPLOYED": 0.1,
+        "LANDED": 0.8
+    }
+
+}
