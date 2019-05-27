@@ -40,7 +40,7 @@ I have included annotation lines for the deploy vote window of the SRP board, to
 
 - The accelerometer data appears to have clipped during the propulsive phase
 - The gyroscope data appears to have clipped a few times during tumbling after separation
-- The magnetometer data looks sensible, as during ascent the rocket rolls about 1.5 revolutions, where the magnetic field in x and y varies sinusoidally with an amplitude of 0.55 gauss, a value that is comparable to the earth magnetic field intensity
+- The magnetometer data looks sensible, as during ascent the rocket rolls about 1.5 revolutions, where the magnetic field in x and y varies sinusoidally with a peak-to-peak amplitude of 0.55 gauss, a value that is comparable to the earth magnetic field intensity
 
 
 ## License
