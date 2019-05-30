@@ -208,3 +208,17 @@ if __name__ == '__main__':
         else:
             fig.set_size_inches(3 * fig.get_figwidth(), fig.get_figheight())
         plt.show()
+        ## plot altitude graph with annotations
+        fig, ax = plt.subplots(1, 1)
+        ax.set_title('Altitude')
+        ax.set_ylabel('Altitude [m]')
+        ax.set_xlabel('Time [s]')
+        ax.set_ylim(-20, 770)
+        ax.set_xlim(launchtime - 2, launchtime + 35)
+        ax.set_xlim(launchtime - 2, launchtime + 35)
+        plot(times, baroplots['altitude'], plotter=ax)
+        ax.axhline(714, color='r')
+        ax.text(launchtime + 3, 730, 'Apogee: 714m', weight='bold', size='large')
+        plot_states(get_state_transitions(log), ax)
+        fig.set_size_inches(7, 9)
+        plt.show()
