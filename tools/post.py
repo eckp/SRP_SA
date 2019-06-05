@@ -5,6 +5,7 @@ import os
 import csv
 import json
 import math
+import numpy as np
 import datetime
 import statistics
 import re
@@ -75,22 +76,40 @@ def calculate_acc_g(acc_data):
     return acc_raw
 
 def calculate_gyro_dps(gyro_data):
-    gyro_raw = [[gg*35/1000 for gg in g[2]] for g in gyro_data]  # conversion from LSB to dps
+    # looks like control register was set to 1000dps, so using the conversion factor of 35 mdps/LSB
+    # ^ wrong!!! I was using the imu.lsm6ds33.get_gyro_angular_velocity function,
+    # meaning that the values I logged are already in dps
+    gyro_raw = [[gg*1 for gg in g[2]] for g in gyro_data]  # conversion from LSB to dps
     return gyro_raw
 
 def calculate_mag_gaus(mag_data):
     mag_raw = [[mm/6842 for mm in m[2]] for m in mag_data]  # conversion from LSB to gauss
     return mag_raw
 
-def calculate_heading(mag):
+def calculate_heading(mag_list):
+    """Calculates the heading for the ascent only, as only then the data is interesting/processable"""
+    # setup and array creation
     launchtime = get_state_transitions(log)[3][0]
-    zero_samples = [m[2] for m in mag if m[1]<launchtime-2]
-    in_flight_mag = [m[2]for m in mag if m[1]>launchtime]
-    in_flight_times = [m[1] for m in mag if m[1]>launchtime]
-    heading_0 = math.atan(sum([s[0]/s[1] for s in zero_samples])/len(zero_samples))*180/math.pi
-    rel_headings = [math.atan(m[0]/m[1])*180/math.pi-heading_0 for m in in_flight_mag]
-    angular_rates = [0]+[(h-rel_headings[i])/(in_flight_times[i+1]-in_flight_times[i]) for i,h in enumerate(rel_headings[1:])]
-    return rel_headings, heading_0, angular_rates
+    usable_time = 60  # number of seconds after launch that are usable for heading calculations
+    mag = np.array([m[2] for m in mag_list])
+    times = np.array([m[1] for m in mag_list])
+    before_launch = np.array([m for m,t in zip(mag,times) if t<launchtime])
+    timeframe_of_interest = np.array([m for m,t in zip(mag,times) if launchtime<t<launchtime+usable_time])
+    times_toi = np.array([t for t in times if launchtime < t < launchtime + usable_time])
+    # calculation of offsets and zero values
+    offsets = np.array([(max(axis)+min(axis))/2 for axis in timeframe_of_interest.transpose()])
+    before_launch_zeroed = before_launch-offsets
+    timeframe_of_interest_zeroed = timeframe_of_interest-offsets
+    heading_zero = np.mean([np.arctan2(b[0],b[1]) for b in before_launch_zeroed])
+    # calculation of relative heading and angular rates
+    headings = np.array([np.arctan2(v[0],v[1])-heading_zero for v in timeframe_of_interest_zeroed])
+    # correct for modulo 360 by atan2 by adding/subtracting (based on the sign of the jump) 2pi whenever there's a jump bigger than pi in the values
+    for i in range(len(headings)):
+        diff = headings[i-1]-headings[i]
+        if abs(diff)>np.pi:
+            headings[i:] += np.pi*2*diff/abs(diff)
+    angular_rate = np.array([0]+[(h-headings[i])/(t-times_toi[j]) for (i,h), (j,t) in zip(enumerate(headings[1:]), enumerate(times_toi[1:]))])
+    return headings*180/np.pi, angular_rate*180/np.pi, heading_zero*180/np.pi
 
 def get_state_transitions(log):
     statelines = []
@@ -162,6 +181,7 @@ if __name__ == '__main__':
         n_rows = int(math.sqrt(n_plots))
         n_cols = math.ceil(n_plots/n_rows)
         fig, axs = plt.subplots(n_rows, n_cols)
+        fig.suptitle('Raw sensor readings', fontsize=20)
         for i, name in enumerate(sensors):
             sensors[name] = read_data(data_dir+datafilename+name+'.csv')
             ax = axs[i//n_cols, i%n_cols]
@@ -182,6 +202,7 @@ if __name__ == '__main__':
         n_rows = int(math.sqrt(n_plots))
         n_cols = math.ceil(n_plots / n_rows)
         fig, axs = plt.subplots(n_rows, n_cols)
+        fig.suptitle('Barometer based measurements', fontsize=20)
         for i, name in enumerate(baroplots):
             if n_rows==1:
                 ax = axs[i]
@@ -198,10 +219,29 @@ if __name__ == '__main__':
         plt.show()
         ## plot accelerations, angular rates and magnetic fields
         fig, axs = plt.subplots(2, 2)
+        fig.suptitle('Usable calibrated sensor readings', fontsize=20)
         axs[0,0].plot([i[1] for i in sensors['acc']], calculate_acc_g(sensors['acc']))
+        axs[0,0].set_title('Accelerometer')
+        axs[0,0].set_ylabel('Acceleration [g]')
+        axs[0,0].set_xlabel('Time [s]')
+        axs[0,0].set_xlim(launchtime - 2, launchtime + 35)
         axs[0,1].plot([i[1] for i in sensors['gyro']], calculate_gyro_dps(sensors['gyro']))
+        axs[0,1].set_title('Gyro')
+        axs[0,1].set_ylabel('Angular rate [dps]')
+        axs[0,1].set_xlabel('Time [s]')
+        axs[0,1].set_xlim(launchtime - 2, launchtime + 35)
         axs[1,0].plot([i[1] for i in sensors['mag']], calculate_mag_gaus(sensors['mag']))
-        axs[1,1].plot([i[1] for i in sensors['mag'] if i[1]>launchtime], calculate_heading(sensors['mag'])[2])
+        axs[1,0].set_title('Magnetometer')
+        axs[1,0].set_ylabel('Magnetic field strength [gauss]')
+        axs[1,0].set_xlabel('Time [s]')
+        axs[1,0].set_xlim(launchtime - 2, launchtime + 35)
+        angular_rate = calculate_heading(sensors['mag'])[1]
+        axs[1,1].plot([i[1] for i in sensors['mag'] if i[1]>launchtime][:len(angular_rate)], angular_rate)
+        axs[1,1].set_title('Magnetometer-derived')
+        axs[1,1].set_ylabel('Angular rate [dps]')
+        axs[1,1].set_xlabel('Time [s]')
+        axs[1,1].set_xlim(launchtime - 2, launchtime + 35)
+        axs[1,1].set_ylim(-800, 1100)
         if fullscreen:
             figManager = plt.get_current_fig_manager()
             figManager.window.showMaximized()
@@ -210,11 +250,10 @@ if __name__ == '__main__':
         plt.show()
         ## plot altitude graph with annotations
         fig, ax = plt.subplots(1, 1)
-        ax.set_title('Altitude')
+        ax.set_title('Barometer')
         ax.set_ylabel('Altitude [m]')
         ax.set_xlabel('Time [s]')
         ax.set_ylim(-20, 770)
-        ax.set_xlim(launchtime - 2, launchtime + 35)
         ax.set_xlim(launchtime - 2, launchtime + 35)
         plot(times, baroplots['altitude'], plotter=ax)
         ax.axhline(714, color='r')
