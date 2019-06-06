@@ -25,10 +25,10 @@ The .csv files for each sensor contain the timestamps and readings since the arm
 
 To quickly analyse the flight data I wrote a Python script that plots both the raw sensor data and the reconstructed altitudes and vertical velocities from the sensor data files. It also annotates the state changes which it reads from the .log file to illustrate the functioning of the state machine.
 
-The conversion factors from raw sensor data to usable units are the following (I'm not that sure about the angular rate as it should be around 50 dps to match the magnetometer heading change):
+The conversion factors from raw sensor data to usable units are the following:
 - pressure [Pa] = x/40.96
 - acceleration [g] = x*0.122/1000
-- angular rate [dps] = x*35/1000
+- angular rate [dps] = x*1
 - magnetic field strength [gauss] = x/6842
 
 
@@ -41,7 +41,7 @@ I have included annotation lines for the deploy vote window of the SRP board, to
 - The accelerometer data appears to have clipped during the propulsive phase
 - The gyroscope data appears to have clipped a few times during tumbling after separation
 - The magnetometer data looks sensible, as during ascent the rocket rolls about 1.5 revolutions, where the magnetic field in x and y varies sinusoidally with a peak-to-peak amplitude of 0.55 gauss, a value that is comparable to the earth magnetic field intensity
-
+- The gyroscope data matches the observations from the magnetometer now: I discovered that the flight computer logged the already converted angular velocity from the sensor instead of the raw data. This means that the conversion factor of *35/1000 was already applied to the logged data, and applying it another time during post-processing produced non-matching results.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
