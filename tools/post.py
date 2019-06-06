@@ -90,14 +90,15 @@ def calculate_heading(mag_list):
     """Calculates the heading for the ascent only, as only then the data is interesting/processable"""
     # setup and array creation
     launchtime = get_state_transitions(log)[3][0]
-    usable_time = 60  # number of seconds after launch that are usable for heading calculations
+    sine_wave_time = 7  # number of seconds after launch that are usable for heading zeroing
     mag = np.array([m[2] for m in mag_list])
     times = np.array([m[1] for m in mag_list])
     before_launch = np.array([m for m,t in zip(mag,times) if t<launchtime])
-    timeframe_of_interest = np.array([m for m,t in zip(mag,times) if launchtime<t<launchtime+usable_time])
-    times_toi = np.array([t for t in times if launchtime < t < launchtime + usable_time])
+    timeframe_for_calibration = np.array([m for m,t in zip(mag,times) if launchtime<t<launchtime+sine_wave_time])
+    timeframe_of_interest = np.array([m for m,t in zip(mag,times) if launchtime<t])  # ugly, but it works
+    times_toi = np.array([t for t in times if launchtime<t])
     # calculation of offsets and zero values
-    offsets = np.array([(max(axis)+min(axis))/2 for axis in timeframe_of_interest.transpose()])
+    offsets = np.array([(max(axis)+min(axis))/2 for axis in timeframe_for_calibration.transpose()])
     before_launch_zeroed = before_launch-offsets
     timeframe_of_interest_zeroed = timeframe_of_interest-offsets
     heading_zero = np.mean([np.arctan2(b[0],b[1]) for b in before_launch_zeroed])
